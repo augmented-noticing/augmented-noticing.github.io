@@ -285,8 +285,9 @@
 
   function renderDrawer(w) {
     const tagRow = rq => (w.tags?.[rq] || []).map(t => { const v = state.vocabById[t]; return v ? `<span class="tag" data-rq="${rq}" data-tag="${t}" title="${esc(v.zh || '')}">${esc(v.label)}</span>` : ''; }).join('');
+    const rank = a => (a.status || '').startsWith('peer-annotation') ? 0 : a.status === 'contributor' ? 1 : 2;
     const anns = annotationsFor(w.id).filter(a => a.status !== 'researcher-generated')
-      .sort((a, b) => (a.timestamp || 'zz').localeCompare(b.timestamp || 'zz'));
+      .sort((a, b) => rank(a) - rank(b) || (a.rq || '').localeCompare(b.rq || '') || (a.timestamp || '').localeCompare(b.timestamp || ''));
     const annHtml = anns.map(renderAnn).join('');
     const src = (w.sources || []).map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)} ↗</a>`).join('');
     const img = w.image?.file ? `<img class="d-img" src="${esc(w.image.file)}" alt="${esc(w.title)}"><div class="d-credit">Image: ${esc(w.image.credit || 'source page')}${w.image.page_url ? ` · <a href="${esc(w.image.page_url)}" target="_blank" rel="noopener">source ↗</a>` : ''} · permission ${esc(w.image.permission || 'unverified')}</div>` : '';
@@ -336,9 +337,9 @@
     });
     try { const nm = localStorage.getItem('an.name'); if (nm) $('#ann-form [name=annotator]').value = nm; } catch { /* ignore */ }
   }
-  const STATUS_LABEL = { 'practitioner-dialogue-provisional': 'dialogue · provisional', contributor: 'contributor', 'researcher-generated': 'researcher-generated' };
+  const STATUS_LABEL = { 'practitioner-dialogue-provisional': 'dialogue · provisional', 'peer-annotation-draft': 'peer · draft', 'peer-annotation': 'peer', contributor: 'contributor', 'researcher-generated': 'researcher-generated' };
   function renderAnn(a) {
-    const prov = a.status === 'practitioner-dialogue-provisional';
+    const prov = a.status === 'practitioner-dialogue-provisional' || a.status === 'peer-annotation-draft';
     const tags = (a.tags || []).map(t => state.vocabById[t]).filter(Boolean).map(v => `<span class="tag" title="${esc(v.zh || '')}">${esc(v.label)}</span>`).join('');
     return `<div class="ann ${esc(a.rq || '')} ${a.indirect ? 'indirect' : ''}">
       <div class="ann-head"><span class="avatar" style="background:${colorFor(a.annotator)}">${initials(a.annotator)}</span><span class="who">${esc(a.annotator)}</span>${a.role ? `<span>· ${esc(a.role)}</span>` : ''}<span class="rq">${esc((a.rq || '').toUpperCase())}</span>${a.timestamp ? `<span class="ts">${esc(a.timestamp)}</span>` : ''}${a.date && !a.timestamp ? `<span>· ${esc(a.date)}</span>` : ''}<span class="status ${prov ? 'prov' : ''}" title="${esc(a.source || '')}">${esc(STATUS_LABEL[a.status] || a.status || '')}${a.speaker_confidence === 'low' ? ' · speaker uncertain' : ''}</span>${a.local ? `<button class="del" data-del="${esc(a.id)}" title="Remove this note from your browser">remove</button>` : ''}</div>
@@ -347,6 +348,7 @@
       ${a.gist ? `<div class="gist">${esc(a.gist)}</div>` : ''}
       ${a.verification_note ? `<div class="verify">Verify before citing: ${esc(a.verification_note)}</div>` : ''}
       ${a.zh ? `<details><summary>原文 (ASR transcript)</summary><div class="zh">${esc(a.zh)}</div></details>` : ''}
+      ${a.sources && a.sources.length ? `<details><summary>sources consulted (${a.sources.length})</summary><div class="zh">${a.sources.map(s => /^https?:/.test(s) ? `<a href="${esc(s)}" target="_blank" rel="noopener">${esc(s)}</a>` : `<code>${esc(s)}</code>`).join('<br>')}</div></details>` : ''}
       ${tags ? `<div class="tagrow">${tags}</div>` : ''}</div>`;
   }
   function buildDialogueList() {
