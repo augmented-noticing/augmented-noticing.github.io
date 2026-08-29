@@ -35,7 +35,7 @@
     const [portfolio, vocab, ann] = await Promise.all([
       get('data/portfolio.json'), get('data/tag_vocabulary.json'), get('data/annotations.json').catch(() => []),
     ]);
-    state.works = portfolio.works; state.clusters = portfolio.clusters;
+    state.works = portfolio.works; state.clusters = portfolio.clusters; state.layoutVersion = portfolio.layout_version;
     state.works.forEach(w => state.byId.set(w.id, w));
     state.vocab = vocab;
     RQ.forEach(rq => (vocab[rq] || []).forEach(t => { state.vocabById[t.id] = { ...t, rq }; }));
@@ -43,7 +43,9 @@
     try { state.localAnnotations = JSON.parse(localStorage.getItem(LS_ANN) || '[]'); } catch { state.localAnnotations = []; }
     try {
       const pos = JSON.parse(localStorage.getItem(LS_POS) || '{}');
-      state.works.forEach(w => { if (pos[w.id]) { w.x = pos[w.id].x; w.y = pos[w.id].y; } });
+      // Saved drag positions only apply to the layout they were made on; a new default layout discards them.
+      if (pos.__v === state.layoutVersion) state.works.forEach(w => { if (pos[w.id]) { w.x = pos[w.id].x; w.y = pos[w.id].y; } });
+      else localStorage.removeItem(LS_POS);
     } catch { /* ignore */ }
   }
   const allAnnotations = () => state.annotations.concat(state.localAnnotations);
@@ -87,7 +89,7 @@
       });
     });
     const facetDefs = {
-      layer: [['existing_core', 'Core 25'], ['new_candidate', 'Expanded 25']],
+      layer: [['existing_core', 'Core portfolio'], ['new_candidate', 'Expanded portfolio'], ['dialogue_addition', 'Dialogue additions']],
       practice: state.clusters.map(c => [c.key, c.label]),
       grade: [...new Set(state.works.map(w => w.grade))].sort(),
       recommendation: [...new Set(state.works.map(w => w.recommendation))].sort(),
@@ -156,8 +158,9 @@
     const img = w.image?.file ? `<img class="card-img" src="${esc(w.image.file)}" alt="${esc(w.title)}" loading="lazy" draggable="false">`
       : `<div class="card-img is-missing">no image on file</div>`;
     const notes = RQ.map(rq => `<div class="note ${rq}"><b>${rq.toUpperCase()}</b>${esc(w.short?.[rq] || w[rq])}</div>`).join('');
-    const who = annotatorsFor(w.id).map(a => `<span class="avatar" style="background:${colorFor(a)}" title="${esc(a)}">${initials(a)}</span>`).join('');
-    const n = annotationsFor(w.id).length;
+    const extra = annotationsFor(w.id).filter(a => a.status !== 'researcher-generated');
+    const who = [...new Set(extra.map(a => a.annotator))].map(a => `<span class="avatar" style="background:${colorFor(a)}" title="${esc(a)}">${initials(a)}</span>`).join('');
+    const n = extra.length;
     el.innerHTML = `${img}
       <div class="card-body">
         <div class="card-head"><span class="card-id ${w.layer === 'existing_core' ? 'core' : ''}">${w.id} · ${w.matrix_id}</span><span class="card-grade" title="Evidence grade">${esc(w.grade)}</span></div>
@@ -165,7 +168,7 @@
         <div class="card-meta">${esc(w.creators)} · ${esc(w.year_short || w.year)}</div>
       </div>
       <div class="card-notes">${notes}</div>
-      <div class="card-foot">${who}<span class="n-notes">${n} annotation${n === 1 ? '' : 's'}</span></div>`;
+      <div class="card-foot">${who}<span class="n-notes">${n ? `${n} annotation${n === 1 ? '' : 's'}` : 'no annotations yet'}</span></div>`;
     return el;
   }
 
@@ -178,7 +181,8 @@
       el.classList.toggle('is-selected', state.selected === w.id);
     });
     const n = state.works.filter(matches).length;
-    $('#status-count').textContent = filtering ? `${n} of ${state.works.length} works highlighted` : `${state.works.length} works · ${allAnnotations().length} annotations`;
+    const nAnn = allAnnotations().filter(a => a.status !== 'researcher-generated').length;
+    $('#status-count').textContent = filtering ? `${n} of ${state.works.length} works highlighted` : `${state.works.length} works · ${nAnn} annotation${nAnn === 1 ? '' : 's'}`;
   }
 
   function fitAll(pad = 60) {
@@ -261,7 +265,7 @@
   canvas.addEventListener('pointerup', endTouch); canvas.addEventListener('pointercancel', endTouch);
 
   function savePositions() {
-    const pos = {}; state.works.forEach(w => (pos[w.id] = { x: w.x, y: w.y }));
+    const pos = { __v: state.layoutVersion }; state.works.forEach(w => (pos[w.id] = { x: w.x, y: w.y }));
     try { localStorage.setItem(LS_POS, JSON.stringify(pos)); } catch { /* ignore */ }
   }
   function resetLayout() {
@@ -281,15 +285,14 @@
 
   function renderDrawer(w) {
     const tagRow = rq => (w.tags?.[rq] || []).map(t => { const v = state.vocabById[t]; return v ? `<span class="tag" data-rq="${rq}" data-tag="${t}" title="${esc(v.zh || '')}">${esc(v.label)}</span>` : ''; }).join('');
-    const anns = annotationsFor(w.id).filter(a => a.status !== 'researcher-generated');
-    const annHtml = anns.map(a => `<div class="ann">
-        <div class="ann-head"><span class="avatar" style="background:${colorFor(a.annotator)}">${initials(a.annotator)}</span><span class="who">${esc(a.annotator)}</span>${a.role ? `<span>· ${esc(a.role)}</span>` : ''}<span class="rq">${esc((a.rq || '').toUpperCase())}</span>${a.date ? `<span>· ${esc(a.date)}</span>` : ''}${a.local ? `<button class="del" data-del="${esc(a.id)}" title="Remove this note from your browser">remove</button>` : ''}</div>
-        <div>${md(a.text)}</div></div>`).join('');
+    const anns = annotationsFor(w.id).filter(a => a.status !== 'researcher-generated')
+      .sort((a, b) => (a.timestamp || 'zz').localeCompare(b.timestamp || 'zz'));
+    const annHtml = anns.map(renderAnn).join('');
     const src = (w.sources || []).map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)} ↗</a>`).join('');
     const img = w.image?.file ? `<img class="d-img" src="${esc(w.image.file)}" alt="${esc(w.title)}"><div class="d-credit">Image: ${esc(w.image.credit || 'source page')}${w.image.page_url ? ` · <a href="${esc(w.image.page_url)}" target="_blank" rel="noopener">source ↗</a>` : ''} · permission ${esc(w.image.permission || 'unverified')}</div>` : '';
     $('#drawer-inner').innerHTML = `
       <button class="btn d-close" id="d-close">Close ✕</button>
-      <div class="d-eyebrow"><span class="${w.layer === 'existing_core' ? 'core' : ''}">${w.id} · ${w.matrix_id} · ${w.layer === 'existing_core' ? 'core portfolio' : 'expanded portfolio'}</span><span>grade ${esc(w.grade)}</span><span>${esc(w.recommendation.replace(/_/g, ' '))}</span></div>
+      <div class="d-eyebrow"><span class="${w.layer === 'existing_core' ? 'core' : ''}">${w.id} · ${w.matrix_id} · ${({ existing_core: 'core portfolio', new_candidate: 'expanded portfolio', dialogue_addition: 'dialogue addition' })[w.layer] || w.layer}</span><span>grade ${esc(w.grade)}</span><span>${esc(w.recommendation.replace(/_/g, ' '))}</span></div>
       <h2 class="d-title">${esc(w.title)}</h2>
       <div class="d-creators">${esc(w.creators)} · ${esc(w.year)}</div>
       ${img}
@@ -333,6 +336,31 @@
     });
     try { const nm = localStorage.getItem('an.name'); if (nm) $('#ann-form [name=annotator]').value = nm; } catch { /* ignore */ }
   }
+  const STATUS_LABEL = { 'practitioner-dialogue-provisional': 'dialogue · provisional', contributor: 'contributor', 'researcher-generated': 'researcher-generated' };
+  function renderAnn(a) {
+    const prov = a.status === 'practitioner-dialogue-provisional';
+    const tags = (a.tags || []).map(t => state.vocabById[t]).filter(Boolean).map(v => `<span class="tag" title="${esc(v.zh || '')}">${esc(v.label)}</span>`).join('');
+    return `<div class="ann ${esc(a.rq || '')} ${a.indirect ? 'indirect' : ''}">
+      <div class="ann-head"><span class="avatar" style="background:${colorFor(a.annotator)}">${initials(a.annotator)}</span><span class="who">${esc(a.annotator)}</span>${a.role ? `<span>· ${esc(a.role)}</span>` : ''}<span class="rq">${esc((a.rq || '').toUpperCase())}</span>${a.timestamp ? `<span class="ts">${esc(a.timestamp)}</span>` : ''}${a.date && !a.timestamp ? `<span>· ${esc(a.date)}</span>` : ''}<span class="status ${prov ? 'prov' : ''}" title="${esc(a.source || '')}">${esc(STATUS_LABEL[a.status] || a.status || '')}${a.speaker_confidence === 'low' ? ' · speaker uncertain' : ''}</span>${a.local ? `<button class="del" data-del="${esc(a.id)}" title="Remove this note from your browser">remove</button>` : ''}</div>
+      ${a.indirect && a.work_name ? `<div class="gist">Said about ${esc(a.work_name)}; also relevant here.</div>` : ''}
+      <div>${md(a.text)}</div>
+      ${a.gist ? `<div class="gist">${esc(a.gist)}</div>` : ''}
+      ${a.verification_note ? `<div class="verify">Verify before citing: ${esc(a.verification_note)}</div>` : ''}
+      ${a.zh ? `<details><summary>原文 (ASR transcript)</summary><div class="zh">${esc(a.zh)}</div></details>` : ''}
+      ${tags ? `<div class="tagrow">${tags}</div>` : ''}</div>`;
+  }
+  function buildDialogueList() {
+    const box = $('#dialogue-list'); if (!box) return; box.innerHTML = '';
+    const general = allAnnotations().filter(a => !a.work && a.status !== 'researcher-generated');
+    if (!general.length) { box.innerHTML = '<p class="side-hint">No general dialogue notes yet.</p>'; return; }
+    const groups = [['general', 'Framing and theory'], ['rq1', RQ_LABEL.rq1], ['rq2', RQ_LABEL.rq2], ['rq3', RQ_LABEL.rq3]];
+    groups.forEach(([rq, title]) => {
+      const rows = general.filter(a => (a.rq || 'general') === rq).sort((a, b) => (a.timestamp || '').localeCompare(b.timestamp || ''));
+      if (!rows.length) return;
+      const h = document.createElement('div'); h.className = 'dl-group'; h.textContent = `${title} · ${rows.length}`; box.appendChild(h);
+      const wrap = document.createElement('div'); wrap.innerHTML = rows.map(renderAnn).join(''); box.appendChild(wrap);
+    });
+  }
   function persistLocal() { try { localStorage.setItem(LS_ANN, JSON.stringify(state.localAnnotations)); } catch { /* ignore */ } }
   function exportLocal() {
     const blob = new Blob([JSON.stringify(state.localAnnotations.map(({ local, ...a }) => a), null, 2)], { type: 'application/json' });
@@ -340,7 +368,7 @@
   }
 
   // ---------- wiring ----------
-  function rebuildAll() { buildChips(); buildCanvas(); renderSidebar(); renderCanvas(); }
+  function rebuildAll() { buildChips(); buildCanvas(); buildDialogueList(); renderSidebar(); renderCanvas(); }
   function render() { renderSidebar(); renderCanvas(); }
 
   function wire() {
@@ -368,6 +396,7 @@
 
   load().then(() => {
     state.works.forEach(w => { w.x0 = w.x0 ?? w.x; w.y0 = w.y0 ?? w.y; });
+    $('.brand-sub').textContent = `Annotated portfolio · ${state.works.length} more-than-human design works`;
     wire(); buildWorkList(); rebuildAll(); fitAll();
     const h = location.hash.replace('#', '');
     if (h && state.byId.has(h)) { select(h); flyTo(state.byId.get(h)); }

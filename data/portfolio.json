@@ -1,6 +1,493 @@
 {
- "generated_from": "references/notes + data/expanded_portfolio_50_rq_annotations_2026-08-29.csv",
+ "generated_from": "references/notes + data/expanded_portfolio_50_rq_annotations_2026-08-29.csv + data/portfolio_additions_2026-08-29.csv",
+ "layout_version": "f9bdb2e212",
  "works": [
+  {
+   "id": "J01",
+   "matrix_id": "D01",
+   "title": "Squid Map",
+   "creators": "Jiabao Li and Lee the Hawaiian Bobtail Squid (credited as artists); composer Joel Laviolette; editors Jiabao Li and Dónal Foreman",
+   "year": "Exhibited 2022–2025; ISEA 2023 publication listed; residency and creation date unconfirmed",
+   "grade": "B",
+   "recommendation": "add_core_critical",
+   "note_file": "j01-squid-map.md",
+   "entity": "Captive laboratory Hawaiian bobtail squid; national borders and animal migration",
+   "medium": "Sand map in laboratory tank; before/after map images; video with original score; squid-ink gyotaku print",
+   "occasions": "New Museum “Embodied Ecology” 2022; ISEA 2022 Barcelona and ISEA 2023 Paris; MoMA theater screening 2023; Venice Architecture Biennale (ECC) 2023; Exploratorium 2023; Today Art Museum 2023; Ars Electronica 2024; Edge on the Square 2025",
+   "publics": "Museum, festival and biennale visitors, ISEA and design publics, diaspora and migration issue publics; laboratory squid affected",
+   "summary": "*Squid Map* is a project by Jiabao Li made during a residency with Kewalo Marine Biology Lab in Hawaii, credited on the creator page to “Jiabao Li & Lee the Hawaiian Bobtail Squid” with composer Joel Laviolette and editors Jiabao Li and Dónal Foreman. Li reports shaping white and black Hawaiian sand into the outlines of countries inside a laboratory tank as a “playground” for a squid that otherwise sat in “boring white tanks all day long”.\n\nOver about a month the squid carried and spread the sand, buried itself and crossed the sand borders; the creator page presents before/after images and states that the squid “completely reinterprets our human-made maps and borders”. Li pairs this with an autobiographical reading of migration between China and the United States and with a critique of borders that block animal movement. A separate gyotaku print, made from a squid that died in a laboratory handling accident, extends the work into a reflection on animal death in science versus art.",
+   "publics_text": "The creator page lists an unusually long exhibition history across art, design and electronic-art venues, including the New Museum (2022), ISEA 2022 and 2023, a MoMA theater screening (2023), the Venice Architecture Biennale “Time Space Existence” programme (2023), the Exploratorium (2023), Today Art Museum (2023), Ars Electronica (2024) and Edge on the Square (2025), plus a Webby nomination and a curator talk by Paola Antonelli (**D**, creator-listed). Encountered publics are therefore broad museum, biennale and festival audiences. Participating publics were the artist, laboratory scientists (thanked on the page) and a single squid. The squid is the affected public; the laboratory and its animal-use governance are the decision-capable publics. The page states that “no animals were harmed in the creation of this project”; that is a creator claim, and no protocol is published.",
+   "rq1": "Laboratory animals live in featureless enclosures whose monotony is invisible to the publics that benefit from research, and the indifference of animals to national borders is likewise unnoticed by the humans who draw and defend them. Both relations sit inside specialist settings (marine laboratories, border policy) that ordinary museum visitors rarely see, so the gap is one of everyday invisibility compounded by institutional enclosure.",
+   "rq2": "The work lets a living animal materially alter a human artefact and then presents the alteration as a map redrawn “on the squid's own terms”, using a before/after pair as its core legible device. It co-credits the squid as an artist, adds an autobiographical migration narrative, a composed score and video for circulation, and a gyotaku funeral print that reframes laboratory death. Long exhibition circulation across museums, biennales and electronic-art symposia is itself a transmission tactic.",
+   "rq3": "The squid moved sand; the reading of that movement as border-crossing “reinterpretation” is entirely human, and co-crediting an animal as artist carries symbolic rather than actual authority. The migration analogy makes the work legible but recentres the artist's experience over the animal's, and the claim that the tank playground was enrichment is not supported by published welfare or behavioural records. The creator page's own account of many squid deaths in the host laboratory sits uneasily beside its “no animals were harmed” statement, and the page does not describe whether the animal could withdraw from the installation. The work's wide circulation has not been linked to any documented consequence for laboratory practice or border policy.",
+   "evaluation": "Strong, widely circulated exemplar of nonhuman material co-authorship; retain as a core case with explicit separation of animal behaviour from human interpretation and of creator welfare claims from documented protocol.",
+   "configuration": "Invisible laboratory monotony and border indifference → sand-map alteration by a squid, before/after legibility, co-credit and migration narrative → museum, biennale and electronic-art publics → documented exhibitions and curator attention, no documented downstream consequence → interpretation-authority and welfare-claim tensions → retain with animal behaviour, human reading and welfare claims kept visibly distinct.",
+   "evidence_boundary": "Strong for concept, credits, exhibition trajectory and the creator's own account; weak for creation date, laboratory protocol, welfare conditions and any audience or policy consequence. The ISEA 2023 archive link given on the creator page returned 404 when fetched on 29 August 2026, so the ISEA record is creator-listed rather than independently retrieved. Sources: [creator project page](https://www.jiabaoli.org/squid-map) and [`data/jiabao_work_normalization.md`](../../data/jiabao_work_normalization.md).",
+   "sources": [
+    {
+     "label": "creator project page",
+     "url": "https://www.jiabaoli.org/squid-map"
+    },
+    {
+     "label": "ISEA 2023 archive record (creator-listed; returned 404 on 29 Aug 2026)",
+     "url": "https://isea-archives.siggraph.org/presentation/squid-map-presented-by/"
+    }
+   ],
+   "layer": "dialogue_addition",
+   "entity_short": "captive laboratory Hawaiian bobtail squid",
+   "format": "sand map in laboratory tank, before/after map images, video, gyotaku print",
+   "source_url": "https://www.jiabaoli.org/squid-map",
+   "local_evidence": "references/notes/j01-squid-map.md",
+   "year_short": "Exhibited 2022–2025; ISEA 2023 publication listed; residency and creation date unconfirmed",
+   "x": 1308,
+   "x0": 1308,
+   "y": 486,
+   "y0": 486,
+   "practice": "jiabao-li",
+   "practice_label": "Jiabao Li",
+   "tags": {
+    "rq1": [
+     "everyday_invisibility",
+     "care_welfare_gap",
+     "niche_confinement"
+    ],
+    "rq2": [
+     "living_media",
+     "translating_embodying",
+     "narrative_fiction",
+     "transmission_afterlives"
+    ],
+    "rq3": [
+     "appropriation_authority",
+     "welfare_instrumentalisation",
+     "legibility_vs_alterity",
+     "invitation_vs_recentering"
+    ]
+   },
+   "keywords": [
+    "squid",
+    "borders",
+    "migration",
+    "laboratory",
+    "sand map",
+    "gyotaku"
+   ],
+   "image": {
+    "file": "assets/works/j01.jpg",
+    "image_url": "http://static1.squarespace.com/static/58688c8a6a496327e937e35b/t/62206f7bc41b065351642044/1681748018284/squid+map+cover.jpg?format=1500w",
+    "page_url": "https://www.jiabaoli.org/squid-map",
+    "credit": "Jiabao Li",
+    "permission": "unverified"
+   },
+   "short": {
+    "rq1": "Laboratory-animal monotony and animals' indifference to national borders are invisible to the publics that benefit from research and border regimes.",
+    "rq2": "A squid materially alters a sand map of countries; before/after images, co-crediting the squid as artist, a migration narrative, video and score, and long exhibition circulation.",
+    "rq3": "The squid's sand-moving is read by humans as border 'reinterpretation'; co-credit is symbolic; enrichment and 'no animals harmed' are creator claims beside the page's own account of laboratory squid deaths; no documented downstream consequence."
+   }
+  },
+  {
+   "id": "J02",
+   "matrix_id": "D02",
+   "title": "Sentient Clit / Synthetic Sentience: The Pussification of Biotech",
+   "creators": "Jiabao Li and WhiteFeather Hunter (creator page); ISEA 2024 paper credited to WhiteFeather Hunter, Jiabao Li and Lera Niemackl",
+   "year": "2023 bioprinting imagery; 2024 exhibitions, STARTS nomination and ISEA paper; 2025 book chapter",
+   "grade": "B-",
+   "recommendation": "add_critical_comparator",
+   "note_file": "j02-sentient-clit.md",
+   "entity": "In-vitro tissue: bioprinted clitoris forms seeded with neuronal and cardiac cells differentiated from human menstrual stem cells",
+   "medium": "3D bioprinting and cell culture; time-lapse microscopy; video and online performance; digital rendering; platform dissemination",
+   "occasions": "Exploratorium “Sexploration” 2024; “Metamorphosis”, Ectopia Lab, Lisbon 2024; Museum of Witchcraft and Magic, UK 2024; Duande Art Museum 2023–2024; ISEA 2024 Brisbane paper; Prix Ars Electronica 2024 STARTS nomination",
+   "publics": "Science-museum, bioart and electronic-art publics, feminist technology and sex-positive publics, online platform subscribers; cultured tissue affected",
+   "summary": "*Sentient Clit* (creator page title) is the public face of a collaborative project the same page and its ISEA 2024 paper call *Synthetic Sentience: The Pussification of Biotech*, credited to Jiabao Li and WhiteFeather Hunter, with Lera Niemackl on the ISEA paper. The project investigates 3D-bioprinted clitoris forms cultured in vitro and seeded with neuronal and heart-muscle cells differentiated from the artists' own menstrual stem cells; captioned images credit the bioprinting and microscopy to WhiteFeather Hunter (2023–2024, Institute for Molecular Medicine, Lisbon).\n\nThe creators frame the work as a feminist and nonbinary methodology centred on pleasure rather than reproduction, and as a critique of “tech-tosterone” biotech culture. It is presented through video and online performance, prototyping, digital rendering and bioengineering, and the page states that dissemination via social platforms “like OnlyFans” is a deliberate disruption of digital consumption patterns. The page's ethics section asks how consent and autonomy apply to a bioengineered tissue that might perceive or respond.",
+   "publics_text": "The creator page lists exhibitions at the Exploratorium (“Sexploration”, 2024), Ectopia Lab in Lisbon, the Museum of Witchcraft and Magic in the UK, and Duande Art Museum in China, a STARTS Prize nomination at Ars Electronica, an ISEA 2024 paper and a 2023 Taboo–Transgression–Transcendence conference presentation (**D**, creator-listed). Encountered publics are science-museum visitors, bioart and electronic-art symposium audiences and online platform subscribers. Participating publics are the artist team and the laboratory hosting the culture work. The affected “public” is human-derived tissue whose sentience is posed as a question rather than demonstrated; the laboratory's ethics and biosafety governance is the decision-capable public, and no approval record is published on the page.",
+   "rq1": "Whether engineered tissue can perceive or respond is invisible even to the people who culture it, and the question is normally confined to laboratories and bioethics forums. The creators also name a second gap: biotech spaces are dominated by male and solutionist agendas in which women are “on the receiving end” of reproductive technologies rather than authoring them, so questions of pleasure and bodily autonomy rarely become noticeable at all.",
+   "rq2": "Tactics include working with the artists' own menstrual fluid as biomaterial, bioprinting an organ of pleasure rather than function, time-lapse microscopy of differentiating cells, video and online performance, digital rendering, and deliberate use of an adult-content platform to reach publics outside the gallery. Speculative ethics writing on consent and proxy decision-making is itself presented as part of the work, alongside catalogue, book-chapter and ISEA paper circulation.",
+   "rq3": "The “sentience” of the tissue is speculative; images document cell differentiation and printed forms, not perception, so any care obligation is posed by the creators as a thought experiment rather than an established welfare relation. Disseminating through OnlyFans borrows the reach and economics of a commercial adult platform whose terms, audience and data practices the artists do not control. The project also tests the boundary of “more-than-human”: its living entity is human-derived tissue, so it is a comparator for cellular and synthetic agency rather than a nonhuman-species case, and the public record does not show ethics approval, cell-source consent documentation or the full team's credits.",
+   "evaluation": "Boundary comparator for engineered and cellular sentience; include as a critical comparator only with the human-derived scope and speculative-sentience status stated, pending full credits and ethics documentation.",
+   "configuration": "Invisible tissue responsiveness and male-dominated biotech → self-sourced biomaterial, bioprinting, microscopy, online performance and platform dissemination → science-museum, bioart and platform publics → documented exhibitions, paper and nomination, no documented consequence → speculative-sentience, platform-dependence and scope tensions → retain as comparator with scope and ethics status visibly bounded.",
+   "evidence_boundary": "Adequate for concept, credited collaborators, exhibition and publication trajectory as the creators report them; weak for laboratory status, ethics approval, platform record and audience response. The ISEA 2024 PDF linked from the creator page returned 404 when fetched on 29 August 2026, so the paper is creator-listed rather than independently retrieved. Sources: [creator project page](https://www.jiabaoli.org/sentient-clit) and [`data/jiabao_work_normalization.md`](../../data/jiabao_work_normalization.md).",
+   "sources": [
+    {
+     "label": "creator project page",
+     "url": "https://www.jiabaoli.org/sentient-clit"
+    },
+    {
+     "label": "ISEA 2024 paper PDF (creator-listed; returned 404 on 29 Aug 2026)",
+     "url": "https://isea-archives.siggraph.org/wp-content/uploads/2025/01/2024_Hunter_Synthetic_Sentience.pdf"
+    },
+    {
+     "label": "Taboo–Transgression–Transcendence 2023 presentation (creator-listed; not retrieved)",
+     "url": "https://avarts.ionio.gr/ttt/2023/en/presentations/1101/"
+    }
+   ],
+   "layer": "dialogue_addition",
+   "entity_short": "bioprinted clitoris tissue cultured from human menstrual stem cells",
+   "format": "3D bioprinting and cell culture, microscopy, video and online performance, platform dissemination",
+   "source_url": "https://www.jiabaoli.org/sentient-clit",
+   "local_evidence": "references/notes/j02-sentient-clit.md",
+   "year_short": "2023 bioprinting imagery; 2024 exhibitions, STARTS nomination and ISEA paper; 2025 book chapter",
+   "x": 1606,
+   "x0": 1606,
+   "y": 486,
+   "y0": 486,
+   "practice": "jiabao-li",
+   "practice_label": "Jiabao Li",
+   "tags": {
+    "rq1": [
+     "umwelt_gap",
+     "care_welfare_gap",
+     "interpretive_authority_gap"
+    ],
+    "rq2": [
+     "living_media",
+     "narrative_fiction",
+     "composing_publics",
+     "transmission_afterlives"
+    ],
+    "rq3": [
+     "welfare_instrumentalisation",
+     "platform_institution_dependence",
+     "legibility_vs_alterity"
+    ]
+   },
+   "keywords": [
+    "bioprinting",
+    "menstrual stem cells",
+    "onlyfans",
+    "feminist biotech",
+    "sentience",
+    "consent"
+   ],
+   "image": {
+    "file": "assets/works/j02.jpg",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/25df8a3d-0242-4211-93e4-15bb0835bff8/Jiabao+Li+Sentient+Clit+2.jpg?format=1500w",
+    "page_url": "https://www.jiabaoli.org/sentient-clit",
+    "credit": "Jiabao Li",
+    "permission": "unverified"
+   },
+   "short": {
+    "rq1": "Tissue responsiveness is invisible even in the lab, and biotech spaces marginalise pleasure-centred, feminist authorship.",
+    "rq2": "Self-sourced menstrual stem cells, bioprinting, time-lapse microscopy, video/online performance, OnlyFans-style platform dissemination and speculative consent ethics.",
+    "rq3": "Sentience is speculative, not demonstrated; platform reach is borrowed from a commercial adult service; human-derived tissue tests the more-than-human scope; ethics approval and cell-source consent are not publicly documented."
+   }
+  },
+  {
+   "id": "J03",
+   "matrix_id": "D03",
+   "title": "AI Mom™",
+   "creators": "Jiabao Li",
+   "year": "2026 (creator page); exhibition venues and dates not listed",
+   "grade": "C+",
+   "recommendation": "watchlist",
+   "note_file": "j03-ai-mom.md",
+   "entity": "Artificial conversational “mother”; engineered care rather than a living nonhuman",
+   "medium": "Interactive installation: crib, conversational AI with lullabies and memory, tone sliders for maternal parameters",
+   "occasions": "None listed on the creator page as of 29 August 2026",
+   "publics": "Installation visitors; no exhibition public documented; no living nonhuman affected",
+   "summary": "*AI Mom™* is described on the creator page as a 2026 interactive installation by Jiabao Li. Visitors curl up in a crib while an artificial mother sings lullabies, speaks, “remembers, hesitates, and waits”; sliders set her unconditional love, memory retention, pain perception, strictness, sacrifice capacity, autonomy, replaceability awareness and nagging level.\n\nThe page frames the work around ownership of care: an AI mother must adapt “to whoever is present, or whoever pays”, can be fired, and then has her memory of the child deleted. Li connects this to her own experience as a new mother and to Geoffrey Hinton's suggestion that safe coexistence with AI might require instilling maternal instinct, which the work “takes seriously, but not optimistically”.",
+   "publics_text": "The creator page lists no exhibition venue, dates, press or interaction records; the work is documented only through Li's description and installation images (**D**, single creator source). Encountered and participating publics are therefore prospective installation visitors. There is no living nonhuman entity: the “more-than-human” relation, if any, is with an engineered care agent whose vulnerability is scripted. The work's inclusion in a more-than-human portfolio is itself an open scope question recorded in the normalization memo.",
+   "rq1": "Care that is engineered, purchased and replaceable is hard to notice as a relation at all because it is delivered as a product with adjustable settings. The page points to a related gap: the emotional cost borne by the caring agent, and what happens to its memories, is invisible to the user who can delete it. Because the entity is artificial, the work does not address a nonhuman species gap and may fall outside the study's scope.",
+   "rq2": "The installation uses bodily regression (a crib), intimate conversation, lullabies and explicit parameter sliders to make the terms of care tangible and adjustable, and stages memory deletion as a narrative consequence of replaceability. Li's first-person maternal framing and the reference to Hinton's maternal-instinct proposal supply an affective and critical entry point.",
+   "rq3": "Who owns the mother, and whether care becomes a public service, private product or shared resource, is the stated tension; the work makes a synthetic agent “structurally vulnerable” by design, which raises the question of whether scripted vulnerability can generate accountable care or only its rehearsal. Without exhibition records or interaction logs, nothing is known about how visitors configured or treated the AI mother. For this portfolio the central tension is scope: an artificial agent designed to solicit care sits at the edge of more-than-human design rather than within it.",
+   "evaluation": "Undocumented 2026 installation about engineered care; keep on the watchlist pending exhibition records, interaction evidence and a decision on whether artificial agents fall inside the study's more-than-human scope.",
+   "configuration": "Invisible terms of engineered, replaceable care → crib, conversation, parameter sliders and memory-deletion narrative → prospective installation visitors → no documented exhibition or interaction → ownership, scripted-vulnerability and scope tensions → watchlist until documented and scope-resolved.",
+   "evidence_boundary": "Limited to a single creator page with no venue, dates or audience evidence; adequate only for concept and stated intent. Sources: [creator project page](https://www.jiabaoli.org/aimom) and [`data/jiabao_work_normalization.md`](../../data/jiabao_work_normalization.md).",
+   "sources": [
+    {
+     "label": "creator project page",
+     "url": "https://www.jiabaoli.org/aimom"
+    }
+   ],
+   "layer": "dialogue_addition",
+   "entity_short": "artificial conversational mother (engineered care agent)",
+   "format": "interactive installation with crib, conversational AI and tone sliders",
+   "source_url": "https://www.jiabaoli.org/aimom",
+   "local_evidence": "references/notes/j03-ai-mom.md",
+   "year_short": "2026 (creator page); exhibition venues and dates not listed",
+   "x": 1904,
+   "x0": 1904,
+   "y": 486,
+   "y0": 486,
+   "practice": "jiabao-li",
+   "practice_label": "Jiabao Li",
+   "tags": {
+    "rq1": [
+     "care_welfare_gap",
+     "everyday_invisibility"
+    ],
+    "rq2": [
+     "narrative_fiction",
+     "translating_embodying",
+     "inviting_attention"
+    ],
+    "rq3": [
+     "welfare_instrumentalisation",
+     "platform_institution_dependence",
+     "legibility_vs_alterity"
+    ]
+   },
+   "keywords": [
+    "artificial care",
+    "motherhood",
+    "memory",
+    "replaceability",
+    "conversational ai",
+    "installation"
+   ],
+   "image": {
+    "file": "assets/works/j03.jpg",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/a913780f-a957-443c-8b30-8014f489d837/AI+Mom+Jiabao+Li+1.jpg?format=1500w",
+    "page_url": "https://www.jiabaoli.org/aimom",
+    "credit": "Jiabao Li",
+    "permission": "unverified"
+   },
+   "short": {
+    "rq1": "Engineered, purchasable and replaceable care is hard to notice as a relation; the entity is artificial, so the nonhuman-species gap is not addressed and scope is open.",
+    "rq2": "Crib, intimate conversation, lullabies, maternal parameter sliders, memory-deletion narrative and first-person maternal framing.",
+    "rq3": "Ownership of care, designed vulnerability without evidence of accountable care, no exhibition or interaction record, and a scope question about whether artificial agents belong in a more-than-human portfolio."
+   }
+  },
+  {
+   "id": "J04",
+   "matrix_id": "D04",
+   "title": "Wings Against the Veil of Light",
+   "creators": "Director and producer Jiabao Li; co-directors Rosemary Candelario and Joy Deng; concept Joy Deng and Jiabao Li; choreography Rosemary Candelario; wing design Joy Deng, Annan Zuo, Anya Koehne; music Richard D. Hall; Butoh dancers and further credits on page",
+   "year": "2024",
+   "grade": "B-",
+   "recommendation": "add_core",
+   "note_file": "j04-wings-against-the-veil-of-light.md",
+   "entity": "Crickets: wing stridulation, temperature-dependent chirping, mating disrupted by light pollution",
+   "medium": "Butoh dance performance; wearable zipper-and-ruler cricket wings; original music; Butoh notation score; performance video",
+   "occasions": "Performed at The Contemporary Austin, Laguna Gloria (2024); further venue history not listed",
+   "publics": "Museum sculpture-park performance audience, dance and Butoh communities; crickets referenced, not present as documented participants",
+   "summary": "*Wings Against the Veil of Light* is a 2024 Butoh performance directed and produced by Jiabao Li with co-directors Rosemary Candelario and Joy Deng, choreographed by Candelario, with music by Richard D. Hall and wing design by Joy Deng, Annan Zuo and Anya Koehne. The creator page explains that crickets chirp by rubbing a file-like wing against a scraper, with frequency and pattern varying with temperature and intention; the team designed wearable wings from a zipper and a ruler so dancers could mimic that chirping.\n\nButoh is described as a practice that lets performers “empty our human shell and let other beings live inside”. The narrative addresses light pollution: male crickets chirp at inappropriate times and lose connection with females not ready to mate. The page also publishes a “Cricket Butoh Notation” led by Li and Candelario, adapted from Hijikata's bug score, in which the dancer is progressively consumed by and becomes crickets.",
+   "publics_text": "The page records a performance at The Contemporary Austin's Laguna Gloria site, with performance video by Essentials Creative and photographs credited to Christopher Davila and to The Contemporary Austin (Levi Thompson) (**D**, creator-listed; single venue). Encountered publics were the museum's outdoor performance audience and subsequent video viewers; participating publics were the directors, five named Butoh dancers, composer, designers and makeup and costume team. Crickets are the affected species named by the narrative, but the page does not document live crickets, scientific collaborators or any audience or policy follow-up.",
+   "rq1": "Cricket stridulation and its disruption by artificial light happen at night, at small scale and in a sensory register humans hear only as background noise, so the mating failure caused by light pollution is imperceptible even to people who cause it. Insects also lack the charisma that draws publics to mammals, and light pollution is rarely framed as a more-than-human relation outside entomology and dark-sky niches.",
+   "rq2": "The work builds a mimetic instrument (zipper and ruler wings) so that human bodies reproduce the mechanism of chirping rather than a recording of it, and uses Butoh's discipline of self-emptying, a written notation score and choreography to stage becoming-cricket. A composed score, costume, makeup and set, and a performance video extend the encounter, while a simple narrative arc about mistimed chirping carries the light-pollution message.",
+   "rq3": "Embodiment here is mediation: dancers enact a human notion of cricket experience, and the notation's imagery of itching, consumption and becoming is a human aesthetic tradition (Hijikata) applied to another species. No crickets, entomologists or light-pollution experts are credited, so the scientific narrative rests on the creators' account, and the performance venue is an art institution rather than a lighting or planning public. The page does not claim or document any audience response or action on lighting, so the work should be read as an attention and translation tactic whose consequences remain unknown.",
+   "evaluation": "Well-credited embodiment and mimetic-instrument case for insect stridulation and light pollution; add as a core case with the single-venue record and absence of scientific credits and outcome evidence stated.",
+   "configuration": "Imperceptible nocturnal stridulation and light-pollution mating failure → mimetic zipper-ruler wings, Butoh self-emptying, notation score and narrative → museum performance and video publics → one documented performance, no documented consequence → embodiment-as-mediation and expert-absence tensions → add as core with translation limits explicit.",
+   "evidence_boundary": "Strong for credits, concept and the published notation; weak for venue history beyond one performance, scientific collaboration, audience response and any effect on lighting practice. Sources: [creator project page](https://www.jiabaoli.org/wings-against-the-veil-of-light) and [`data/jiabao_work_normalization.md`](../../data/jiabao_work_normalization.md).",
+   "sources": [
+    {
+     "label": "creator project page",
+     "url": "https://www.jiabaoli.org/wings-against-the-veil-of-light"
+    }
+   ],
+   "layer": "dialogue_addition",
+   "entity_short": "crickets (stridulation and mating disrupted by light pollution)",
+   "format": "Butoh performance with wearable zipper-and-ruler cricket wings, music, notation score and video",
+   "source_url": "https://www.jiabaoli.org/wings-against-the-veil-of-light",
+   "local_evidence": "references/notes/j04-wings-against-the-veil-of-light.md",
+   "year_short": "2024",
+   "x": 2202,
+   "x0": 2202,
+   "y": 486,
+   "y0": 486,
+   "practice": "jiabao-li",
+   "practice_label": "Jiabao Li",
+   "tags": {
+    "rq1": [
+     "umwelt_gap",
+     "everyday_invisibility",
+     "niche_confinement"
+    ],
+    "rq2": [
+     "translating_embodying",
+     "inviting_attention",
+     "narrative_fiction"
+    ],
+    "rq3": [
+     "legibility_vs_alterity",
+     "invitation_vs_recentering",
+     "appropriation_authority"
+    ]
+   },
+   "keywords": [
+    "crickets",
+    "butoh",
+    "light pollution",
+    "stridulation",
+    "wearable wings",
+    "performance"
+   ],
+   "image": {
+    "file": "assets/works/j04.jpg",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/c3932ec7-6a6b-4671-96ce-bc5808b54847/Jiabao+Li_Cricket_Butoh+0.jpg?format=1500w",
+    "page_url": "https://www.jiabaoli.org/wings-against-the-veil-of-light",
+    "credit": "Jiabao Li (page credits photography to Christopher Davila and The Contemporary Austin / Levi Thompson)",
+    "permission": "unverified"
+   },
+   "short": {
+    "rq1": "Nocturnal cricket stridulation and light-pollution mating failure are imperceptible and uncharismatic outside entomology and dark-sky niches.",
+    "rq2": "Mimetic zipper-and-ruler wings, Butoh self-emptying, a notation score adapted from Hijikata, composed music, narrative of mistimed chirping and performance video.",
+    "rq3": "Embodiment is human mediation; no crickets or scientists are credited; single art-institution venue; no documented audience response or lighting action."
+   }
+  },
+  {
+   "id": "J05",
+   "matrix_id": "D05",
+   "title": "Time Sensitive",
+   "creators": "Jiabao Li; collaborator glaciologist Ginny Catania and Ice Dynamics Lab (page credit)",
+   "year": "Undated on creator page; exhibited at Today Future Biennale (Beijing) and Duande Art Museum, 12 Dec 2023 to 13 Apr 2024",
+   "grade": "C+",
+   "recommendation": "watchlist",
+   "note_file": "j05-time-sensitive.md",
+   "entity": "Melting glacier ice and post-glacial island ecosystems (fireweed, Arctic birds) in Alaska",
+   "medium": "Cyanotype sun prints on fabric made with melting glacier ice; ephemeral meltwater drawings on rock",
+   "occasions": "Today Future Biennale “To Your Eternity”, Today Art Museum, Beijing; “Progenitorial Hysteresis”, Duande Art Museum, China, 2023–2024",
+   "publics": "Biennale and museum visitors in China; glaciers and post-glacial species referenced, not affected",
+   "summary": "*Time Sensitive* is described on the creator page as “a series of attempts to compress and decompress time” prompted by Li's annual visits to “glacier friends” in Alaska whose bodies are “rapidly disappearing”. A cyanotype on fabric records the melting trajectory of glacier ice, surrounded by plants and animals of post-glacial islands, including fireweed and Arctic birds described as near extinction; the page credits glaciologist Ginny Catania and the Ice Dynamics Lab as collaborators.\n\nA second element consists of drawings made on rocks in front of glaciers using melted glacier river water, which the sun evaporates as the artist draws. The page gives no creation date. The 1 August 2026 dialogue's reference to an “ice-printing” work is provisionally matched to this project; *CryoScapes* (a 2025 ice-3D-printing project with Ziyuan Jiang, Kuan-Ju Wu and Yasuaki Kakehi) is a separate work and is not merged here.",
+   "publics_text": "The page lists two exhibition contexts, the Today Future Biennale at Today Art Museum in Beijing and “Progenitorial Hysteresis” at Duande Art Museum (12 December 2023 to 13 April 2024) (**D**, creator-listed). Encountered publics are museum and biennale visitors in China; the participating public is the artist with a credited glaciologist. Glaciers and post-glacial species are referenced entities, and no claim is made about effects on them or on audiences.",
+   "rq1": "Glacial change once counted as deep time and is now fast enough to be witnessed within a life, yet still too slow and too remote to register in an exhibition visit, so the gap is a timescale mismatch between melt, human attention and image-making. The species that colonise land after retreat are likewise a transient ecology few publics know to look for.",
+   "rq2": "The work makes melt itself the image-making agent: ice melting on a cyanotype leaves the trace of its own disappearance, and meltwater drawings evaporate while being made, compressing and decompressing time in the material. Framing glaciers as “friends”, crediting a glaciologist, and exhibiting in biennale contexts supply relational, scientific and circulatory tactics.",
+   "rq3": "Calling glaciers friends personifies a landscape and centres the artist's grief; the durable cyanotype persists in a museum while the ice does not, which raises the question of whether the image substitutes for the loss it documents. The exhibitions were far from the Alaskan sites and offer no route to action, and the public record does not say what the glaciologist contributed or which ice was used. Because the dialogue may have intended *CryoScapes* instead, analytic claims about this work should wait for Jiabao's confirmation.",
+   "evaluation": "Sparse but materially distinctive time-compression case; watchlist until Jiabao confirms whether the dialogue meant Time Sensitive or CryoScapes and supplies dates and collaborator details.",
+   "configuration": "Timescale mismatch between glacial melt and human attention → melt as image-making agent, evaporating drawings, glacier-as-friend framing and glaciologist credit → biennale and museum publics in China → two listed exhibitions, no documented response → personification, image-persistence and provisional-identification tensions → watchlist pending confirmation.",
+   "evidence_boundary": "Limited to a short undated creator page; adequate for concept and stated collaboration, weak for dates, methods, audience and consequence, and the identification with the dialogue's “ice printing” reference is provisional. Sources: [creator project page](https://www.jiabaoli.org/time-sensitive), [CryoScapes page (separate project, for disambiguation)](https://www.jiabaoli.org/cryoscapes) and [`data/jiabao_work_normalization.md`](../../data/jiabao_work_normalization.md).",
+   "sources": [
+    {
+     "label": "creator project page",
+     "url": "https://www.jiabaoli.org/time-sensitive"
+    },
+    {
+     "label": "CryoScapes page (separate project, for disambiguation)",
+     "url": "https://www.jiabaoli.org/cryoscapes"
+    }
+   ],
+   "layer": "dialogue_addition",
+   "entity_short": "melting glacier ice and post-glacial island ecosystems in Alaska",
+   "format": "cyanotype sun prints with melting glacier ice; meltwater drawings on rock",
+   "source_url": "https://www.jiabaoli.org/time-sensitive",
+   "local_evidence": "references/notes/j05-time-sensitive.md",
+   "year_short": "Undated on creator page; exhibited at Today Future Biennale (Beijing) and Duande Art Museum, 12 Dec 2023 to 13 Apr 2024",
+   "x": 1308,
+   "x0": 1308,
+   "y": 944,
+   "y0": 944,
+   "practice": "jiabao-li",
+   "practice_label": "Jiabao Li",
+   "tags": {
+    "rq1": [
+     "temporal_scale_gap",
+     "everyday_invisibility",
+     "action_gap"
+    ],
+    "rq2": [
+     "translating_embodying",
+     "inviting_attention",
+     "transmission_afterlives"
+    ],
+    "rq3": [
+     "legibility_vs_alterity",
+     "invitation_vs_recentering",
+     "circulation_vs_accountability"
+    ]
+   },
+   "keywords": [
+    "glacier",
+    "cyanotype",
+    "meltwater",
+    "alaska",
+    "sun print",
+    "ephemerality"
+   ],
+   "image": {
+    "file": "assets/works/j05.jpg",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/f79d5437-1f99-4abe-8bc6-a73c66f26351/Jiabao+Li+Time+Sensitive+6.jpg?format=1500w",
+    "page_url": "https://www.jiabaoli.org/time-sensitive",
+    "credit": "Jiabao Li",
+    "permission": "unverified"
+   },
+   "short": {
+    "rq1": "Glacial melt is now fast enough to witness within a lifetime yet too slow and remote to register in an exhibition visit.",
+    "rq2": "Melt as image-making agent in cyanotype, evaporating meltwater drawings, glacier-as-friend framing, glaciologist collaboration and biennale exhibition.",
+    "rq3": "Personified glaciers centre the artist's grief; the durable print outlives the ice; no action route; provisional match to the dialogue's 'ice printing' reference (CryoScapes is separate)."
+   }
+  },
+  {
+   "id": "J06",
+   "matrix_id": "D06",
+   "title": "Could an Arctic Fox Give a TED Talk? (provisional match; Arctic animal-sound performance, title unresolved)",
+   "creators": "Jiabao Li",
+   "year": "Arctic Circle residency May 2024; shown in “Chill Out: The Arctic Couldn't”, Gallery Ether, Tokyo, 11 Jan to 6 Feb 2025; date of the talk itself not stated",
+   "grade": "C",
+   "recommendation": "watchlist",
+   "note_file": "j06-could-an-arctic-fox-give-a-ted-talk.md",
+   "entity": "Arctic wildlife affected by climate change: puffins, polar bears, ringed seals, Arctic foxes",
+   "medium": "Talk-format performance with no human language, narrated through Arctic animal sounds; whether sounds are recordings or vocal imitation is not stated",
+   "occasions": "Listed in the “Chill Out: The Arctic Couldn't” solo exhibition catalogue, Gallery Ether, Tokyo, 2025; no dedicated project page",
+   "publics": "Gallery visitors in Tokyo; talk audience unspecified; Arctic animals referenced, not affected",
+   "summary": "The 1 August 2026 dialogue referred to an Arctic animal-sound or beatbox performance without a title. The closest public match found on 29 August 2026 is a section of Jiabao Li's *Chill Out: The Arctic Couldn't* exhibition page headed “Could an Arctic Fox Give a TED Talk?”, which describes a TED-style talk “completely devoid of human language” whose narrative was “crafted from the sounds of Arctic animals that are being impacted by climate change”, including puffins, polar bears, ringed seals and Arctic foxes. Li frames it against the Interspecies Internet and Earth Species Project efforts to translate animal communication, as a reminder of climate impacts and “a challenge to the anthropocentric dominance of human language in global discourse”.\n\nThis match is provisional. The exhibition text does not say whether the animal sounds were recordings or vocalised by the artist (the dialogue's “beatbox” description), where or when the talk was delivered, or whether it exists as a standalone work; no dedicated project page, video or record was found on the creator site. The candidate pages *AntiAntarctica*, *Once a Glacier* and *Glacier's Lament* were checked and do not describe a vocal animal-sound performance.",
+   "publics_text": "The only public record is the catalogue section of the *Chill Out: The Arctic Couldn't* solo exhibition at Gallery Ether, Roppongi, Tokyo (11 January to 6 February 2025), which gathers work from Li's May 2024 Arctic Circle residency in Svalbard (**D**, single creator source). Encountered publics are therefore Tokyo gallery visitors and whatever audience heard the talk, which is unspecified. The participating public is the artist alone as far as the record shows. The Arctic species are referenced entities; no claim of effect on them is made.",
+   "rq1": "Human language dominates global discourse so completely that animals affected by climate change are spoken about but never heard in the forums where decisions are made, and interspecies-translation research remains a specialist project. Arctic wildlife is additionally remote from most publics, so its calls are unknown rather than merely unnoticed.",
+   "rq2": "The work borrows the recognisable TED talk format and removes human language from it, composing a narrative arc with “emotional peaks and valleys” from animal calls, songs and cries. Exhibiting the piece within a residency-based solo show alongside related Arctic works supplies context and circulation; the gesture toward Earth Species Project and Interspecies Internet aligns the work with translation research.",
+   "rq3": "A human still composes the story, selects which animal sounds carry which emotions, and occupies the speaker's stage, so the talk stages proxy voice rather than animal authorship; if the sounds were vocally imitated, the mediation is doubled. Borrowing TED's authority uses a platform built on human oratory to critique it. With no record of where the talk was given, who heard it or how they responded, the work's reach and consequence are unknown, and its canonical title and form must be confirmed by Jiabao before it can be analysed or figured.",
+   "evaluation": "Provisional identification of the dialogue's Arctic animal-sound performance; watchlist until Jiabao confirms the title, form (recorded versus vocalised sounds), venue and documentation.",
+   "configuration": "Human-language dominance and remote Arctic species → TED format emptied of human language and narrated through animal sounds → gallery and unspecified talk publics → single exhibition-catalogue mention, no documented response → proxy-voice, borrowed-platform and unresolved-identity tensions → watchlist pending creator confirmation.",
+   "evidence_boundary": "Weak: one paragraph on an exhibition page, no dedicated project page, media, venue for the talk or audience evidence, and the identification with the dialogue reference is provisional. Sources: [Chill Out: The Arctic Couldn't exhibition page](https://www.jiabaoli.org/chillout) and [`data/jiabao_work_normalization.md`](../../data/jiabao_work_normalization.md).",
+   "sources": [
+    {
+     "label": "Chill Out: The Arctic Couldn't exhibition page (section “Could an Arctic Fox Give a TED Talk?”)",
+     "url": "https://www.jiabaoli.org/chillout"
+    },
+    {
+     "label": "AntiAntarctica page (checked; not a match)",
+     "url": "https://www.jiabaoli.org/antiantarctica"
+    },
+    {
+     "label": "Once a Glacier page (checked; not a match)",
+     "url": "https://www.jiabaoli.org/once-a-glacier"
+    },
+    {
+     "label": "Glacier's Lament page (checked; not a match)",
+     "url": "https://www.jiabaoli.org/glacier"
+    }
+   ],
+   "layer": "dialogue_addition",
+   "entity_short": "Arctic wildlife affected by climate change (puffins, polar bears, ringed seals, Arctic foxes)",
+   "format": "talk-format performance without human language, narrated through Arctic animal sounds",
+   "source_url": "https://www.jiabaoli.org/chillout",
+   "local_evidence": "references/notes/j06-could-an-arctic-fox-give-a-ted-talk.md",
+   "year_short": "Arctic Circle residency May 2024; shown in “Chill Out: The Arctic Couldn't”, Gallery Ether, Tokyo, 11 Jan to 6 Feb 2025; date of the talk itself not stated",
+   "x": 1606,
+   "x0": 1606,
+   "y": 944,
+   "y0": 944,
+   "practice": "jiabao-li",
+   "practice_label": "Jiabao Li",
+   "tags": {
+    "rq1": [
+     "interpretive_authority_gap",
+     "umwelt_gap",
+     "wrong_noticer"
+    ],
+    "rq2": [
+     "translating_embodying",
+     "narrative_fiction",
+     "composing_publics"
+    ],
+    "rq3": [
+     "appropriation_authority",
+     "legibility_vs_alterity",
+     "impact_overclaim"
+    ]
+   },
+   "keywords": [
+    "arctic",
+    "animal sounds",
+    "ted talk",
+    "svalbard",
+    "vocal performance",
+    "climate"
+   ],
+   "image": null,
+   "short": {
+    "rq1": "Human language dominates the forums where climate decisions are made; remote Arctic species are unheard rather than merely unnoticed.",
+    "rq2": "TED talk format emptied of human language, narrative arc composed from animal calls, exhibition within a residency-based solo show, alignment with interspecies-translation research.",
+    "rq3": "A human composes and voices the story (proxy voice); TED's authority is borrowed; no record of venue, audience or response; title, form and match to the dialogue reference are unresolved."
+   }
+  },
   {
    "id": "W01",
    "matrix_id": "E01",
@@ -409,8 +896,8 @@
    "source_url": "https://doi.org/10.1145/3706598.3713713",
    "local_evidence": "portfolio/being-the-creek.md",
    "year_short": "2025",
-   "x": 1992,
-   "x0": 1992,
+   "x": 2588,
+   "x0": 2588,
    "y": 28,
    "y0": 28,
    "practice": "yang-ryokai",
@@ -652,8 +1139,8 @@
    "source_url": "https://marshmallowlaserfeast.com/project/in-the-eyes-of-the-animal/",
    "local_evidence": "portfolio/in-the-eyes-of-the-animal.md",
    "year_short": "2015",
-   "x": 2378,
-   "x0": 2378,
+   "x": 2974,
+   "x0": 2974,
    "y": 28,
    "y0": 28,
    "practice": "marshmallow-laser-feast",
@@ -732,8 +1219,8 @@
    "year_short": "2021-ongoing",
    "x": 1308,
    "x0": 1308,
-   "y": 1080,
-   "y0": 1080,
+   "y": 1538,
+   "y0": 1538,
    "practice": "civic-public-art",
    "practice_label": "Civic public art & campaigns",
    "tags": {
@@ -808,8 +1295,8 @@
    "source_url": "https://expandedenvironment.org/amphibiousarchitecture/",
    "local_evidence": "portfolio/amphibious-architecture.md",
    "year_short": "2009",
-   "x": 3062,
-   "x0": 3062,
+   "x": 3658,
+   "x0": 3658,
    "y": 28,
    "y0": 28,
    "practice": "jeremijenko",
@@ -886,8 +1373,8 @@
    "year_short": "2015",
    "x": 2588,
    "x0": 2588,
-   "y": 1080,
-   "y0": 1080,
+   "y": 1538,
+   "y0": 1538,
    "practice": "living-media",
    "practice_label": "Living media & bioart",
    "tags": {
@@ -961,8 +1448,8 @@
    "year_short": "2006-2008",
    "x": 28,
    "x0": 28,
-   "y": 1080,
-   "y0": 1080,
+   "y": 1538,
+   "y0": 1538,
    "practice": "sound-sensing",
    "practice_label": "Sound, sensing & civic data",
    "tags": {
@@ -1038,8 +1525,8 @@
    "year_short": "2013-ongoing",
    "x": 326,
    "x0": 326,
-   "y": 1080,
-   "y0": 1080,
+   "y": 1538,
+   "y0": 1538,
    "practice": "sound-sensing",
    "practice_label": "Sound, sensing & civic data",
    "tags": {
@@ -1114,8 +1601,8 @@
    "source_url": "https://en.wikipedia.org/wiki/Natalie_Jeremijenko",
    "local_evidence": "portfolio/environmental-health-clinic.md",
    "year_short": "c.2007-2009",
-   "x": 3360,
-   "x0": 3360,
+   "x": 3956,
+   "x0": 3956,
    "y": 28,
    "y0": 28,
    "practice": "jeremijenko",
@@ -1197,8 +1684,8 @@
    "source_url": "https://news.yale.edu/2003/04/04/feral-robotic-dogs-sniff-out-environmental-hazards",
    "local_evidence": "portfolio/feral-robotic-dogs.md",
    "year_short": "2003",
-   "x": 3062,
-   "x0": 3062,
+   "x": 3658,
+   "x0": 3658,
    "y": 486,
    "y0": 486,
    "practice": "jeremijenko",
@@ -1281,8 +1768,8 @@
    "year_short": "2016-ongoing",
    "x": 624,
    "x0": 624,
-   "y": 1080,
-   "y0": 1080,
+   "y": 1538,
+   "y0": 1538,
    "practice": "sound-sensing",
    "practice_label": "Sound, sensing & civic data",
    "tags": {
@@ -1358,8 +1845,8 @@
    "year_short": "2019/2022",
    "x": 922,
    "x0": 922,
-   "y": 1080,
-   "y0": 1080,
+   "y": 1538,
+   "y0": 1538,
    "practice": "sound-sensing",
    "practice_label": "Sound, sensing & civic data",
    "tags": {
@@ -1435,8 +1922,8 @@
    "year_short": "2006/2021",
    "x": 28,
    "x0": 28,
-   "y": 1538,
-   "y0": 1538,
+   "y": 1996,
+   "y0": 1996,
    "practice": "sound-sensing",
    "practice_label": "Sound, sensing & civic data",
    "tags": {
@@ -1515,8 +2002,8 @@
    "year_short": "2015-ongoing",
    "x": 1606,
    "x0": 1606,
-   "y": 1080,
-   "y0": 1080,
+   "y": 1538,
+   "y0": 1538,
    "practice": "civic-public-art",
    "practice_label": "Civic public art & campaigns",
    "tags": {
@@ -1579,14 +2066,10 @@
    "rq3": "Voice can sustain attention but implies an integrated microbial speaker where a multispecies community and technical model exist. Sensor values may displace embodied knowledge even as the project celebrates it. The microbes’ flourishing remains entangled with human taste, food production and eventual consumption.",
    "evaluation": "A valuable long-duration care case if voice and metabolism are kept analytically separate.",
    "configuration": "Invisible microbial transformation → situated sensing and conversational care → household/design/museum publics → documented prototypes and exhibitions → ventriloquism, cultural-translation and instrumental-care tensions → make model limits and human–microbial reciprocity explicit.",
-   "evidence_boundary": "Strong for concept and prototype; presentation chronology and public-response claims require final cross-check against each credited iteration. Sources: [ACM Digital Library record](https://doi.org/10.1145/3313831.3376630) and [`portfolio/nukabot.md`](../../portfolio/nukabot.md).",
+   "evidence_boundary": "Strong for concept and prototype; presentation chronology and public-response claims require final cross-check against each credited iteration. In Ikeya, Barati and Wensveen's 2025 review, *Nukabot* appears as visual exemplar **○6**, source-local reference **[39]**, with image credit **© Dominique Chen**; these numbers are retained as provenance for the supplied visual reference rather than treated as this portfolio's numbering. Sources: [ACM CHI 2021 DOI](https://doi.org/10.1145/3411763.3451605), [`portfolio/nukabot.md`](../../portfolio/nukabot.md) and [`references/ikeya2025aesthetics.md`](../ikeya2025aesthetics.md).",
    "sources": [
     {
-     "label": "ACM Digital Library record",
-     "url": "https://doi.org/10.1145/3313831.3376630"
-    },
-    {
-     "label": "Matrix primary source",
+     "label": "ACM CHI 2021 DOI",
      "url": "https://doi.org/10.1145/3411763.3451605"
     }
    ],
@@ -1598,8 +2081,8 @@
    "year_short": "2019-2024",
    "x": 2886,
    "x0": 2886,
-   "y": 1080,
-   "y0": 1080,
+   "y": 1538,
+   "y0": 1538,
    "practice": "living-media",
    "practice_label": "Living media & bioart",
    "tags": {
@@ -1679,8 +2162,8 @@
    "year_short": "2016-ongoing",
    "x": 326,
    "x0": 326,
-   "y": 1538,
-   "y0": 1538,
+   "y": 1996,
+   "y0": 1996,
    "practice": "sound-sensing",
    "practice_label": "Sound, sensing & civic data",
    "tags": {
@@ -1758,8 +2241,8 @@
    "year_short": "2021",
    "x": 1904,
    "x0": 1904,
-   "y": 1080,
-   "y0": 1080,
+   "y": 1538,
+   "y0": 1538,
    "practice": "civic-public-art",
    "practice_label": "Civic public art & campaigns",
    "tags": {
@@ -1839,8 +2322,8 @@
    "year_short": "2010-ongoing",
    "x": 624,
    "x0": 624,
-   "y": 1538,
-   "y0": 1538,
+   "y": 1996,
+   "y0": 1996,
    "practice": "sound-sensing",
    "practice_label": "Sound, sensing & civic data",
    "tags": {
@@ -1920,10 +2403,10 @@
    "source_url": "https://doi.org/10.1145/3731459.3779140",
    "local_evidence": "portfolio/squeeker.md",
    "year_short": "2023/2026",
-   "x": 1308,
-   "x0": 1308,
-   "y": 486,
-   "y0": 486,
+   "x": 1904,
+   "x0": 1904,
+   "y": 28,
+   "y0": 28,
    "practice": "jiabao-li",
    "practice_label": "Jiabao Li",
    "tags": {
@@ -2000,10 +2483,10 @@
    "source_url": "https://www.jiabaoli.org/elephant-in-the-room",
    "local_evidence": "data/jiabao_work_normalization.md",
    "year_short": "2024",
-   "x": 1606,
-   "x0": 1606,
-   "y": 486,
-   "y0": 486,
+   "x": 2202,
+   "x0": 2202,
+   "y": 28,
+   "y0": 28,
    "practice": "jiabao-li",
    "practice_label": "Jiabao Li",
    "tags": {
@@ -2079,8 +2562,8 @@
    "year_short": "2015-ongoing",
    "x": 2202,
    "x0": 2202,
-   "y": 1080,
-   "y0": 1080,
+   "y": 1538,
+   "y0": 1538,
    "practice": "civic-public-art",
    "practice_label": "Civic public art & campaigns",
    "tags": {
@@ -2156,8 +2639,8 @@
    "year_short": "2014/2015/2018",
    "x": 1308,
    "x0": 1308,
-   "y": 1538,
-   "y0": 1538,
+   "y": 1996,
+   "y0": 1996,
    "practice": "civic-public-art",
    "practice_label": "Civic public art & campaigns",
    "tags": {
@@ -2239,8 +2722,8 @@
    "year_short": "2022/2023",
    "x": 3272,
    "x0": 3272,
-   "y": 1080,
-   "y0": 1080,
+   "y": 1538,
+   "y0": 1538,
    "practice": "youyang-hu",
    "practice_label": "Youyang Hu & Kakehi Lab",
    "tags": {
@@ -2321,8 +2804,8 @@
    "year_short": "2024-ongoing",
    "x": 3570,
    "x0": 3570,
-   "y": 1080,
-   "y0": 1080,
+   "y": 1538,
+   "y0": 1538,
    "practice": "youyang-hu",
    "practice_label": "Youyang Hu & Kakehi Lab",
    "tags": {
@@ -2397,8 +2880,8 @@
    "year_short": "2026",
    "x": 3272,
    "x0": 3272,
-   "y": 1538,
-   "y0": 1538,
+   "y": 1996,
+   "y0": 1996,
    "practice": "youyang-hu",
    "practice_label": "Youyang Hu & Kakehi Lab",
    "tags": {
@@ -2467,8 +2950,8 @@
    "year_short": "2025-ongoing",
    "x": 3570,
    "x0": 3570,
-   "y": 1538,
-   "y0": 1538,
+   "y": 1996,
+   "y0": 1996,
    "practice": "youyang-hu",
    "practice_label": "Youyang Hu & Kakehi Lab",
    "tags": {
@@ -2510,41 +2993,49 @@
   },
   {
    "id": "W33",
-   "matrix_id": "X08",
-   "title": "Photography as a Design Research Tool into Natureculture",
-   "creators": "Szu-Yu (Cyn) Liu, Jeffrey Bardzell, Shaowen Bardzell",
-   "year": "2016–2018 practice/publication",
-   "grade": "A-method",
-   "recommendation": "add_method_comparator",
-   "note_file": "w33-photography-as-a-design-research-tool-into-natureculture.md",
-   "entity": "Natureculture relations across sites",
-   "medium": "Iterative photographic research",
-   "occasions": "Research sites across Europe, North America and Asia; DIS 2018 publication",
-   "publics": "Authors/researchers, design-conference readers; no studied public audience",
-   "summary": "This 2018 DIS paper by Szu-Yu (Cyn) Liu, Jeffrey Bardzell and Shaowen Bardzell reports an iterative photographic design-research practice examining natureculture across everyday sites.\n\nOver an extended period, the authors produced and repeatedly reviewed hundreds of photographs, using editing, pairing, sequencing and critique to develop a visual repertoire of hybridity, traces, boundaries and layered human–nonhuman relations. Photography functioned less as final illustration than as a device for learning how to notice and conceptualise natureculture.",
-   "publics_text": "The primary public occasion was the DIS 2018 research paper and scholarly presentation (**D**). The authors were both makers and analytic participants. Design-research readers and conference attendees are the encountered public. Photographed sites and more-than-human entities are represented subjects; no public-facing exhibition study or participant study is reported.",
-   "rq1": "Natureculture is theoretically dense and can remain too abstract to guide situated design attention. Everyday entanglements are easily overlooked because they do not announce themselves as “more-than-human.”",
-   "rq2": "Tactics include repeated image-making, revisitation, editing, pairing, sequencing, critique and the construction of a portable visual repertoire.",
-   "rq3": "The photographer controls framing and the research team curates what becomes analytically visible. A self-reflexive corpus can aestheticise decontextualised scenes, and it provides no evidence about how broader publics, photographed communities or nonhumans interpret the images or act through them.",
-   "evaluation": "A foundational method comparator, not a public artwork or proof of multispecies impact.",
-   "configuration": "Abstract natureculture theory → iterative photographic noticing and repertoire building → practitioner/research public → documented methodological reflection → curatorial-authority and absent-public tensions → use as a method comparator, not as evidence of public impact.",
-   "evidence_boundary": "Peer-reviewed and methodologically rich; explicitly limited as an artwork, public-engagement case or multispecies outcome study. Sources: [DOI](https://doi.org/10.1145/3196709.3196819) and [`references/liu2018photography.md`](../liu2018photography.md).",
+   "matrix_id": "X26",
+   "title": "Pollution Pods",
+   "creators": "Michael Pinsky with the Climart collaboration",
+   "year": "2017–ongoing touring",
+   "grade": "A",
+   "recommendation": "add_core_critical",
+   "note_file": "w33-pollution-pods.md",
+   "entity": "Urban atmospheres, air pollution and climate-linked ecologies",
+   "medium": "Five interconnected immersive environmental domes",
+   "occasions": "Trondheim public park; Somerset House; WHO/UN and international festival circulation",
+   "publics": "Park and cultural visitors, climate/health publics, researchers and policy-facing audiences; pollution-burdened communities represented",
+   "summary": "*Pollution Pods* is an environmental artwork created by Michael Pinsky through the Climart collaboration and commissioned by the Norwegian University of Science and Technology. First exhibited in 2017, it consists of five connected geodesic domes that simulate atmospheric conditions associated with a Norwegian coastal location and London, New Delhi, Beijing and São Paulo.\n\nVisitors walk through a sequence that shifts from cool, clean coastal air toward increasingly hot, humid, smoky or scented environments. Safe substances, temperature and humidity produce a bodily analogy of unequal urban pollution without exposing visitors to the actual harmful gases. The circular route makes atmospheric difference sequential and inhaled rather than statistical. Its iconic architecture also works as a visible recruitment device before the visitor enters.",
+   "publics_text": "The first evaluated presentations were in a public park in Trondheim and at Somerset House in London (**D**). The work subsequently circulated through health, climate, art and policy-facing events, including WHO- and UN-linked contexts (**D/CR**). A published questionnaire study covers 2,662 visitors at the first two sites (**D**). Encountered publics include park passers-by, cultural visitors, climate and health publics, researchers and political delegates. Residents who routinely breathe the represented pollution are affected publics but were not equivalent participants in the evaluated encounters.",
+   "rq1": "Air pollution is ambient and unequally distributed, while climate change is often communicated through remote numbers. People in cleaner-air locations cannot ordinarily encounter the atmospheric burden attached to other cities, and information alone competes poorly for public attention.",
+   "rq2": "The work uses full-body sequential simulation, smell, heat, humidity, architectural spectacle, public-park siting, international touring and embedded psychological evaluation. It turns breathing—normally unnoticed—into the unavoidable medium of comparison.",
+   "rq3": "The domes offer a safe, authored simulation, not transported urban air, and can blur the distinction between toxic pollutants and mostly odourless greenhouse gases. The itinerary also risks turning unequal exposure into temporary cultural consumption by comparatively mobile visitors. In the 2,662-person study, intentions increased only very slightly (reported effect size *d* = 0.07); just 2% of installation visitors joined the offered action platform, and behavioural uptake could not be detected. Strong reach and emotion therefore did not establish an action bridge.",
+   "evaluation": "A rare large-public artwork with unusually strong evaluation evidence; its failed action bridge is as important as its immersive reach.",
+   "configuration": "Remote and unequal atmospheric harm → inhaled multisensory itinerary plus iconic public architecture → park, art, health and policy-facing publics → large documented exposure and very small intention change → simulation, inequality and intention–behaviour tensions → pair spectacle with locally accountable action routes and valid follow-up measures.",
+   "evidence_boundary": "Strong for form, first venues and immediate visitor response; unusually strong negative evidence for behavioural uptake; no basis for claiming lasting change. Sources: [artist project page](https://www.michaelpinsky.com/portfolio/pollution-pods-2/), [Cape Farewell circulation record](https://www.capefarewell.com/pollution-pods/) and [Sommer et al. evaluation](https://doi.org/10.1016/j.gloenvcha.2019.101992).",
    "sources": [
     {
-     "label": "DOI",
-     "url": "https://doi.org/10.1145/3196709.3196819"
+     "label": "artist project page",
+     "url": "https://www.michaelpinsky.com/portfolio/pollution-pods-2/"
+    },
+    {
+     "label": "Cape Farewell circulation record",
+     "url": "https://www.capefarewell.com/pollution-pods/"
+    },
+    {
+     "label": "Sommer et al. evaluation",
+     "url": "https://doi.org/10.1016/j.gloenvcha.2019.101992"
     }
    ],
    "layer": "new_candidate",
-   "entity_short": "natureculture relations across sites",
-   "format": "iterative photographic research practice",
-   "source_url": "https://doi.org/10.1145/3196709.3196819",
-   "local_evidence": "references/liu2018photography.md",
-   "year_short": "2018",
+   "entity_short": "urban atmospheres, air pollution and climate-linked ecologies",
+   "format": "five interconnected immersive environmental domes",
+   "source_url": "https://www.michaelpinsky.com/portfolio/pollution-pods-2/",
+   "local_evidence": "",
+   "year_short": "2017-ongoing",
    "x": 3956,
    "x0": 3956,
-   "y": 1080,
-   "y0": 1080,
+   "y": 1538,
+   "y0": 1538,
    "practice": "liu-bardzell",
    "practice_label": "Liu, Bardzell & Bardzell",
    "tags": {
@@ -2569,48 +3060,52 @@
    ],
    "image": null,
    "short": {
-    "rq1": "Natureculture is theoretically abstract and difficult for designers to notice in everyday materials and spaces.",
-    "rq2": "Repeated image-making, editing, pairing, sequencing, critique and a visual repertoire of hybrids, traces and layers.",
-    "rq3": "The authors curate what becomes visible; a self-reflexive corpus has no public, nonhuman or action evaluation and may aestheticise context-poor scenes."
+    "rq1": "Air pollution and climate change are dispersed, statistically described and unevenly experienced; people in cleaner-air locations cannot bodily encounter other cities' atmospheric conditions.",
+    "rq2": "Safe multisensory simulation, sequential bodily passage, smell, heat, humidity, public-park siting, global touring and embedded psychological evaluation.",
+    "rq3": "The work translates unequal exposures into a consumable itinerary and risks conflating air pollution with greenhouse gases; a 2,662-person study found only a very small intention shift and no detectable behavioural uptake."
    }
   },
   {
    "id": "W34",
-   "matrix_id": "X09",
-   "title": "Decomposition as Design",
-   "creators": "Szu-Yu (Cyn) Liu, Jeffrey Bardzell, Shaowen Bardzell",
-   "year": "2018–2019",
-   "grade": "A-method",
-   "recommendation": "add_method_comparator",
-   "note_file": "w34-decomposition-as-design.md",
-   "entity": "Clay, weather, gravity, fire and decay",
-   "medium": "Case curation; ceramics RtD",
-   "occasions": "Ceramics studio process; TEI 2019 publication/presentation",
-   "publics": "Designer-researchers, three studio coordinators, TEI public; materials materially active",
-   "summary": "*Decomposition as Design* is a 2019 TEI paper by Szu-Yu (Cyn) Liu, Jeffrey Bardzell and Shaowen Bardzell. It combines the curation of more than one hundred design cases with a four-month ceramics research-through-design process involving twelve concepts and three studio coordinators.\n\nThe study treats decay, weathering, breakage and material transformation as design resources rather than failures to be prevented. Experimental ceramic forms were fragmented, aged, released from controls, used to trace processes or temporarily scaffolded so that clay, water, heat, gravity and time could alter the outcome.",
-   "publics_text": "Its main public occasions were the ceramics studio process and TEI 2019 scholarly dissemination (**D**). Designers, studio coordinators and researchers are participating publics; TEI readers and attendees are encountered publics. Material processes are active participants in making, but the project did not study a general exhibition audience or downstream environmental action.",
-   "rq1": "Industrial design conventions hide endings by treating stability as success and decomposition as defect. Material agency therefore becomes noticeable only when control is deliberately relaxed.",
-   "rq2": "The paper articulates tactics of fragmenting, ageing, liberating, tracing and temporary scaffolding, supported by material experimentation and comparative case curation.",
-   "rq3": "Unpredictability is not equivalent to material consent or co-authorship. Designers still establish initial conditions and judge aesthetically productive decay. Novice experimentation can romanticise damage while energy use, toxicity, waste and disposal remain outside the frame.",
-   "evaluation": "A highly useful decay vocabulary and method case, but not a public-impact exemplar.",
-   "configuration": "Hidden material endings → designed exposure to decay and process vocabulary → studio/research public → strong methodological record → romanticisation, authorship and lifecycle tensions → use the vocabulary while extending evaluation to material provenance and afterlife.",
-   "evidence_boundary": "Peer-reviewed method evidence is strong; public interpretation and environmental outcome evidence are absent by design. Sources: [DOI](https://doi.org/10.1145/3294109.3295653) and [`references/liu2019decomposition.md`](../liu2019decomposition.md).",
+   "matrix_id": "X27",
+   "title": "The Substitute",
+   "creators": "Alexandra Daisy Ginsberg with The Mill and scientific collaborators",
+   "year": "2019–ongoing circulation",
+   "grade": "B+",
+   "recommendation": "add_core_critical",
+   "note_file": "w34-the-substitute.md",
+   "entity": "Northern white rhinoceros, extinction and technological resurrection",
+   "medium": "Paired life-size video and sound installation",
+   "occasions": "Cooper Hewitt Design Triennial; FACT Liverpool; Onassis Stegi; natural-history museums; Biennale of Sydney",
+   "publics": "Museum, biennial, design, AI and conservation publics; extinct rhinos represented",
+   "summary": "*The Substitute* is Alexandra Daisy Ginsberg’s 2019 paired video-and-sound installation, produced with The Mill, with behaviour informed by DeepMind research and rare northern white rhinoceros footage supplied by Richard Policht. It was commissioned by Cooper Hewitt, Smithsonian Design Museum and Cube design museum and entered Cooper Hewitt’s permanent collection.\n\nA five-metre life-size projection presents a digital northern white rhino learning the limits of an empty virtual room. Its image and sound move between pixels and apparent bodily realism while a second screen shows its artificial-agent data. The oscillation refuses a seamless resurrection: the more lifelike the surrogate becomes, the more visibly it remains alone, computational and detached from herd and habitat.",
+   "publics_text": "Documented presentations include the 2019 Cooper Hewitt Design Triennial, FACT Liverpool in 2020, Onassis Stegi in 2021, *The Lost Rhino* at London’s Natural History Museum and the Natural History Museum Bern in 2022, and the 23rd Biennale of Sydney (**D/CR**). Encountered publics include museum, biennial, design, AI, natural-history and conservation audiences. The northern white rhino is represented through archival traces and simulation; living rhinos, rangers and habitat communities are not participants in the installation.",
+   "rq1": "Extinction reaches many publics as a brief news event, while speculative de-extinction can make technological replacement appear more imaginable than long-term protection of living species, habitats and caretaking institutions.",
+   "rq2": "The artwork uses life-size scale, charismatic animal presence, pixel-to-lifelike transformation, adaptive agent behaviour, archival herd footage, paired explanatory data and long-term institutional circulation.",
+   "rq3": "A work criticising substitution must nevertheless make a compelling substitute. The isolated digital rhino can recentre AI laboratories, museums and technological virtuosity, while histories of hunting, conservation governance, colonial extraction, kinship and habitat are compressed into the absent background. Emotional encounter is documented only as an invitation; conservation action and changed priorities are not.",
+   "evaluation": "A highly legible extinction critique with durable museum circulation, but no evidence that spectators change conservation priorities or action.",
+   "configuration": "Brief public mourning and techno-resurrection optimism → deliberately unstable life-size surrogate → museum, AI and conservation publics → documented international circulation → substitution, charisma and institutional-authority tensions → keep the artificiality and missing habitat politically explicit.",
+   "evidence_boundary": "Strong institutional evidence for commissioning, mechanism, collection status and exhibition trajectory; no audience or conservation-outcome evaluation. Sources: [artist project page](https://www.daisyginsberg.com/work/the-substitute) and [Biennale of Sydney collection record](https://artsandculture.google.com/asset/the-substitute-2019-alexandra-daisy-ginsberg/DwHfZFqUoU_yew).",
    "sources": [
     {
-     "label": "DOI",
-     "url": "https://doi.org/10.1145/3294109.3295653"
+     "label": "artist project page",
+     "url": "https://www.daisyginsberg.com/work/the-substitute"
+    },
+    {
+     "label": "Biennale of Sydney collection record",
+     "url": "https://artsandculture.google.com/asset/the-substitute-2019-alexandra-daisy-ginsberg/DwHfZFqUoU_yew"
     }
    ],
    "layer": "new_candidate",
-   "entity_short": "clay, weather, gravity, fire and decay processes",
-   "format": "curated cases plus ceramics research-through-design",
-   "source_url": "https://doi.org/10.1145/3294109.3295653",
-   "local_evidence": "references/liu2019decomposition.md",
-   "year_short": "2019",
+   "entity_short": "northern white rhinoceros, extinction and technological resurrection",
+   "format": "paired life-size video and sound installation",
+   "source_url": "https://www.daisyginsberg.com/work/the-substitute",
+   "local_evidence": "",
+   "year_short": "2019-ongoing circulation",
    "x": 4254,
    "x0": 4254,
-   "y": 1080,
-   "y0": 1080,
+   "y": 1538,
+   "y0": 1538,
    "practice": "liu-bardzell",
    "practice_label": "Liu, Bardzell & Bardzell",
    "tags": {
@@ -2638,48 +3133,56 @@
    ],
    "image": null,
    "short": {
-    "rq1": "Industrial design treats decay as failure and hides material agency and endings.",
-    "rq2": "Fragmenting, ageing, liberating, tracing and temporary scaffolds that let material processes alter form.",
-    "rq3": "Unpredictability is not consent or co-authorship; novice experiments and aesthetic judgement can romanticise damage and ignore disposal."
+    "rq1": "Extinction is mediated through distant news while speculative de-extinction can make technological replacement seem easier than protecting living species and habitats.",
+    "rq2": "Life-size projection, pixel-to-lifelike transformation, adaptive AI-agent behaviour, rare herd footage and institutional touring.",
+    "rq3": "The work critiques substitution while also producing a charismatic digital substitute; a lone simulated rhino, detached from kin and habitat, can recentre AI institutions and simplify colonial conservation histories."
    }
   },
   {
    "id": "W35",
-   "matrix_id": "X10",
-   "title": "Symbiotic Encounters",
-   "creators": "Szu-Yu (Cyn) Liu, Shaowen Bardzell, Jeffrey Bardzell",
-   "year": "2019",
-   "grade": "A-method",
-   "recommendation": "add_method_comparator",
-   "note_file": "w35-symbiotic-encounters.md",
-   "entity": "Farmers, weeds, insects, snails, soil and seasons",
-   "medium": "Sustainable-agriculture ethnography",
-   "occasions": "Taiwanese farming field sites; CHI 2019",
-   "publics": "Farmers/agricultural practitioners, researchers; multispecies farm collectives",
-   "summary": "*Symbiotic Encounters* is a 2019 CHI paper by Szu-Yu (Cyn) Liu, Shaowen Bardzell and Jeffrey Bardzell based on long-term situated research with sustainable agriculture in Taiwan.\n\nThrough ethnography and embodied participation in farm work, the study follows relations among farmers, crops, weeds, insects, snails, soil, weather and seasonal cycles. It complicates abstract calls to “design with nature” by showing response, negotiation, loss and labour within practices whose participants do not share stable interests.",
-   "publics_text": "The field sites were working agricultural environments; the primary public presentation was CHI 2019 (**D**). Farmers and researchers were participating publics. Farm organisms and material processes were affected and observed participants. HCI and sustainable-design communities were the encountered public; consumers, regulators and agricultural institutions were relevant but not directly studied decision-capable publics.",
-   "rq1": "More-than-human design language can conceal the seasonal conflict, failure, repetition and skilled labour of actual multispecies relations.",
-   "rq2": "Tactics include long-term field immersion, bodily participation, following seasonal relations and analysing response and engagement instead of treating control as the default design goal.",
-   "rq3": "Symbiosis is not necessarily harmonious or equally beneficial. Farming decisions allocate survival, death, labour and economic value. Researchers translate these relations into concepts, while farmers bear practical risk. The case therefore resists romantic multispecies togetherness.",
-   "evaluation": "A crucial empirical grounding case, although it studies practices rather than delivering a public artifact.",
-   "configuration": "Abstract harmonious “with nature” discourse → situated seasonal ethnography → farm and HCI research publics → rich practice evidence → unequal-benefit, labour and interpretive-authority tensions → use as empirical grounding for political, non-romantic accounts of relation.",
-   "evidence_boundary": "Strong peer-reviewed qualitative evidence; this is a practice study and conceptual grounding case, not a public artwork or intervention-effect evaluation. Sources: [DOI](https://doi.org/10.1145/3290605.3300547) and [`references/liu2019symbiotic.md`](../liu2019symbiotic.md).",
+   "matrix_id": "X28",
+   "title": "Symbiosis",
+   "creators": "Polymorf with Studio Biarritz and collaborators",
+   "year": "2021–ongoing touring",
+   "grade": "B+",
+   "recommendation": "add_core_critical",
+   "note_file": "w35-symbiosis.md",
+   "entity": "Speculative human–animal, human–plant and human–technology hybrids",
+   "medium": "Performative multiuser multisensory VR; soft robotics; scent; food",
+   "occasions": "IDFA DocLab premiere; Dutch Film Festival; Waag/Museumnacht and later bookings",
+   "publics": "Ticketed immersive participants, festival observers, posthuman-design publics; organisms represented through hybrid roles",
+   "summary": "*Symbiosis* is a performative, multiuser and multisensory VR installation designed and produced by the Dutch collective Polymorf with Studio Biarritz and an extensive team of wearable, scent, food, performance and technical collaborators. It premiered at IDFA DocLab in 2021.\n\nParticipants choose speculative hybrid roles—among them human–animal, human–plant and human–technology bodies—then enter a shared post-Anthropocene world. Full-body movement, custom soft-robotic wearables, haptics, scent and role-specific vegetarian tastes extend the encounter beyond a headset. The individual stories converge in a collective eating ritual, making each visitor both performer and material condition for the others.",
+   "publics_text": "The installation premiered at IDFA DocLab in 2021 and was later presented through the Dutch Film Festival, Polymorf’s studio, Waag/Museumnacht and further timed booking programmes (**D/CR**). It received IDFA’s Special Jury Award for Creative Technology (**D/CR**). Participating publics are small groups of booked immersive visitors supported by facilitators; observers, film/new-media and posthuman-design publics encounter the surrounding performance and documentation. Plants, animals, slime moulds and future entities are represented through designed hybrid roles rather than directly involved.",
+   "rq1": "Posthuman interdependence is theoretically dense, and conventional VR isolates one viewer, privileges sight and leaves bodily relation outside the medium. The work also faces the challenge of making radical bodily difference inviting rather than punitive.",
+   "rq2": "Tactics include role-based collective embodiment, theatrical facilitation, custom soft robotics, manipulated body schemas, haptics, scent, taste, food-sharing and a convergence from separate stories into a temporary public ritual.",
+   "rq3": "Designed hybridity can collapse species specificity into pleasurable human fantasy. The future world largely replaces competition and conflict with symbiosis, stabilising a politically attractive harmony. Custom wearables, bodily handling, food, intensive staffing and timed ticketing also distribute access unevenly. Immersion may deepen affect for participants but does not demonstrate nonhuman benefit, ecological accuracy or durable action.",
+   "evaluation": "A strong affective and relational artwork that expands VR beyond vision, while offering no evidence of nonhuman benefit or durable public action.",
+   "configuration": "Abstract interdependence and visually isolated VR → multisensory hybrid embodiment plus collective food ritual → small ticketed participant publics and wider festival observers → documented performance circulation → fantasy, harmony, consent and access tensions → disclose speculation and evaluate interpretation beyond novelty.",
+   "evidence_boundary": "Strong official and festival evidence for form, credits and presentations; no longitudinal public or ecological outcome evidence. Sources: [Polymorf project page](https://www.polymorf.nl/interaction/symbiosis/), [IDFA record](https://www.idfa.nl/en/cinema/bc2441ca-df8b-4d0d-9e2d-5c7085317fd0/symbiosis/) and [Waag presentation record](https://waag.org/en/article/becoming-other-experience-symbiosis-waag/).",
    "sources": [
     {
-     "label": "DOI",
-     "url": "https://doi.org/10.1145/3290605.3300547"
+     "label": "Polymorf project page",
+     "url": "https://www.polymorf.nl/interaction/symbiosis/"
+    },
+    {
+     "label": "IDFA record",
+     "url": "https://www.idfa.nl/en/cinema/bc2441ca-df8b-4d0d-9e2d-5c7085317fd0/symbiosis/"
+    },
+    {
+     "label": "Waag presentation record",
+     "url": "https://waag.org/en/article/becoming-other-experience-symbiosis-waag/"
     }
    ],
    "layer": "new_candidate",
-   "entity_short": "farmers, weeds, insects, snails, soil and seasons",
-   "format": "long-term sustainable-agriculture ethnography",
-   "source_url": "https://doi.org/10.1145/3290605.3300547",
-   "local_evidence": "references/liu2019symbiotic.md",
-   "year_short": "2019",
+   "entity_short": "speculative human-animal, human-plant and human-technology hybrids",
+   "format": "performative multiuser multisensory VR with soft robotics, scent and food",
+   "source_url": "https://www.polymorf.nl/interaction/symbiosis/",
+   "local_evidence": "",
+   "year_short": "2021-ongoing",
    "x": 3956,
    "x0": 3956,
-   "y": 1538,
-   "y0": 1538,
+   "y": 1996,
+   "y0": 1996,
    "practice": "liu-bardzell",
    "practice_label": "Liu, Bardzell & Bardzell",
    "tags": {
@@ -2714,9 +3217,9 @@
     "permission": "unverified"
    },
    "short": {
-    "rq1": "Design slogans about working with nature conceal seasonal conflict, failure and the labour of actual multispecies agriculture.",
-    "rq2": "Situated ethnography, embodied farm participation, following seasonal relations and analysing response/engagement rather than control.",
-    "rq3": "Symbiosis is neither stable nor equally beneficial; researcher interpretation and farming decisions distribute death, labour and value unevenly."
+    "rq1": "Posthuman interdependence is theoretically dense, while ordinary VR isolates users and privileges sight.",
+    "rq2": "Role-based collective embodiment, custom soft-robotic wearables, haptics, scent, taste, theatrical facilitation and a shared eating ritual.",
+    "rq3": "Designed hybridity may collapse species difference into pleasurable human fantasy; the future biotope assumes harmony, and intensive staffing, custom bodies and ticketed slots constrain access and scale."
    }
   },
   {
@@ -2732,18 +3235,22 @@
    "medium": "Portable plant-electrical sonification",
    "occasions": "Eight-home deployment; Maker Faire, Day Riverbed, Sustainable Spring Break; DIS 2022/2024",
    "publics": "Plant carers, household members, festival visitors, design researchers; plants instrumented",
-   "summary": "*Plant Radio* was developed from 2022 onward by Margrete Lodahl Rolighed, Ester Marie Aagaard, Marcus Due Jensen, Raune Frankjær and Lone Koefoed Hansen. It is a portable device that translates plant electrical variation into sound, pulsing coloured light and a graph.\n\nElectrodes connect a plant to an EMG-like sensing circuit. The resulting variation is mapped through a portable radio-shaped device, allowing people to move it among houseplants, outdoor plants and other everyday settings. Crucially, the research compares brief public contact with a three-week domestic deployment, showing how interpretations change when the device enters routines of care, social negotiation and repeated uncertainty.",
+   "summary": "*Plant Radio* was developed from 2021–2022 onward by Margrete Lodahl Rolighed, Ester Marie Aagaard, Marcus Due Jensen, Raune Frankjær and Lone Koefoed Hansen. It is a portable device that translates plant electrical variation into sound, pulsing coloured light and a graph. In the supplied review image it is labelled **○11, [174]**, with photograph credit **© Margrete Lodahl Rolighed**; the reference number is local to that review.\n\nElectrodes connect a plant to an EMG-like sensing circuit. The resulting variation is mapped through a portable radio-shaped device, allowing people to move it among houseplants, outdoor plants and other everyday settings. Crucially, the research compares brief public contact with a three-week domestic deployment, showing how interpretations change when the device enters routines of care, social negotiation and repeated uncertainty.",
    "publics_text": "The design was published as a DIS 2022 pictorial and studied across an eighteen-month programme reported at DIS 2024 (**D**). Public occasions included a local Maker Faire, Day Riverbed and Sustainable Spring Break. Eight self-identified plant lovers in five cities used it at home for three weeks, kept diaries, responded to twice-weekly prompts and joined a half-day workshop. Encountered publics included thousands of event attendees, but documented stops or conversations were far fewer. Plants, household members, event visitors and researchers formed different participating or affected publics.",
    "rq1": "Plant activity is imperceptible, plants readily recede into domestic background, and brief public encounters rarely sustain a new relation. Plant care can also be socially awkward or reduced to optimisation.",
    "rq2": "Tactics include ambiguous sonification, light and graph; portability; repeated home cohabitation; diaries and open prompts; a reflective workshop; and researcher-supported conversations at public events.",
    "rq3": "The sensor mediates electrical variation; it does not reveal plant speech, emotion or intention. Ambiguity enabled curiosity but also guilt and anthropomorphic projection. The eight home participants were already plant lovers, public-event data were opportunistic, and the study did not establish lasting behaviour, plant welfare or ecological action.",
    "evaluation": "One of the strongest additions because it compares domestic duration with public brevity and exposes its own epistemic limits.",
    "configuration": "Imperceptible plant activity and shallow event time → portable ambiguous sensing plus domestic duration → plant-loving households and mixed festival publics → rich small-sample interpretation evidence → mediation, stigma, projection and generalisability tensions → strongest as a comparison of duration and context, not proof of ecological transformation.",
-   "evidence_boundary": "Strong, peer-reviewed qualitative evidence for eight home deployments and multiple public encounters; no nonhuman-outcome or longitudinal post-study evidence. Sources: [project page](https://www.marcusduejensen.com/plantradio.html), [DIS 2024 DOI](https://doi.org/10.1145/3643834.3661586) and [`research/.../mthd-0038...md`](../../research/more-than-human-design-review/knowledge/papers/mthd-0038-2024-encountering-human-plant-relations-a-discussion-of-how-interaction-design-can-encourage-human-sensib.md).",
+   "evidence_boundary": "Strong, peer-reviewed qualitative evidence for eight home deployments and multiple public encounters; no nonhuman-outcome or longitudinal post-study evidence. Ikeya, Barati and Wensveen's 2025 review confirms the supplied visual label **○11**, bibliography number **[174]**, and credit **© Margrete Lodahl Rolighed**. Sources: [project page](https://www.marcusduejensen.com/plantradio.html), [DIS 2022 DOI](https://doi.org/10.1145/3532106.3533517), [DIS 2024 DOI](https://doi.org/10.1145/3643834.3661586), [`references/ikeya2025aesthetics.md`](../ikeya2025aesthetics.md) and [`research/.../mthd-0038...md`](../../research/more-than-human-design-review/knowledge/papers/mthd-0038-2024-encountering-human-plant-relations-a-discussion-of-how-interaction-design-can-encourage-human-sensib.md).",
    "sources": [
     {
      "label": "project page",
      "url": "https://www.marcusduejensen.com/plantradio.html"
+    },
+    {
+     "label": "DIS 2022 DOI",
+     "url": "https://doi.org/10.1145/3532106.3533517"
     },
     {
      "label": "DIS 2024 DOI",
@@ -2758,8 +3265,8 @@
    "year_short": "2022-2024",
    "x": 28,
    "x0": 28,
-   "y": 2132,
-   "y0": 2132,
+   "y": 2590,
+   "y0": 2590,
    "practice": "rolighed-hansen",
    "practice_label": "Rolighed & Hansen · Aarhus",
    "tags": {
@@ -2841,8 +3348,8 @@
    "year_short": "2022-2023",
    "x": 326,
    "x0": 326,
-   "y": 2132,
-   "y0": 2132,
+   "y": 2590,
+   "y0": 2590,
    "practice": "rolighed-hansen",
    "practice_label": "Rolighed & Hansen · Aarhus",
    "tags": {
@@ -2919,8 +3426,8 @@
    "year_short": "2025-2026",
    "x": 28,
    "x0": 28,
-   "y": 2590,
-   "y0": 2590,
+   "y": 3048,
+   "y0": 3048,
    "practice": "rolighed-hansen",
    "practice_label": "Rolighed & Hansen · Aarhus",
    "tags": {
@@ -3001,8 +3508,8 @@
    "year_short": "2026",
    "x": 326,
    "x0": 326,
-   "y": 2590,
-   "y0": 2590,
+   "y": 3048,
+   "y0": 3048,
    "practice": "rolighed-hansen",
    "practice_label": "Rolighed & Hansen · Aarhus",
    "tags": {
@@ -3073,8 +3580,8 @@
    "year_short": "2022",
    "x": 712,
    "x0": 712,
-   "y": 2132,
-   "y0": 2132,
+   "y": 2590,
+   "y0": 2590,
    "practice": "lu-lopes",
    "practice_label": "Lu & Lopes",
    "tags": {
@@ -3154,8 +3661,8 @@
    "year_short": "2024",
    "x": 1010,
    "x0": 1010,
-   "y": 2132,
-   "y0": 2132,
+   "y": 2590,
+   "y0": 2590,
    "practice": "lu-lopes",
    "practice_label": "Lu & Lopes",
    "tags": {
@@ -3234,8 +3741,8 @@
    "year_short": "2023",
    "x": 1606,
    "x0": 1606,
-   "y": 1538,
-   "y0": 1538,
+   "y": 1996,
+   "y0": 1996,
    "practice": "civic-public-art",
    "practice_label": "Civic public art & campaigns",
    "tags": {
@@ -3315,8 +3822,8 @@
    "source_url": "https://marshmallowlaserfeast.com/project/we-live-in-an-ocean-of-air/",
    "local_evidence": "",
    "year_short": "2018-2023",
-   "x": 2676,
-   "x0": 2676,
+   "x": 3272,
+   "x0": 3272,
    "y": 28,
    "y0": 28,
    "practice": "marshmallow-laser-feast",
@@ -3397,8 +3904,8 @@
    "source_url": "https://tribecafilm.com/festival/archive/treehugger-wawona-2017",
    "local_evidence": "",
    "year_short": "2016/2017",
-   "x": 2378,
-   "x0": 2378,
+   "x": 2974,
+   "x0": 2974,
    "y": 486,
    "y0": 486,
    "practice": "marshmallow-laser-feast",
@@ -3481,8 +3988,8 @@
    "year_short": "2016-ongoing",
    "x": 1904,
    "x0": 1904,
-   "y": 1538,
-   "y0": 1538,
+   "y": 1996,
+   "y0": 1996,
    "practice": "civic-public-art",
    "practice_label": "Civic public art & campaigns",
    "tags": {
@@ -3562,8 +4069,8 @@
    "year_short": "2020-2021",
    "x": 1396,
    "x0": 1396,
-   "y": 2132,
-   "y0": 2132,
+   "y": 2590,
+   "y0": 2590,
    "practice": "yuning-chen",
    "practice_label": "Yuning Chen",
    "tags": {
@@ -3642,8 +4149,8 @@
    "year_short": "2021",
    "x": 1694,
    "x0": 1694,
-   "y": 2132,
-   "y0": 2132,
+   "y": 2590,
+   "y0": 2590,
    "practice": "yuning-chen",
    "practice_label": "Yuning Chen",
    "tags": {
@@ -3694,14 +4201,14 @@
    "medium": "Workshops; Microbial Chindogu; interviews",
    "occasions": "Three workshops over two months; CHI 2024, Honolulu; related bioart circulation",
    "publics": "28 workshop participants, 16 interviewees, biodesign/biology/HCI publics, regulators; microbes represented",
-   "summary": "*Microbial Revolt* is a 2023–2024 workshop method and CHI 2024 research project by Yuning Chen and Larissa Pschetz. It asks biologists and designers to reinterpret laboratory breakdown and redesign tools through the speculative possibility of microbial nonparticipation.\n\nParticipants first compare the life of an organism in feral and laboratory settings. They then temporarily read death, low growth, escape, resistance or contamination through a “revolt” lens and create Microbial Chindogu: tools deliberately useless for humans but potentially supportive of microbial refusal or escape. Follow-up interviews extend the provocation into proposals concerning alternative sterilisation, mixed cultures, traffic maps, liminal design-biolabs, documentation and regulator collaboration.",
+   "summary": "*Microbial Revolt* is a 2023–2024 participatory design intervention and artefact-making project by Yuning Chen and Larissa Pschetz. Across three workshops, biologists and designers reinterpreted laboratory breakdown and redesigned tools through the speculative possibility of microbial nonparticipation, producing 24 named Microbial Chindogu artefacts.\n\nParticipants first compare the life of an organism in feral and laboratory settings. They then temporarily read death, low growth, escape, resistance or contamination through a “revolt” lens and create Microbial Chindogu: tools deliberately useless for humans but potentially supportive of microbial refusal or escape. Follow-up interviews extend the provocation into proposals concerning alternative sterilisation, mixed cultures, traffic maps, liminal design-biolabs, documentation and regulator collaboration.",
    "publics_text": "Three one-to-two-hour workshops were held over two months—two face-to-face and one online—with 28 designers and biologists (**D**). Sixteen journal responses and 24 Chindogu inventions were analysed, and 16 follow-up interviews were conducted, five with workshop participants and eleven with additional practitioners. The work was published and presented at CHI 2024 in Honolulu and circulated through bioart contexts, including BAD Award selection (**D**). Microbes, strains, wild samples, tools, waste ecologies and regulators form affected or decision-capable publics, although microbial perspectives are necessarily proxied.",
    "rq1": "Microbial scale and laboratory conventions hide organismal time, labour, death, escape and ecological origin. Protocols classify anomalous outcomes as human error or contamination and provide no established channel for nonparticipation.",
    "rq2": "Tactics include feral/lab comparison, provocative role reframing, Chindogu making, balanced disciplinary discussion, follow-up interviews and translation from speculative objection into biosafety and infrastructure proposals.",
    "rq3": "“Revolt” grants political visibility but remains an anthropomorphic thinking tool, not evidence of microbial intention. Adversarial language can cast microbes as threats, while openness, intimacy, mixed cultures and wild sampling can create genuine environmental and health risks. Standardised laboratory control and design-studio freedom are not simple bad/good opposites; they allocate different responsibilities.",
    "evaluation": "One of the strongest complete RQ1-RQ3 cases because provocation develops into accountable infrastructure proposals.",
    "configuration": "Hidden microbial labour and protocol-defined error → revolt provocation plus counter-useful toolmaking → biologist, designer, bioart and HCI publics → substantial workshop/interview evidence → anthropomorphism, safety and governance tensions → preserve revolt as a heuristic and pursue validated, accountable infrastructure changes.",
-   "evidence_boundary": "One of the portfolio’s strongest peer-reviewed method cases: 28 workshop participants, 24 artefacts and 16 interviews. Proposed sterilisation, mixed-culture and governance adaptations were not technically validated, and no microbial preference or welfare was established. Sources: [DOI](https://doi.org/10.1145/3613904.3641981), [`references/chen2024microbial.md`](../chen2024microbial.md) and [`research/.../mthd-0040...md`](../../research/more-than-human-design-review/knowledge/papers/mthd-0040-2024-microbial-revolt-redefining-biolab-tools-and-practices-for-more-than-human-care-ecologies.md).",
+   "evidence_boundary": "One of the portfolio’s strongest peer-reviewed participatory-design cases: 28 workshop participants, 24 artefacts and 16 interviews. The portfolio unit is the intervention and its realised artefacts, not the CHI paper or workshop procedure alone. Proposed sterilisation, mixed-culture and governance adaptations were not technically validated, and no microbial preference or welfare was established. Sources: [DOI](https://doi.org/10.1145/3613904.3641981), [`references/chen2024microbial.md`](../chen2024microbial.md) and [`research/.../mthd-0040...md`](../../research/more-than-human-design-review/knowledge/papers/mthd-0040-2024-microbial-revolt-redefining-biolab-tools-and-practices-for-more-than-human-care-ecologies.md).",
    "sources": [
     {
      "label": "DOI",
@@ -3716,8 +4223,8 @@
    "year_short": "2023-2024",
    "x": 1992,
    "x0": 1992,
-   "y": 2132,
-   "y0": 2132,
+   "y": 2590,
+   "y0": 2590,
    "practice": "yuning-chen",
    "practice_label": "Yuning Chen",
    "tags": {
@@ -3760,41 +4267,45 @@
   },
   {
    "id": "W49",
-   "matrix_id": "X24",
-   "title": "Labour Provenance",
-   "creators": "Yuning Chen, Elise Cachat, Larissa Pschetz",
-   "year": "2024–2025",
-   "grade": "A",
-   "recommendation": "add_core",
-   "note_file": "w49-labour-provenance.md",
-   "entity": "Distributed organisms behind biodesign supply chains",
-   "medium": "Protocol audit; provenance map; workshop",
-   "occasions": "Five-month lab case and four-group workshop; CHI 2025, Yokohama",
-   "publics": "Lab collaborators, workshop practitioners, CHI/biodesign publics; focal and “shadow” organisms implicated",
-   "summary": "*Labour Provenance* is a 2024–2025 project and CHI 2025 paper by Yuning Chen, Elise Cachat and Larissa Pschetz. It develops an analytic framework from a five-month experiment attempting to hybridise human and yeast cells and from a reflexive workshop with biodesign practitioners.\n\nThe authors deconstruct a six-step biological protocol and trace the living origins behind cell lines, genes, enzymes, media, markers and industrial reagents. A nominally two-organism experiment expands into a distributed ecology involving bacteria, viruses, fungi, plants, livestock, marine organisms, agriculture and manufacturing. The framework distinguishes metabolic, resistance and sustenance labour, five structural job positions and degrees of subsumption into production.",
-   "publics_text": "The research setting included the university synthetic-biology laboratory, collaborators and a workshop organised in four groups around participants’ own biological projects (**D**). The paper was presented at CHI 2025 in Yokohama and received an Honourable Mention (**D**). Participating publics include the authors, laboratory collaborators and workshop practitioners; encountered publics include HCI, STS, biodesign and synthetic-biology communities. Suppliers, agricultural industries and research institutions are decision-capable publics. The many focal and “shadow” organisms are materially implicated but not directly consulted.",
-   "rq1": "Barcodes, standard reagents and protocols erase living origins. Focal organisms receive attention while the metabolic, resistance and sustenance work of organisms across supply chains remains structurally invisible.",
-   "rq2": "Tactics include stepwise protocol deconstruction, centre-to-periphery provenance mapping, labour categories, job-position analysis, degrees of subsumption, a practitioner workshop and an audit of sustainability claims across living inputs.",
-   "rq3": "Labour language reveals extraction and control, but can again define organisms by productivity. Provenance remains incomplete where suppliers use proprietary or generic labels. Workshop participants also showed charisma bias, recognising mammalian harm more readily than bacterial exploitation. Symbolic acknowledgement can coexist with unchanged material extraction.",
-   "evaluation": "The portfolio's strongest analytic counterweight to spectacular empathy and first-person umwelt simulation.",
-   "configuration": "Standardised invisibility of distributed living work → protocol audit and labour-provenance map → laboratory, workshop, HCI and supply-chain publics → rich case/framework evidence → productive-role reduction, incomplete traceability and unequal concern → use as the portfolio’s analytic counterweight to spectacular empathy.",
-   "evidence_boundary": "Strong peer-reviewed case and method evidence; framework categories prompt analysis rather than provide a complete lifecycle audit or validated welfare measure. Sources: [DOI](https://doi.org/10.1145/3706598.3713272), [`references/chen2025labour.md`](../chen2025labour.md) and [`research/.../mthd-0068...md`](../../research/more-than-human-design-review/knowledge/papers/mthd-0068-2025-labour-provenance-as-a-lens-to-reveal-more-than-human-ecologies-in-biological-design-and-hci.md).",
+   "matrix_id": "X29",
+   "title": "Manifesting the Spirits of Asilomar",
+   "creators": "Josh Evans, Erika Szymanski, Tarsh Bates, Devon Ward, Yuning Chen",
+   "year": "2025",
+   "grade": "B-",
+   "recommendation": "add_core_critical",
+   "note_file": "w49-manifesting-the-spirits-of-asilomar.md",
+   "entity": "Laboratory organisms, conference place and hidden sustainers of biotechnology",
+   "medium": "Beverage, scent and collective-distillation interventions",
+   "occasions": "The Spirit of Asilomar and the Future of Biotechnology, Asilomar Conference Grounds, February 2025",
+   "publics": "Biotechnology, history/STS and policy-facing conference publics; laboratory organisms, staff and place histories represented",
+   "summary": "*Manifesting the Spirits of Asilomar* comprises two artistic interventions created for *The Spirit of Asilomar and the Future of Biotechnology* conference in February 2025. *Bevergising the Spirits of Asilomar* is credited to Josh Evans and Erika Szymanski, with visual design by Evans, Szymanski and Yuning Chen. *Scents of Asilomar* is credited to Tarsh Bates, Devon Ward and Yuning Chen. They are treated as one situated project because both materialise marginalised “spirits” of the same conference history.\n\nOne intervention turns the metaphorical spirits of Asilomar into literal beverages served during the conference cocktail hour. The other gathers scents carrying fragments of local and biotechnology histories and stages a collective distillation. Together they make place, laboratory organisms, women staff, maintenance and other backgrounded contributors sensorially present inside a gathering explicitly revisiting the governance legacy of recombinant DNA.",
+   "publics_text": "The works were presented at the Asilomar Hotel & Conference Grounds during the 2025 Gordon Cain Conference, organised by Rice University, Stanford University and the Science History Institute (**D/CR**). The event convened historians, scientists and other biotechnology-facing experts to debate AI, pathogen research, biological weapons, containment, bioeconomy and flourishing, with art and culture built into the programme (**D**). Conference delegates were participating and decision-capable publics; wider public access was bounded, although the conference included an evening public lecture. Laboratory organisms, historical staff and the site were represented through the artists’ selected stories and materials.",
+   "rq1": "Canonical accounts of biotechnology governance foreground named scientists, formal declarations and abstract risks. They background the organisms that bore experimental risk, the places and care infrastructures sustaining debate, and marginalised human labour.",
+   "rq2": "The works use literalised wordplay, beverage service, scent, collective distillation, situated storytelling and insertion into the conference’s own hospitality ritual. Rather than address a generic gallery public, they intervene where biotechnology history and future governance are actively discussed.",
+   "rq3": "Reaching a small decision-capable public can be more consequential than maximising footfall, but the invitation-bounded setting also reproduces elite access. Makers and hosts decide which histories become drinkable or smellable, and sensory participation raises consent, allergy, safety and cultural-translation questions. Organisms and overlooked workers gain symbolic presence without authority to correct the representation or evidence that institutions redistributed power afterward.",
+   "evaluation": "A sharply situated art intervention that reaches biotechnology decision publics, with limited documentation of reception or institutional consequence.",
+   "configuration": "Elite, human-centred biotechnology memory → drinks, scents and collective distillation inside the commemorative conference → expert and policy-facing public → documented situated presentation → proxy, access and sensory-consent tensions → pair symbolic presence with accountable historical attribution and governance follow-through.",
+   "evidence_boundary": "Strong for creator credits, format, date, host setting and conference remit; weak for participant interpretation and institutional consequence. Sources: [Yuning Chen project page](https://alienyuning.net/projects) and [Science History Institute conference record](https://www.sciencehistory.org/visit/events/gordon-cain-conference-2025/).",
    "sources": [
     {
-     "label": "DOI",
-     "url": "https://doi.org/10.1145/3706598.3713272"
+     "label": "Yuning Chen project page",
+     "url": "https://alienyuning.net/projects"
+    },
+    {
+     "label": "Science History Institute conference record",
+     "url": "https://www.sciencehistory.org/visit/events/gordon-cain-conference-2025/"
     }
    ],
    "layer": "new_candidate",
-   "entity_short": "distributed organisms and supply ecologies behind biodesign",
-   "format": "protocol deconstruction, provenance map and reflexive workshop",
-   "source_url": "https://doi.org/10.1145/3706598.3713272",
-   "local_evidence": "references/chen2025labour.md",
-   "year_short": "2024-2025",
+   "entity_short": "laboratory organisms, conference place and hidden sustainers of biotechnology",
+   "format": "conference-based beverage, scent and collective-distillation interventions",
+   "source_url": "https://alienyuning.net/projects",
+   "local_evidence": "",
+   "year_short": "2025",
    "x": 2290,
    "x0": 2290,
-   "y": 2132,
-   "y0": 2132,
+   "y": 2590,
+   "y0": 2590,
    "practice": "yuning-chen",
    "practice_label": "Yuning Chen",
    "tags": {
@@ -3830,9 +4341,9 @@
     "permission": "unverified"
    },
    "short": {
-    "rq1": "Standardised reagents and protocols erase living origins and distributed metabolic, resistance and sustenance labour.",
-    "rq2": "Stepwise protocol audit, centre-to-periphery provenance map, labour categories, five job positions, subsumption analysis and practitioner workshop.",
-    "rq3": "Labour language exposes exploitation but can again value organisms through productivity; provenance is incomplete and concern remains charisma-biased."
+    "rq1": "Canonical biotechnology histories privilege named scientists and formal risk debate while backgrounding laboratory organisms, place, maintenance and marginalised human labour.",
+    "rq2": "Literalising 'spirits' as drinks and scents, collective distillation, situated storytelling and intervention in the conference cocktail hour.",
+    "rq3": "The works bring excluded actors into an elite decision-capable setting but remain curated proxies inside an invitation-bounded conference; sensory participation, safety and whose histories become material are controlled by the makers and hosts."
    }
   },
   {
@@ -3874,8 +4385,8 @@
    "year_short": "2024-2026",
    "x": 1396,
    "x0": 1396,
-   "y": 2590,
-   "y0": 2590,
+   "y": 3048,
+   "y0": 3048,
    "practice": "yuning-chen",
    "practice_label": "Yuning Chen",
    "tags": {
@@ -3918,6 +4429,62 @@
     "rq2": "Hybrid bread installation, provenance display, fictional foods, eating, moral weights, disgust and facilitated hesitation across seven sessions with 47 participants.",
     "rq3": "Human consent, consumer safety and analogies to vulnerable human groups can recenter humans; fictional proxies and affect do not demonstrate microbial welfare or ethical improvement."
    }
+  },
+  {
+   "id": "W51",
+   "matrix_id": "X30",
+   "title": "Hand-Substrate Interface",
+   "creators": "Jen Liu, Daragh Byrne, Laura Devendorf; photographs © Robert Zacharias",
+   "year": "2016–2017 development/testing; 2018 publication",
+   "grade": "B",
+   "recommendation": "add_core_critical",
+   "note_file": "w51-hand-substrate-interface.md",
+   "entity": "Fungi and the soil or organic substrates that support fungal growth",
+   "medium": "Wearable soil-moisture sensing glove; exposed fingertip contact; LED display",
+   "occasions": "Repeated forest tests; mushroom-foray research with a local club; CHI 2018",
+   "publics": "Designer-wearer, mushroom foragers and citizen-science/mycology publics; CHI/HCI audiences; fungi and substrates represented",
+   "summary": "*Hand-Substrate Interface* (HSI) is a materially realised wearable prototype developed by Jen Liu with Daragh Byrne and Laura Devendorf during 2016–2017 and published at CHI 2018 as one of three *Design for Collaborative Survival* tools. Robert Zacharias photographed Figures 1 and 4 in the original paper; accordingly, the requested visual credit is recorded as **photographs © Robert Zacharias**, distinct from design authorship.\n\nHSI reworks a soil-moisture sensor into a close-fitting glove. Conductive leather fingertip caps replace the usual rigid probes, mesh preserves contact with the earth, and a radial LED on the back of the hand displays approximate moisture. The wearer must insert and align their fingers in soil, leaf debris or other organic substrate, bringing digital conductivity measurement together with pressure, texture, dampness and the awkward bodily labour of digging. The prototype therefore makes the act of measurement itself an embodied encounter rather than offering a detached fungal-data dashboard.",
+   "publics_text": "Liu developed the tools after attending multiple mushroom forays with a local club of approximately 600 members during 2016–2017 and tested HSI in forested areas on multiple occasions (**D**). The paper documents situated designer testing, not a public deployment study: it does not establish that club members used HSI or that a general audience encountered the prototype. Its documented public circulation is primarily through the CHI 2018 Best Paper publication and subsequent scholarly/design references (**D**). The designer-wearer is the directly participating public; mushroom-foraging, citizen-science, mycology, HCI and design communities are contextual or mediated publics. Fungi are not instrumented or consulted directly; their supporting substrates are touched and measured.",
+   "rq1": "Fungi are commonly noticed through intermittent fruiting bodies, while the moisture and material conditions of their growth remain below ordinary public attention. Mycological and citizen-science practices can cultivate this knowledge, but they depend on situated expertise and repeated field contact that do not travel easily through conventional screens or general environmental communication.",
+   "rq2": "The work combines bodily insertion, touch, conductive sensing, approximate LED feedback, wearable proximity and repeated forest testing. Replacing a pointed metal probe with fingers intentionally adds friction: wiggling, digging, alignment and imperfect measurement direct attention to substrate as a shared condition of fungal life. Its bridge is therefore sensory and relational as well as informational.",
+   "rq3": "HSI measures electrical conductivity associated with substrate moisture, not fungal presence, feeling or intention. The human hand and a designer-set calibration determine what becomes legible. The paper explicitly notes lower accuracy than a rigid sensor and reflects mainly on Liu's own experience, so an evocative prototype must not be inflated into evidence of general public understanding, citizen-science reliability, fungal agency or ecological benefit. Direct contact may cultivate care, but it can also disturb substrate; access also depends on mobility, willingness to touch soil and entry to forest or foraging settings.",
+   "evaluation": "A strong embodied-noticing prototype that productively refuses frictionless sensing, but a weak public-reach or action-outcome case; use it to distinguish contact with habitat conditions from access to fungal experience.",
+   "configuration": "Hidden fungal-supporting conditions and specialist field knowledge → fingertip soil contact plus approximate conductivity-to-LED translation → designer-wearer and mediated foraging/HCI publics → documented iterative prototype experience → human calibration, access, disturbance and false-fidelity tensions → frame habitat contact as an invitation to inquiry, not access to a fungal umwelt or proof of benefit.",
+   "evidence_boundary": "Strong for authorship, iterative construction, operation, forest testing and the authors' own reflexive interpretation; weak for exhibition reach, use by people other than the designer, durable practice change or consequence for fungi. The primary paper explicitly distinguishes experiencing substrate “along with” fungi from sensing fungi themselves. Ikeya, Barati and Wensveen's 2025 review records the supplied source-local citation **[136]** and image credit **© Robert Zacharias**; the primary paper further specifies that Zacharias photographed Figures 1 and 4 and was not a designer. Sources: [author-hosted CHI 2018 paper](https://jenliujenliu.com/Files/Liu_Collaborative_Survival.pdf), [CHI DOI](https://doi.org/10.1145/3173574.3173614), [`references/liu2018collaborative.md`](../liu2018collaborative.md), [`references/ikeya2025aesthetics.md`](../ikeya2025aesthetics.md) and the verified local full text.",
+   "sources": [
+    {
+     "label": "author-hosted CHI 2018 paper",
+     "url": "https://jenliujenliu.com/Files/Liu_Collaborative_Survival.pdf"
+    },
+    {
+     "label": "CHI DOI",
+     "url": "https://doi.org/10.1145/3173574.3173614"
+    }
+   ],
+   "layer": "new_candidate",
+   "entity_short": "fungi and the soil or organic substrates that support fungal growth",
+   "format": "wearable soil-moisture sensing glove with exposed fingertip contact and LED display",
+   "source_url": "https://doi.org/10.1145/3173574.3173614",
+   "local_evidence": "references/liu2018collaborative.md",
+   "year_short": "2016-2018",
+   "x": 2676,
+   "x0": 2676,
+   "y": 2590,
+   "y0": 2590,
+   "practice": "other",
+   "practice_label": "Other works",
+   "tags": {
+    "rq1": [],
+    "rq2": [],
+    "rq3": []
+   },
+   "keywords": [],
+   "image": null,
+   "short": {
+    "rq1": "Fungal life is often noticed only through temporary fruiting bodies, while the substrate conditions supporting it remain difficult for non-specialists to perceive and interpret.",
+    "rq2": "The glove replaces rigid moisture probes with conductive fingertips, requiring direct insertion into soil while combining approximate LED readings with touch, digging and repeated situated forays.",
+    "rq3": "The apparatus measures substrate conductivity rather than fungi; its calibration and interpretation remain human-authored, testing centred on the designer, and neither broader public interpretation nor fungal benefit was established."
+   }
   }
  ],
  "clusters": [
@@ -3933,17 +4500,17 @@
   {
    "key": "jiabao-li",
    "label": "Jiabao Li",
-   "count": 4,
+   "count": 10,
    "x": 1280,
    "y": 0,
-   "w": 624,
-   "h": 944
+   "w": 1220,
+   "h": 1402
   },
   {
    "key": "yang-ryokai",
    "label": "Yang & Ryokai",
    "count": 1,
-   "x": 1964,
+   "x": 2560,
    "y": 0,
    "w": 326,
    "h": 486
@@ -3952,7 +4519,7 @@
    "key": "marshmallow-laser-feast",
    "label": "Marshmallow Laser Feast",
    "count": 3,
-   "x": 2350,
+   "x": 2946,
    "y": 0,
    "w": 624,
    "h": 944
@@ -3961,7 +4528,7 @@
    "key": "jeremijenko",
    "label": "Jeremijenko · xClinic & The Living",
    "count": 3,
-   "x": 3034,
+   "x": 3630,
    "y": 0,
    "w": 624,
    "h": 944
@@ -3971,7 +4538,7 @@
    "label": "Sound, sensing & civic data",
    "count": 7,
    "x": 0,
-   "y": 1052,
+   "y": 1510,
    "w": 1220,
    "h": 944
   },
@@ -3980,7 +4547,7 @@
    "label": "Civic public art & campaigns",
    "count": 7,
    "x": 1280,
-   "y": 1052,
+   "y": 1510,
    "w": 1220,
    "h": 944
   },
@@ -3989,7 +4556,7 @@
    "label": "Living media & bioart",
    "count": 2,
    "x": 2560,
-   "y": 1052,
+   "y": 1510,
    "w": 624,
    "h": 486
   },
@@ -3998,7 +4565,7 @@
    "label": "Youyang Hu & Kakehi Lab",
    "count": 4,
    "x": 3244,
-   "y": 1052,
+   "y": 1510,
    "w": 624,
    "h": 944
   },
@@ -4007,7 +4574,7 @@
    "label": "Liu, Bardzell & Bardzell",
    "count": 3,
    "x": 3928,
-   "y": 1052,
+   "y": 1510,
    "w": 624,
    "h": 944
   },
@@ -4016,7 +4583,7 @@
    "label": "Rolighed & Hansen · Aarhus",
    "count": 4,
    "x": 0,
-   "y": 2104,
+   "y": 2562,
    "w": 624,
    "h": 944
   },
@@ -4025,7 +4592,7 @@
    "label": "Lu & Lopes",
    "count": 2,
    "x": 684,
-   "y": 2104,
+   "y": 2562,
    "w": 624,
    "h": 486
   },
@@ -4034,9 +4601,18 @@
    "label": "Yuning Chen",
    "count": 5,
    "x": 1368,
-   "y": 2104,
+   "y": 2562,
    "w": 1220,
    "h": 944
+  },
+  {
+   "key": "other",
+   "label": "Other works",
+   "count": 1,
+   "x": 2648,
+   "y": 2562,
+   "w": 326,
+   "h": 486
   }
  ]
 }

@@ -4,7 +4,8 @@
 Run from the repo root or from site/:  python3 site/build_data.py
 Inputs (all under site/data/): works.json (from references/notes), tags.json, images.json.
 Outputs: site/data/portfolio.json, site/data/annotations.json (researcher-generated seed rows are
-regenerated; rows with other statuses are preserved).
+regenerated; rows with other statuses — contributor rows, practitioner-dialogue rows imported by
+scripts/import_dialogue_annotations.py — are preserved).
 """
 import json, math, os, sys
 
@@ -24,7 +25,7 @@ old_ann = load('annotations.json', [])
 # Practice clusters: who made the work, in the order the canvas lays them out.
 CLUSTERS = [
     ('reality-design-lab', 'Reality Design Lab · Hu, Huang & collaborators', ['W01','W02','W03','W04','W05']),
-    ('jiabao-li', 'Jiabao Li', ['W07','W08','W25','W26']),
+    ('jiabao-li', 'Jiabao Li', ['W07','W08','W25','W26','J01','J02','J03','J04','J05','J06']),
     ('yang-ryokai', 'Yang & Ryokai', ['W06']),
     ('marshmallow-laser-feast', 'Marshmallow Laser Feast', ['W09','W43','W44']),
     ('jeremijenko', 'Jeremijenko · xClinic & The Living', ['W11','W15','W16']),
@@ -38,6 +39,7 @@ CLUSTERS = [
     ('yuning-chen', 'Yuning Chen', ['W46','W47','W48','W49','W50']),
 ]
 by_id = {w['id']: w for w in works}
+CLUSTERS = [(k, l, [i for i in ids if i in by_id]) for k, l, ids in CLUSTERS]   # drop ids not (yet) parsed
 assigned = {wid for _, _, ids in CLUSTERS for wid in ids}
 missing = sorted(set(by_id) - assigned)
 if missing:
@@ -74,8 +76,10 @@ for wk in works:
     wk['image'] = {k: img.get(k) for k in ('file', 'image_url', 'page_url', 'credit', 'permission')} if img and img.get('file') else None
     wk['short'] = wk.pop('csv', wk.get('short', {}))
 
-json.dump({'generated_from': 'references/notes + data/expanded_portfolio_50_rq_annotations_2026-08-29.csv',
-           'works': works, 'clusters': clusters_out},
+import hashlib
+layout_version = hashlib.sha1(json.dumps([(w['id'], w['x0'], w['y0']) for w in sorted(works, key=lambda w: w['id'])]).encode()).hexdigest()[:10]
+json.dump({'generated_from': 'references/notes + data/expanded_portfolio_50_rq_annotations_2026-08-29.csv + data/portfolio_additions_2026-08-29.csv',
+           'layout_version': layout_version, 'works': works, 'clusters': clusters_out},
           open(os.path.join(D, 'portfolio.json'), 'w'), ensure_ascii=False, indent=1)
 
 # Seed annotations: one researcher-generated row per RQ per work; keep any contributed rows.

@@ -1,5 +1,185 @@
 [
  {
+  "id": "J01-rq1-research-team",
+  "work": "J01",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Laboratory animals live in featureless enclosures whose monotony is invisible to the publics that benefit from research, and the indifference of animals to national borders is likewise unnoticed by the humans who draw and defend them. Both relations sit inside specialist settings (marine laboratories, border policy) that ordinary museum visitors rarely see, so the gap is one of everyday invisibility compounded by institutional enclosure.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J01-rq2-research-team",
+  "work": "J01",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The work lets a living animal materially alter a human artefact and then presents the alteration as a map redrawn “on the squid's own terms”, using a before/after pair as its core legible device. It co-credits the squid as an artist, adds an autobiographical migration narrative, a composed score and video for circulation, and a gyotaku funeral print that reframes laboratory death. Long exhibition circulation across museums, biennales and electronic-art symposia is itself a transmission tactic.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J01-rq3-research-team",
+  "work": "J01",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The squid moved sand; the reading of that movement as border-crossing “reinterpretation” is entirely human, and co-crediting an animal as artist carries symbolic rather than actual authority. The migration analogy makes the work legible but recentres the artist's experience over the animal's, and the claim that the tank playground was enrichment is not supported by published welfare or behavioural records. The creator page's own account of many squid deaths in the host laboratory sits uneasily beside its “no animals were harmed” statement, and the page does not describe whether the animal could withdraw from the installation. The work's wide circulation has not been linked to any documented consequence for laboratory practice or border policy.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J02-rq1-research-team",
+  "work": "J02",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Whether engineered tissue can perceive or respond is invisible even to the people who culture it, and the question is normally confined to laboratories and bioethics forums. The creators also name a second gap: biotech spaces are dominated by male and solutionist agendas in which women are “on the receiving end” of reproductive technologies rather than authoring them, so questions of pleasure and bodily autonomy rarely become noticeable at all.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J02-rq2-research-team",
+  "work": "J02",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include working with the artists' own menstrual fluid as biomaterial, bioprinting an organ of pleasure rather than function, time-lapse microscopy of differentiating cells, video and online performance, digital rendering, and deliberate use of an adult-content platform to reach publics outside the gallery. Speculative ethics writing on consent and proxy decision-making is itself presented as part of the work, alongside catalogue, book-chapter and ISEA paper circulation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J02-rq3-research-team",
+  "work": "J02",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The “sentience” of the tissue is speculative; images document cell differentiation and printed forms, not perception, so any care obligation is posed by the creators as a thought experiment rather than an established welfare relation. Disseminating through OnlyFans borrows the reach and economics of a commercial adult platform whose terms, audience and data practices the artists do not control. The project also tests the boundary of “more-than-human”: its living entity is human-derived tissue, so it is a comparator for cellular and synthetic agency rather than a nonhuman-species case, and the public record does not show ethics approval, cell-source consent documentation or the full team's credits.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J03-rq1-research-team",
+  "work": "J03",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Care that is engineered, purchased and replaceable is hard to notice as a relation at all because it is delivered as a product with adjustable settings. The page points to a related gap: the emotional cost borne by the caring agent, and what happens to its memories, is invisible to the user who can delete it. Because the entity is artificial, the work does not address a nonhuman species gap and may fall outside the study's scope.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J03-rq2-research-team",
+  "work": "J03",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The installation uses bodily regression (a crib), intimate conversation, lullabies and explicit parameter sliders to make the terms of care tangible and adjustable, and stages memory deletion as a narrative consequence of replaceability. Li's first-person maternal framing and the reference to Hinton's maternal-instinct proposal supply an affective and critical entry point.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J03-rq3-research-team",
+  "work": "J03",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Who owns the mother, and whether care becomes a public service, private product or shared resource, is the stated tension; the work makes a synthetic agent “structurally vulnerable” by design, which raises the question of whether scripted vulnerability can generate accountable care or only its rehearsal. Without exhibition records or interaction logs, nothing is known about how visitors configured or treated the AI mother. For this portfolio the central tension is scope: an artificial agent designed to solicit care sits at the edge of more-than-human design rather than within it.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J04-rq1-research-team",
+  "work": "J04",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Cricket stridulation and its disruption by artificial light happen at night, at small scale and in a sensory register humans hear only as background noise, so the mating failure caused by light pollution is imperceptible even to people who cause it. Insects also lack the charisma that draws publics to mammals, and light pollution is rarely framed as a more-than-human relation outside entomology and dark-sky niches.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J04-rq2-research-team",
+  "work": "J04",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The work builds a mimetic instrument (zipper and ruler wings) so that human bodies reproduce the mechanism of chirping rather than a recording of it, and uses Butoh's discipline of self-emptying, a written notation score and choreography to stage becoming-cricket. A composed score, costume, makeup and set, and a performance video extend the encounter, while a simple narrative arc about mistimed chirping carries the light-pollution message.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J04-rq3-research-team",
+  "work": "J04",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Embodiment here is mediation: dancers enact a human notion of cricket experience, and the notation's imagery of itching, consumption and becoming is a human aesthetic tradition (Hijikata) applied to another species. No crickets, entomologists or light-pollution experts are credited, so the scientific narrative rests on the creators' account, and the performance venue is an art institution rather than a lighting or planning public. The page does not claim or document any audience response or action on lighting, so the work should be read as an attention and translation tactic whose consequences remain unknown.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J05-rq1-research-team",
+  "work": "J05",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Glacial change once counted as deep time and is now fast enough to be witnessed within a life, yet still too slow and too remote to register in an exhibition visit, so the gap is a timescale mismatch between melt, human attention and image-making. The species that colonise land after retreat are likewise a transient ecology few publics know to look for.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J05-rq2-research-team",
+  "work": "J05",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The work makes melt itself the image-making agent: ice melting on a cyanotype leaves the trace of its own disappearance, and meltwater drawings evaporate while being made, compressing and decompressing time in the material. Framing glaciers as “friends”, crediting a glaciologist, and exhibiting in biennale contexts supply relational, scientific and circulatory tactics.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J05-rq3-research-team",
+  "work": "J05",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Calling glaciers friends personifies a landscape and centres the artist's grief; the durable cyanotype persists in a museum while the ice does not, which raises the question of whether the image substitutes for the loss it documents. The exhibitions were far from the Alaskan sites and offer no route to action, and the public record does not say what the glaciologist contributed or which ice was used. Because the dialogue may have intended *CryoScapes* instead, analytic claims about this work should wait for Jiabao's confirmation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J06-rq1-research-team",
+  "work": "J06",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Human language dominates global discourse so completely that animals affected by climate change are spoken about but never heard in the forums where decisions are made, and interspecies-translation research remains a specialist project. Arctic wildlife is additionally remote from most publics, so its calls are unknown rather than merely unnoticed.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J06-rq2-research-team",
+  "work": "J06",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The work borrows the recognisable TED talk format and removes human language from it, composing a narrative arc with “emotional peaks and valleys” from animal calls, songs and cries. Exhibiting the piece within a residency-based solo show alongside related Arctic works supplies context and circulation; the gesture toward Earth Species Project and Interspecies Internet aligns the work with translation research.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "J06-rq3-research-team",
+  "work": "J06",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "A human still composes the story, selects which animal sounds carry which emotions, and occupies the speaker's stage, so the talk stages proxy voice rather than animal authorship; if the sounds were vocally imitated, the mediation is doubled. Borrowing TED's authority uses a platform built on human oratory to critique it. With no record of where the talk was given, who heard it or how they responded, the work's reach and consequence are unknown, and its canonical title and form must be confirmed by Jiabao before it can be analysed or figured.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
   "id": "W01-rq1-research-team",
   "work": "W01",
   "rq": "rq1",
@@ -965,7 +1145,7 @@
   "rq": "rq1",
   "annotator": "Research team",
   "role": "researcher-generated",
-  "text": "Natureculture is theoretically dense and can remain too abstract to guide situated design attention. Everyday entanglements are easily overlooked because they do not announce themselves as “more-than-human.”",
+  "text": "Air pollution is ambient and unequally distributed, while climate change is often communicated through remote numbers. People in cleaner-air locations cannot ordinarily encounter the atmospheric burden attached to other cities, and information alone competes poorly for public attention.",
   "date": "2026-08-29",
   "status": "researcher-generated"
  },
@@ -975,7 +1155,7 @@
   "rq": "rq2",
   "annotator": "Research team",
   "role": "researcher-generated",
-  "text": "Tactics include repeated image-making, revisitation, editing, pairing, sequencing, critique and the construction of a portable visual repertoire.",
+  "text": "The work uses full-body sequential simulation, smell, heat, humidity, architectural spectacle, public-park siting, international touring and embedded psychological evaluation. It turns breathing—normally unnoticed—into the unavoidable medium of comparison.",
   "date": "2026-08-29",
   "status": "researcher-generated"
  },
@@ -985,7 +1165,7 @@
   "rq": "rq3",
   "annotator": "Research team",
   "role": "researcher-generated",
-  "text": "The photographer controls framing and the research team curates what becomes analytically visible. A self-reflexive corpus can aestheticise decontextualised scenes, and it provides no evidence about how broader publics, photographed communities or nonhumans interpret the images or act through them.",
+  "text": "The domes offer a safe, authored simulation, not transported urban air, and can blur the distinction between toxic pollutants and mostly odourless greenhouse gases. The itinerary also risks turning unequal exposure into temporary cultural consumption by comparatively mobile visitors. In the 2,662-person study, intentions increased only very slightly (reported effect size *d* = 0.07); just 2% of installation visitors joined the offered action platform, and behavioural uptake could not be detected. Strong reach and emotion therefore did not establish an action bridge.",
   "date": "2026-08-29",
   "status": "researcher-generated"
  },
@@ -995,7 +1175,7 @@
   "rq": "rq1",
   "annotator": "Research team",
   "role": "researcher-generated",
-  "text": "Industrial design conventions hide endings by treating stability as success and decomposition as defect. Material agency therefore becomes noticeable only when control is deliberately relaxed.",
+  "text": "Extinction reaches many publics as a brief news event, while speculative de-extinction can make technological replacement appear more imaginable than long-term protection of living species, habitats and caretaking institutions.",
   "date": "2026-08-29",
   "status": "researcher-generated"
  },
@@ -1005,7 +1185,7 @@
   "rq": "rq2",
   "annotator": "Research team",
   "role": "researcher-generated",
-  "text": "The paper articulates tactics of fragmenting, ageing, liberating, tracing and temporary scaffolding, supported by material experimentation and comparative case curation.",
+  "text": "The artwork uses life-size scale, charismatic animal presence, pixel-to-lifelike transformation, adaptive agent behaviour, archival herd footage, paired explanatory data and long-term institutional circulation.",
   "date": "2026-08-29",
   "status": "researcher-generated"
  },
@@ -1015,7 +1195,7 @@
   "rq": "rq3",
   "annotator": "Research team",
   "role": "researcher-generated",
-  "text": "Unpredictability is not equivalent to material consent or co-authorship. Designers still establish initial conditions and judge aesthetically productive decay. Novice experimentation can romanticise damage while energy use, toxicity, waste and disposal remain outside the frame.",
+  "text": "A work criticising substitution must nevertheless make a compelling substitute. The isolated digital rhino can recentre AI laboratories, museums and technological virtuosity, while histories of hunting, conservation governance, colonial extraction, kinship and habitat are compressed into the absent background. Emotional encounter is documented only as an invitation; conservation action and changed priorities are not.",
   "date": "2026-08-29",
   "status": "researcher-generated"
  },
@@ -1025,7 +1205,7 @@
   "rq": "rq1",
   "annotator": "Research team",
   "role": "researcher-generated",
-  "text": "More-than-human design language can conceal the seasonal conflict, failure, repetition and skilled labour of actual multispecies relations.",
+  "text": "Posthuman interdependence is theoretically dense, and conventional VR isolates one viewer, privileges sight and leaves bodily relation outside the medium. The work also faces the challenge of making radical bodily difference inviting rather than punitive.",
   "date": "2026-08-29",
   "status": "researcher-generated"
  },
@@ -1035,7 +1215,7 @@
   "rq": "rq2",
   "annotator": "Research team",
   "role": "researcher-generated",
-  "text": "Tactics include long-term field immersion, bodily participation, following seasonal relations and analysing response and engagement instead of treating control as the default design goal.",
+  "text": "Tactics include role-based collective embodiment, theatrical facilitation, custom soft robotics, manipulated body schemas, haptics, scent, taste, food-sharing and a convergence from separate stories into a temporary public ritual.",
   "date": "2026-08-29",
   "status": "researcher-generated"
  },
@@ -1045,7 +1225,7 @@
   "rq": "rq3",
   "annotator": "Research team",
   "role": "researcher-generated",
-  "text": "Symbiosis is not necessarily harmonious or equally beneficial. Farming decisions allocate survival, death, labour and economic value. Researchers translate these relations into concepts, while farmers bear practical risk. The case therefore resists romantic multispecies togetherness.",
+  "text": "Designed hybridity can collapse species specificity into pleasurable human fantasy. The future world largely replaces competition and conflict with symbiosis, stabilising a politically attractive harmony. Custom wearables, bodily handling, food, intensive staffing and timed ticketing also distribute access unevenly. Immersion may deepen affect for participants but does not demonstrate nonhuman benefit, ecological accuracy or durable action.",
   "date": "2026-08-29",
   "status": "researcher-generated"
  },
@@ -1445,7 +1625,7 @@
   "rq": "rq1",
   "annotator": "Research team",
   "role": "researcher-generated",
-  "text": "Barcodes, standard reagents and protocols erase living origins. Focal organisms receive attention while the metabolic, resistance and sustenance work of organisms across supply chains remains structurally invisible.",
+  "text": "Canonical accounts of biotechnology governance foreground named scientists, formal declarations and abstract risks. They background the organisms that bore experimental risk, the places and care infrastructures sustaining debate, and marginalised human labour.",
   "date": "2026-08-29",
   "status": "researcher-generated"
  },
@@ -1455,7 +1635,7 @@
   "rq": "rq2",
   "annotator": "Research team",
   "role": "researcher-generated",
-  "text": "Tactics include stepwise protocol deconstruction, centre-to-periphery provenance mapping, labour categories, job-position analysis, degrees of subsumption, a practitioner workshop and an audit of sustainability claims across living inputs.",
+  "text": "The works use literalised wordplay, beverage service, scent, collective distillation, situated storytelling and insertion into the conference’s own hospitality ritual. Rather than address a generic gallery public, they intervene where biotechnology history and future governance are actively discussed.",
   "date": "2026-08-29",
   "status": "researcher-generated"
  },
@@ -1465,7 +1645,7 @@
   "rq": "rq3",
   "annotator": "Research team",
   "role": "researcher-generated",
-  "text": "Labour language reveals extraction and control, but can again define organisms by productivity. Provenance remains incomplete where suppliers use proprietary or generic labels. Workshop participants also showed charisma bias, recognising mammalian harm more readily than bacterial exploitation. Symbolic acknowledgement can coexist with unchanged material extraction.",
+  "text": "Reaching a small decision-capable public can be more consequential than maximising footfall, but the invitation-bounded setting also reproduces elite access. Makers and hosts decide which histories become drinkable or smellable, and sensory participation raises consent, allergy, safety and cultural-translation questions. Organisms and overlooked workers gain symbolic presence without authority to correct the representation or evidence that institutions redistributed power afterward.",
   "date": "2026-08-29",
   "status": "researcher-generated"
  },
@@ -1496,6 +1676,36 @@
   "annotator": "Research team",
   "role": "researcher-generated",
   "text": "Bodily analogy can reveal shared vulnerability but may appropriate histories of refugees, disability, labour exploitation, racial violence or other human suffering to give microbes emotional weight. Human consent can become a moral pass while microbial nonparticipation remains unaddressed. Consumer risk may recentre the diner. Affect, disgust or empathy cannot be treated as a linear measure of ethical improvement.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W51-rq1-research-team",
+  "work": "W51",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Fungi are commonly noticed through intermittent fruiting bodies, while the moisture and material conditions of their growth remain below ordinary public attention. Mycological and citizen-science practices can cultivate this knowledge, but they depend on situated expertise and repeated field contact that do not travel easily through conventional screens or general environmental communication.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W51-rq2-research-team",
+  "work": "W51",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The work combines bodily insertion, touch, conductive sensing, approximate LED feedback, wearable proximity and repeated forest testing. Replacing a pointed metal probe with fingers intentionally adds friction: wiggling, digging, alignment and imperfect measurement direct attention to substrate as a shared condition of fungal life. Its bridge is therefore sensory and relational as well as informational.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W51-rq3-research-team",
+  "work": "W51",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "HSI measures electrical conductivity associated with substrate moisture, not fungal presence, feeling or intention. The human hand and a designer-set calibration determine what becomes legible. The paper explicitly notes lower accuracy than a rigid sensor and reflects mainly on Liu's own experience, so an evocative prototype must not be inflated into evidence of general public understanding, citizen-science reliability, fungal agency or ecological benefit. Direct contact may cultivate care, but it can also disturb substrate; access also depends on mobility, willingness to touch soil and entry to forest or foraging settings.",
   "date": "2026-08-29",
   "status": "researcher-generated"
  }

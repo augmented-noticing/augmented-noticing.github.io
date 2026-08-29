@@ -398,5 +398,53 @@
   "page_url": "https://www.ascus.org.uk/whats-on/earthsoilfilth-exhibition-esf2024-da9ep",
   "credit": "Ascus Art & Science",
   "permission": "unverified"
+ },
+ {
+  "id": "J01",
+  "file": "assets/works/j01.jpg",
+  "image_url": "http://static1.squarespace.com/static/58688c8a6a496327e937e35b/t/62206f7bc41b065351642044/1681748018284/squid+map+cover.jpg?format=1500w",
+  "page_url": "https://www.jiabaoli.org/squid-map",
+  "credit": "Jiabao Li",
+  "permission": "unverified"
+ },
+ {
+  "id": "J02",
+  "file": "assets/works/j02.jpg",
+  "image_url": "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/25df8a3d-0242-4211-93e4-15bb0835bff8/Jiabao+Li+Sentient+Clit+2.jpg?format=1500w",
+  "page_url": "https://www.jiabaoli.org/sentient-clit",
+  "credit": "Jiabao Li",
+  "permission": "unverified"
+ },
+ {
+  "id": "J03",
+  "file": "assets/works/j03.jpg",
+  "image_url": "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/a913780f-a957-443c-8b30-8014f489d837/AI+Mom+Jiabao+Li+1.jpg?format=1500w",
+  "page_url": "https://www.jiabaoli.org/aimom",
+  "credit": "Jiabao Li",
+  "permission": "unverified"
+ },
+ {
+  "id": "J04",
+  "file": "assets/works/j04.jpg",
+  "image_url": "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/c3932ec7-6a6b-4671-96ce-bc5808b54847/Jiabao+Li_Cricket_Butoh+0.jpg?format=1500w",
+  "page_url": "https://www.jiabaoli.org/wings-against-the-veil-of-light",
+  "credit": "Jiabao Li (page credits photography to Christopher Davila and The Contemporary Austin / Levi Thompson)",
+  "permission": "unverified"
+ },
+ {
+  "id": "J05",
+  "file": "assets/works/j05.jpg",
+  "image_url": "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/f79d5437-1f99-4abe-8bc6-a73c66f26351/Jiabao+Li+Time+Sensitive+6.jpg?format=1500w",
+  "page_url": "https://www.jiabaoli.org/time-sensitive",
+  "credit": "Jiabao Li",
+  "permission": "unverified"
+ },
+ {
+  "id": "J06",
+  "file": null,
+  "image_url": null,
+  "page_url": "https://www.jiabaoli.org/chillout",
+  "credit": "Jiabao Li",
+  "permission": "unverified"
  }
 ]

@@ -1,1248 +1,1400 @@
 {
-  "W01": {
-    "rq1": [
-      "umwelt_gap",
-      "niche_confinement",
-      "action_gap",
-      "wrong_noticer"
-    ],
-    "rq2": [
-      "translating_embodying",
-      "inviting_attention",
-      "composing_publics"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "invitation_vs_recentering",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "bats",
-      "echolocation",
-      "mixed reality",
-      "festival",
-      "sensory substitution",
-      "live performance"
-    ]
-  },
-  "W02": {
-    "rq1": [
-      "umwelt_gap",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "translating_embodying",
-      "transmission_afterlives"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "appropriation_authority",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "star-nosed mole",
-      "haptics",
-      "reduced reality",
-      "mixed reality",
-      "touch",
-      "accessibility"
-    ]
-  },
-  "W03": {
-    "rq1": [
-      "umwelt_gap",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "translating_embodying",
-      "inviting_attention"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "circulation_vs_accountability"
-    ],
-    "keywords": [
-      "mycorrhizal networks",
-      "fungi",
-      "augmented reality",
-      "collective ritual",
-      "siggraph"
-    ]
-  },
-  "W04": {
-    "rq1": [
-      "umwelt_gap",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "translating_embodying",
-      "inviting_attention"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "access_exclusion"
-    ],
-    "keywords": [
-      "octopus",
-      "distributed cognition",
-      "xr",
-      "tethered bodies",
-      "soft textiles",
-      "electrical muscle stimulation"
-    ]
-  },
-  "W05": {
-    "rq1": [
-      "niche_confinement",
-      "afterlife_gap"
-    ],
-    "rq2": [
-      "narrative_fiction",
-      "inviting_attention",
-      "transmission_afterlives"
-    ],
-    "rq3": [
-      "platform_institution_dependence",
-      "legibility_vs_alterity"
-    ],
-    "keywords": [
-      "artificial life",
-      "ai character",
-      "virtual reality",
-      "data city",
-      "boundary case",
-      "re-platforming"
-    ]
-  },
-  "W06": {
-    "rq1": [
-      "everyday_invisibility",
-      "temporal_scale_gap",
-      "action_gap"
-    ],
-    "rq2": [
-      "composing_publics",
-      "translating_embodying",
-      "narrative_fiction"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "access_exclusion",
-      "appropriation_authority",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "creek",
-      "watershed",
-      "mobile ar",
-      "campus",
-      "lying down",
-      "indigenous histories"
-    ]
-  },
-  "W07": {
-    "rq1": [
-      "temporal_scale_gap",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "narrative_fiction",
-      "translating_embodying",
-      "transmission_afterlives",
-      "inviting_attention"
-    ],
-    "rq3": [
-      "invitation_vs_recentering",
-      "legibility_vs_alterity",
-      "circulation_vs_accountability",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "octopus",
-      "extinction",
-      "speculative fabulation",
-      "dance performance",
-      "ai imagery",
-      "venice biennale"
-    ]
-  },
-  "W08": {
-    "rq1": [
-      "umwelt_gap",
-      "action_gap"
-    ],
-    "rq2": [
-      "living_media",
-      "translating_embodying",
-      "routing_to_action",
-      "transmission_afterlives",
-      "data_sensing"
-    ],
-    "rq3": [
-      "mobilisation_vs_paternalism",
-      "welfare_instrumentalisation",
-      "circulation_vs_accountability",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "algae",
-      "carbon capture",
-      "breath",
-      "living media",
-      "dining performance",
-      "biodesign"
-    ]
-  },
-  "W09": {
-    "rq1": [
-      "umwelt_gap",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "translating_embodying",
-      "inviting_attention",
-      "composing_publics",
-      "transmission_afterlives"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "invitation_vs_recentering",
-      "impact_overclaim",
-      "access_exclusion"
-    ],
-    "keywords": [
-      "virtual reality",
-      "forest",
-      "animal perception",
-      "lidar",
-      "multisensory",
-      "touring"
-    ]
-  },
-  "W10": {
-    "rq1": [
-      "everyday_invisibility",
-      "action_gap"
-    ],
-    "rq2": [
-      "living_media",
-      "routing_to_action",
-      "composing_publics",
-      "transmission_afterlives",
-      "translating_embodying"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "impact_overclaim",
-      "access_exclusion"
-    ],
-    "keywords": [
-      "pollinators",
-      "garden",
-      "algorithm",
-      "planting",
-      "web tool",
-      "habitat"
-    ]
-  },
-  "W11": {
-    "rq1": [
-      "everyday_invisibility",
-      "afterlife_gap"
-    ],
-    "rq2": [
-      "data_sensing",
-      "translating_embodying",
-      "composing_publics"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "impact_overclaim",
-      "circulation_vs_accountability"
-    ],
-    "keywords": [
-      "fish",
-      "river",
-      "sms",
-      "water quality sensors",
-      "urban waterway",
-      "new york"
-    ]
-  },
-  "W12": {
-    "rq1": [
-      "temporal_scale_gap",
-      "noticing_labour",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "living_media",
-      "translating_embodying"
-    ],
-    "rq3": [
-      "access_exclusion",
-      "welfare_instrumentalisation"
-    ],
-    "keywords": [
-      "cress",
-      "durational performance",
-      "phototropism",
-      "plants",
-      "slowness",
-      "shadow"
-    ]
-  },
-  "W13": {
-    "rq1": [
-      "umwelt_gap",
-      "interpretive_authority_gap",
-      "afterlife_gap"
-    ],
-    "rq2": [
-      "data_sensing",
-      "living_media",
-      "composing_publics"
-    ],
-    "rq3": [
-      "welfare_instrumentalisation",
-      "legibility_vs_alterity",
-      "circulation_vs_accountability"
-    ],
-    "keywords": [
-      "pigeons",
-      "air pollution",
-      "citizen sensing",
-      "environmental justice",
-      "isea",
-      "live map"
-    ]
-  },
-  "W14": {
-    "rq1": [
-      "everyday_invisibility",
-      "action_gap"
-    ],
-    "rq2": [
-      "inviting_attention",
-      "composing_publics",
-      "translating_embodying",
-      "transmission_afterlives"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "invitation_vs_recentering",
-      "circulation_vs_accountability",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "street trees",
-      "email",
-      "melbourne",
-      "municipal platform",
-      "urban forest",
-      "correspondence"
-    ]
-  },
-  "W15": {
-    "rq1": [
-      "action_gap",
-      "afterlife_gap",
-      "interpretive_authority_gap"
-    ],
-    "rq2": [
-      "routing_to_action",
-      "composing_publics",
-      "narrative_fiction",
-      "inviting_attention"
-    ],
-    "rq3": [
-      "mobilisation_vs_paternalism",
-      "welfare_instrumentalisation",
-      "access_exclusion",
-      "circulation_vs_accountability"
-    ],
-    "keywords": [
-      "clinic",
-      "prescriptions",
-      "civic participation",
-      "natalie jeremijenko",
-      "new york",
-      "environmental health"
-    ]
-  },
-  "W16": {
-    "rq1": [
-      "umwelt_gap",
-      "interpretive_authority_gap"
-    ],
-    "rq2": [
-      "data_sensing",
-      "inviting_attention",
-      "composing_publics",
-      "routing_to_action",
-      "transmission_afterlives"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "circulation_vs_accountability",
-      "platform_institution_dependence"
-    ],
-    "keywords": [
-      "robot dogs",
-      "soil contamination",
-      "toy hacking",
-      "youth workshops",
-      "environmental justice",
-      "sensing"
-    ]
-  },
-  "W17": {
-    "rq1": [
-      "umwelt_gap",
-      "temporal_scale_gap",
-      "interpretive_authority_gap"
-    ],
-    "rq2": [
-      "data_sensing",
-      "translating_embodying",
-      "composing_publics"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "platform_institution_dependence",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "trees",
-      "sap flow",
-      "twitter",
-      "sensors",
-      "drought",
-      "forestry"
-    ]
-  },
-  "W18": {
-    "rq1": [
-      "umwelt_gap",
-      "niche_confinement",
-      "action_gap"
-    ],
-    "rq2": [
-      "translating_embodying",
-      "data_sensing",
-      "accountable_mediation"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "circulation_vs_accountability",
-      "access_exclusion"
-    ],
-    "keywords": [
-      "hydrophone",
-      "ocean",
-      "sound art",
-      "underwater noise",
-      "listening",
-      "art basel"
-    ]
-  },
-  "W19": {
-    "rq1": [
-      "umwelt_gap",
-      "temporal_scale_gap",
-      "noticing_labour"
-    ],
-    "rq2": [
-      "translating_embodying",
-      "data_sensing",
-      "transmission_afterlives"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "bark beetles",
-      "pinyon pine",
-      "field recording",
-      "album",
-      "forest",
-      "probe microphone"
-    ]
-  },
-  "W20": {
-    "rq1": [
-      "umwelt_gap",
-      "interpretive_authority_gap"
-    ],
-    "rq2": [
-      "data_sensing",
-      "inviting_attention",
-      "composing_publics",
-      "transmission_afterlives",
-      "translating_embodying"
-    ],
-    "rq3": [
-      "invitation_vs_recentering",
-      "legibility_vs_alterity",
-      "impact_overclaim",
-      "circulation_vs_accountability"
-    ],
-    "keywords": [
-      "honeybees",
-      "pavilion",
-      "expo milano",
-      "kew gardens",
-      "live data",
-      "architecture"
-    ]
-  },
-  "W21": {
-    "rq1": [
-      "umwelt_gap",
-      "temporal_scale_gap",
-      "noticing_labour"
-    ],
-    "rq2": [
-      "living_media",
-      "data_sensing",
-      "translating_embodying",
-      "inviting_attention"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "welfare_instrumentalisation"
-    ],
-    "keywords": [
-      "fermentation",
-      "nukadoko",
-      "microbes",
-      "voice interface",
-      "care",
-      "japan"
-    ]
-  },
-  "W22": {
-    "rq1": [
-      "umwelt_gap",
-      "temporal_scale_gap",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "data_sensing",
-      "translating_embodying",
-      "transmission_afterlives",
-      "inviting_attention"
-    ],
-    "rq3": [
-      "invitation_vs_recentering",
-      "appropriation_authority",
-      "circulation_vs_accountability",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "biophony",
-      "soundscape",
-      "bernie krause",
-      "museum",
-      "spectrogram",
-      "field recording archive"
-    ]
-  },
-  "W23": {
-    "rq1": [
-      "temporal_scale_gap",
-      "action_gap",
-      "wrong_noticer"
-    ],
-    "rq2": [
-      "composing_publics",
-      "inviting_attention",
-      "routing_to_action",
-      "transmission_afterlives"
-    ],
-    "rq3": [
-      "circulation_vs_accountability",
-      "legibility_vs_alterity"
-    ],
-    "keywords": [
-      "dead trees",
-      "climate change",
-      "public art",
-      "madison square park",
-      "atlantic white cedar",
-      "maya lin"
-    ]
-  },
-  "W24": {
-    "rq1": [
-      "umwelt_gap",
-      "interpretive_authority_gap",
-      "action_gap",
-      "wrong_noticer"
-    ],
-    "rq2": [
-      "data_sensing",
-      "translating_embodying",
-      "composing_publics",
-      "inviting_attention"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "invitation_vs_recentering",
-      "circulation_vs_accountability"
-    ],
-    "keywords": [
-      "pm2.5",
-      "air pollution",
-      "projection",
-      "real-time data",
-      "building facade",
-      "andrea polli"
-    ]
-  },
-  "W25": {
-    "rq1": [
-      "care_welfare_gap"
-    ],
-    "rq2": [
-      "inviting_attention",
-      "living_media",
-      "translating_embodying",
-      "narrative_fiction",
-      "composing_publics"
-    ],
-    "rq3": [
-      "welfare_instrumentalisation",
-      "legibility_vs_alterity"
-    ],
-    "keywords": [
-      "mouse",
-      "exercise",
-      "running",
-      "role reversal",
-      "lab animals",
-      "app"
-    ]
-  },
-  "W26": {
-    "rq1": [
-      "care_welfare_gap",
-      "interpretive_authority_gap"
-    ],
-    "rq2": [
-      "routing_to_action",
-      "composing_publics",
-      "inviting_attention",
-      "translating_embodying"
-    ],
-    "rq3": [
-      "impact_overclaim",
-      "appropriation_authority",
-      "platform_institution_dependence"
-    ],
-    "keywords": [
-      "elephants",
-      "animal rights",
-      "augmented reality",
-      "litigation",
-      "online campaign",
-      "music video"
-    ]
-  },
-  "W27": {
-    "rq1": [
-      "niche_confinement",
-      "action_gap"
-    ],
-    "rq2": [
-      "inviting_attention",
-      "composing_publics",
-      "transmission_afterlives",
-      "narrative_fiction"
-    ],
-    "rq3": [
-      "platform_institution_dependence",
-      "impact_overclaim",
-      "circulation_vs_accountability"
-    ],
-    "keywords": [
-      "octopus",
-      "social media",
-      "science education",
-      "nonprofit",
-      "ocean literacy",
-      "charisma"
-    ]
-  },
-  "W28": {
-    "rq1": [
-      "temporal_scale_gap",
-      "action_gap",
-      "wrong_noticer"
-    ],
-    "rq2": [
-      "translating_embodying",
-      "composing_publics",
-      "inviting_attention",
-      "transmission_afterlives",
-      "routing_to_action"
-    ],
-    "rq3": [
-      "circulation_vs_accountability",
-      "appropriation_authority",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "glacier ice",
-      "climate",
-      "olafur eliasson",
-      "cop",
-      "public square",
-      "melting"
-    ]
-  },
-  "W29": {
-    "rq1": [
-      "umwelt_gap",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "data_sensing",
-      "living_media",
-      "translating_embodying"
-    ],
-    "rq3": [
-      "legibility_vs_alterity"
-    ],
-    "keywords": [
-      "plant biosignals",
-      "cymatics",
-      "sound and light",
-      "festival",
-      "ars electronica",
-      "classification"
-    ]
-  },
-  "W30": {
-    "rq1": [
-      "umwelt_gap",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "data_sensing",
-      "living_media",
-      "translating_embodying",
-      "transmission_afterlives"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "circulation_vs_accountability"
-    ],
-    "keywords": [
-      "plants",
-      "digital twin",
-      "biosignals",
-      "mixed reality",
-      "forest",
-      "ai"
-    ]
-  },
-  "W31": {
-    "rq1": [
-      "umwelt_gap",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "data_sensing",
-      "translating_embodying",
-      "composing_publics"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "impact_overclaim",
-      "invitation_vs_recentering"
-    ],
-    "keywords": [
-      "forest therapy",
-      "haptics",
-      "wearable",
-      "sonification",
-      "japan",
-      "field sensing"
-    ]
-  },
-  "W32": {
-    "rq1": [
-      "temporal_scale_gap",
-      "care_welfare_gap"
-    ],
-    "rq2": [
-      "living_media",
-      "data_sensing",
-      "transmission_afterlives"
-    ],
-    "rq3": [
-      "welfare_instrumentalisation",
-      "circulation_vs_accountability",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "pond",
-      "domestic",
-      "cohabitation",
-      "sensors",
-      "insects",
-      "longitudinal archive"
-    ]
-  },
-  "W33": {
-    "rq1": [
-      "everyday_invisibility",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "transmission_afterlives"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "invitation_vs_recentering"
-    ],
-    "keywords": [
-      "photography",
-      "natureculture",
-      "research method",
-      "dis",
-      "visual repertoire"
-    ]
-  },
-  "W34": {
-    "rq1": [
-      "temporal_scale_gap",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "transmission_afterlives",
-      "accountable_mediation"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "circulation_vs_accountability",
-      "invitation_vs_recentering"
-    ],
-    "keywords": [
-      "ceramics",
-      "decay",
-      "material agency",
-      "research through design",
-      "tei",
-      "endings"
-    ]
-  },
-  "W35": {
-    "rq1": [
-      "noticing_labour",
-      "interpretive_authority_gap"
-    ],
-    "rq2": [
-      "translating_embodying",
-      "accountable_mediation",
-      "living_media"
-    ],
-    "rq3": [
-      "welfare_instrumentalisation",
-      "appropriation_authority",
-      "circulation_vs_accountability"
-    ],
-    "keywords": [
-      "farming",
-      "ethnography",
-      "taiwan",
-      "weeds",
-      "snails",
-      "seasons"
-    ]
-  },
-  "W36": {
-    "rq1": [
-      "umwelt_gap",
-      "everyday_invisibility",
-      "noticing_labour"
-    ],
-    "rq2": [
-      "data_sensing",
-      "living_media",
-      "translating_embodying",
-      "composing_publics",
-      "accountable_mediation",
-      "routing_to_action"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "houseplants",
-      "sonification",
-      "home deployment",
-      "plant electrophysiology",
-      "maker faire",
-      "diaries"
-    ]
-  },
-  "W37": {
-    "rq1": [
-      "niche_confinement",
-      "everyday_invisibility"
-    ],
-    "rq2": [
-      "translating_embodying",
-      "inviting_attention",
-      "composing_publics",
-      "living_media",
-      "transmission_afterlives"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "welfare_instrumentalisation",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "potted plants",
-      "touch",
-      "capacitive sensing",
-      "festival",
-      "sound installation",
-      "families"
-    ]
-  },
-  "W38": {
-    "rq1": [
-      "umwelt_gap",
-      "temporal_scale_gap",
-      "noticing_labour"
-    ],
-    "rq2": [
-      "data_sensing",
-      "living_media",
-      "inviting_attention",
-      "translating_embodying",
-      "accountable_mediation"
-    ],
-    "rq3": [
-      "welfare_instrumentalisation",
-      "invitation_vs_recentering"
-    ],
-    "keywords": [
-      "soil",
-      "worms",
-      "contact microphone",
-      "mirror ball",
-      "ecoacoustics",
-      "silence"
-    ]
-  },
-  "W39": {
-    "rq1": [
-      "interpretive_authority_gap",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "composing_publics",
-      "translating_embodying",
-      "narrative_fiction",
-      "routing_to_action"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "appropriation_authority",
-      "mobilisation_vs_paternalism",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "permaculture",
-      "meetings",
-      "proxy voice",
-      "deliberation",
-      "conversational artifact",
-      "garden"
-    ]
-  },
-  "W40": {
-    "rq1": [
-      "care_welfare_gap",
-      "noticing_labour",
-      "umwelt_gap"
-    ],
-    "rq2": [
-      "living_media",
-      "translating_embodying",
-      "routing_to_action"
-    ],
-    "rq3": [
-      "welfare_instrumentalisation",
-      "legibility_vs_alterity",
-      "mobilisation_vs_paternalism"
-    ],
-    "keywords": [
-      "slime mould",
-      "physarum",
-      "smartwatch",
-      "care",
-      "uist",
-      "living electronics"
-    ]
-  },
-  "W41": {
-    "rq1": [
-      "temporal_scale_gap",
-      "care_welfare_gap",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "living_media",
-      "accountable_mediation",
-      "transmission_afterlives"
-    ],
-    "rq3": [
-      "welfare_instrumentalisation",
-      "circulation_vs_accountability"
-    ],
-    "keywords": [
-      "plants",
-      "robots",
-      "actuators",
-      "growth",
-      "decay",
-      "dis"
-    ]
-  },
-  "W42": {
-    "rq1": [
-      "care_welfare_gap",
-      "interpretive_authority_gap"
-    ],
-    "rq2": [
-      "living_media",
-      "accountable_mediation",
-      "composing_publics",
-      "inviting_attention",
-      "data_sensing"
-    ],
-    "rq3": [
-      "welfare_instrumentalisation",
-      "circulation_vs_accountability",
-      "impact_overclaim",
-      "legibility_vs_alterity"
-    ],
-    "keywords": [
-      "cats",
-      "robot",
-      "ai care",
-      "animal welfare",
-      "blast theory",
-      "science gallery"
-    ]
-  },
-  "W43": {
-    "rq1": [
-      "umwelt_gap",
-      "action_gap"
-    ],
-    "rq2": [
-      "data_sensing",
-      "translating_embodying",
-      "inviting_attention",
-      "transmission_afterlives"
-    ],
-    "rq3": [
-      "invitation_vs_recentering",
-      "legibility_vs_alterity",
-      "access_exclusion",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "giant sequoia",
-      "breath",
-      "virtual reality",
-      "marshmallow laser feast",
-      "museum",
-      "forest metabolism"
-    ]
-  },
-  "W44": {
-    "rq1": [
-      "umwelt_gap",
-      "temporal_scale_gap"
-    ],
-    "rq2": [
-      "translating_embodying",
-      "inviting_attention",
-      "composing_publics",
-      "transmission_afterlives",
-      "narrative_fiction"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "circulation_vs_accountability",
-      "invitation_vs_recentering"
-    ],
-    "keywords": [
-      "redwood",
-      "virtual reality",
-      "tree hug",
-      "scent",
-      "family festival",
-      "marshmallow laser feast"
-    ]
-  },
-  "W45": {
-    "rq1": [
-      "action_gap",
-      "interpretive_authority_gap"
-    ],
-    "rq2": [
-      "narrative_fiction",
-      "routing_to_action",
-      "data_sensing",
-      "composing_publics"
-    ],
-    "rq3": [
-      "platform_institution_dependence",
-      "appropriation_authority",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "blockchain",
-      "forest",
-      "legal personhood",
-      "smart contracts",
-      "speculative design",
-      "dao"
-    ]
-  },
-  "W46": {
-    "rq1": [
-      "temporal_scale_gap",
-      "umwelt_gap"
-    ],
-    "rq2": [
-      "living_media",
-      "translating_embodying",
-      "routing_to_action"
-    ],
-    "rq3": [
-      "welfare_instrumentalisation",
-      "impact_overclaim",
-      "mobilisation_vs_paternalism"
-    ],
-    "keywords": [
-      "lichen",
-      "wearable habitat",
-      "ash dieback",
-      "biomimicry",
-      "dutch design week",
-      "spore dispersal"
-    ]
-  },
-  "W47": {
-    "rq1": [
-      "umwelt_gap",
-      "niche_confinement"
-    ],
-    "rq2": [
-      "translating_embodying",
-      "accountable_mediation"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "access_exclusion"
-    ],
-    "keywords": [
-      "plants",
-      "wearables",
-      "cross-modal",
-      "taste",
-      "royal college of art",
-      "analogy"
-    ]
-  },
-  "W48": {
-    "rq1": [
-      "umwelt_gap",
-      "care_welfare_gap",
-      "interpretive_authority_gap"
-    ],
-    "rq2": [
-      "narrative_fiction",
-      "composing_publics",
-      "routing_to_action",
-      "inviting_attention"
-    ],
-    "rq3": [
-      "legibility_vs_alterity",
-      "welfare_instrumentalisation"
-    ],
-    "keywords": [
-      "microbes",
-      "laboratory",
-      "chindogu",
-      "workshops",
-      "biosafety",
-      "chi"
-    ]
-  },
-  "W49": {
-    "rq1": [
-      "care_welfare_gap",
-      "interpretive_authority_gap"
-    ],
-    "rq2": [
-      "routing_to_action",
-      "transmission_afterlives",
-      "accountable_mediation",
-      "composing_publics"
-    ],
-    "rq3": [
-      "welfare_instrumentalisation",
-      "circulation_vs_accountability",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "biodesign",
-      "supply chain",
-      "provenance",
-      "labour",
-      "laboratory organisms",
-      "audit"
-    ]
-  },
-  "W50": {
-    "rq1": [
-      "care_welfare_gap",
-      "umwelt_gap",
-      "interpretive_authority_gap"
-    ],
-    "rq2": [
-      "narrative_fiction",
-      "translating_embodying",
-      "living_media",
-      "composing_publics",
-      "accountable_mediation"
-    ],
-    "rq3": [
-      "appropriation_authority",
-      "welfare_instrumentalisation",
-      "invitation_vs_recentering",
-      "impact_overclaim"
-    ],
-    "keywords": [
-      "bioart",
-      "dining theatre",
-      "fermentation",
-      "ethics",
-      "edinburgh",
-      "microbes"
-    ]
-  }
+ "W01": {
+  "rq1": [
+   "umwelt_gap",
+   "niche_confinement",
+   "action_gap",
+   "wrong_noticer"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "inviting_attention",
+   "composing_publics"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "invitation_vs_recentering",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "bats",
+   "echolocation",
+   "mixed reality",
+   "festival",
+   "sensory substitution",
+   "live performance"
+  ]
+ },
+ "W02": {
+  "rq1": [
+   "umwelt_gap",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "appropriation_authority",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "star-nosed mole",
+   "haptics",
+   "reduced reality",
+   "mixed reality",
+   "touch",
+   "accessibility"
+  ]
+ },
+ "W03": {
+  "rq1": [
+   "umwelt_gap",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "inviting_attention"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "circulation_vs_accountability"
+  ],
+  "keywords": [
+   "mycorrhizal networks",
+   "fungi",
+   "augmented reality",
+   "collective ritual",
+   "siggraph"
+  ]
+ },
+ "W04": {
+  "rq1": [
+   "umwelt_gap",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "inviting_attention"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "access_exclusion"
+  ],
+  "keywords": [
+   "octopus",
+   "distributed cognition",
+   "xr",
+   "tethered bodies",
+   "soft textiles",
+   "electrical muscle stimulation"
+  ]
+ },
+ "W05": {
+  "rq1": [
+   "niche_confinement",
+   "afterlife_gap"
+  ],
+  "rq2": [
+   "narrative_fiction",
+   "inviting_attention",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "platform_institution_dependence",
+   "legibility_vs_alterity"
+  ],
+  "keywords": [
+   "artificial life",
+   "ai character",
+   "virtual reality",
+   "data city",
+   "boundary case",
+   "re-platforming"
+  ]
+ },
+ "W06": {
+  "rq1": [
+   "everyday_invisibility",
+   "temporal_scale_gap",
+   "action_gap"
+  ],
+  "rq2": [
+   "composing_publics",
+   "translating_embodying",
+   "narrative_fiction"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "access_exclusion",
+   "appropriation_authority",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "creek",
+   "watershed",
+   "mobile ar",
+   "campus",
+   "lying down",
+   "indigenous histories"
+  ]
+ },
+ "W07": {
+  "rq1": [
+   "temporal_scale_gap",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "narrative_fiction",
+   "translating_embodying",
+   "transmission_afterlives",
+   "inviting_attention"
+  ],
+  "rq3": [
+   "invitation_vs_recentering",
+   "legibility_vs_alterity",
+   "circulation_vs_accountability",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "octopus",
+   "extinction",
+   "speculative fabulation",
+   "dance performance",
+   "ai imagery",
+   "venice biennale"
+  ]
+ },
+ "W08": {
+  "rq1": [
+   "umwelt_gap",
+   "action_gap"
+  ],
+  "rq2": [
+   "living_media",
+   "translating_embodying",
+   "routing_to_action",
+   "transmission_afterlives",
+   "data_sensing"
+  ],
+  "rq3": [
+   "mobilisation_vs_paternalism",
+   "welfare_instrumentalisation",
+   "circulation_vs_accountability",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "algae",
+   "carbon capture",
+   "breath",
+   "living media",
+   "dining performance",
+   "biodesign"
+  ]
+ },
+ "W09": {
+  "rq1": [
+   "umwelt_gap",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "inviting_attention",
+   "composing_publics",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "invitation_vs_recentering",
+   "impact_overclaim",
+   "access_exclusion"
+  ],
+  "keywords": [
+   "virtual reality",
+   "forest",
+   "animal perception",
+   "lidar",
+   "multisensory",
+   "touring"
+  ]
+ },
+ "W10": {
+  "rq1": [
+   "everyday_invisibility",
+   "action_gap"
+  ],
+  "rq2": [
+   "living_media",
+   "routing_to_action",
+   "composing_publics",
+   "transmission_afterlives",
+   "translating_embodying"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "impact_overclaim",
+   "access_exclusion"
+  ],
+  "keywords": [
+   "pollinators",
+   "garden",
+   "algorithm",
+   "planting",
+   "web tool",
+   "habitat"
+  ]
+ },
+ "W11": {
+  "rq1": [
+   "everyday_invisibility",
+   "afterlife_gap"
+  ],
+  "rq2": [
+   "data_sensing",
+   "translating_embodying",
+   "composing_publics"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "impact_overclaim",
+   "circulation_vs_accountability"
+  ],
+  "keywords": [
+   "fish",
+   "river",
+   "sms",
+   "water quality sensors",
+   "urban waterway",
+   "new york"
+  ]
+ },
+ "W12": {
+  "rq1": [
+   "temporal_scale_gap",
+   "noticing_labour",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "living_media",
+   "translating_embodying"
+  ],
+  "rq3": [
+   "access_exclusion",
+   "welfare_instrumentalisation"
+  ],
+  "keywords": [
+   "cress",
+   "durational performance",
+   "phototropism",
+   "plants",
+   "slowness",
+   "shadow"
+  ]
+ },
+ "W13": {
+  "rq1": [
+   "umwelt_gap",
+   "interpretive_authority_gap",
+   "afterlife_gap"
+  ],
+  "rq2": [
+   "data_sensing",
+   "living_media",
+   "composing_publics"
+  ],
+  "rq3": [
+   "welfare_instrumentalisation",
+   "legibility_vs_alterity",
+   "circulation_vs_accountability"
+  ],
+  "keywords": [
+   "pigeons",
+   "air pollution",
+   "citizen sensing",
+   "environmental justice",
+   "isea",
+   "live map"
+  ]
+ },
+ "W14": {
+  "rq1": [
+   "everyday_invisibility",
+   "action_gap"
+  ],
+  "rq2": [
+   "inviting_attention",
+   "composing_publics",
+   "translating_embodying",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "invitation_vs_recentering",
+   "circulation_vs_accountability",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "street trees",
+   "email",
+   "melbourne",
+   "municipal platform",
+   "urban forest",
+   "correspondence"
+  ]
+ },
+ "W15": {
+  "rq1": [
+   "action_gap",
+   "afterlife_gap",
+   "interpretive_authority_gap"
+  ],
+  "rq2": [
+   "routing_to_action",
+   "composing_publics",
+   "narrative_fiction",
+   "inviting_attention"
+  ],
+  "rq3": [
+   "mobilisation_vs_paternalism",
+   "welfare_instrumentalisation",
+   "access_exclusion",
+   "circulation_vs_accountability"
+  ],
+  "keywords": [
+   "clinic",
+   "prescriptions",
+   "civic participation",
+   "natalie jeremijenko",
+   "new york",
+   "environmental health"
+  ]
+ },
+ "W16": {
+  "rq1": [
+   "umwelt_gap",
+   "interpretive_authority_gap"
+  ],
+  "rq2": [
+   "data_sensing",
+   "inviting_attention",
+   "composing_publics",
+   "routing_to_action",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "circulation_vs_accountability",
+   "platform_institution_dependence"
+  ],
+  "keywords": [
+   "robot dogs",
+   "soil contamination",
+   "toy hacking",
+   "youth workshops",
+   "environmental justice",
+   "sensing"
+  ]
+ },
+ "W17": {
+  "rq1": [
+   "umwelt_gap",
+   "temporal_scale_gap",
+   "interpretive_authority_gap"
+  ],
+  "rq2": [
+   "data_sensing",
+   "translating_embodying",
+   "composing_publics"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "platform_institution_dependence",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "trees",
+   "sap flow",
+   "twitter",
+   "sensors",
+   "drought",
+   "forestry"
+  ]
+ },
+ "W18": {
+  "rq1": [
+   "umwelt_gap",
+   "niche_confinement",
+   "action_gap"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "data_sensing",
+   "accountable_mediation"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "circulation_vs_accountability",
+   "access_exclusion"
+  ],
+  "keywords": [
+   "hydrophone",
+   "ocean",
+   "sound art",
+   "underwater noise",
+   "listening",
+   "art basel"
+  ]
+ },
+ "W19": {
+  "rq1": [
+   "umwelt_gap",
+   "temporal_scale_gap",
+   "noticing_labour"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "data_sensing",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "bark beetles",
+   "pinyon pine",
+   "field recording",
+   "album",
+   "forest",
+   "probe microphone"
+  ]
+ },
+ "W20": {
+  "rq1": [
+   "umwelt_gap",
+   "interpretive_authority_gap"
+  ],
+  "rq2": [
+   "data_sensing",
+   "inviting_attention",
+   "composing_publics",
+   "transmission_afterlives",
+   "translating_embodying"
+  ],
+  "rq3": [
+   "invitation_vs_recentering",
+   "legibility_vs_alterity",
+   "impact_overclaim",
+   "circulation_vs_accountability"
+  ],
+  "keywords": [
+   "honeybees",
+   "pavilion",
+   "expo milano",
+   "kew gardens",
+   "live data",
+   "architecture"
+  ]
+ },
+ "W21": {
+  "rq1": [
+   "umwelt_gap",
+   "temporal_scale_gap",
+   "noticing_labour"
+  ],
+  "rq2": [
+   "living_media",
+   "data_sensing",
+   "translating_embodying",
+   "inviting_attention"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "welfare_instrumentalisation"
+  ],
+  "keywords": [
+   "fermentation",
+   "nukadoko",
+   "microbes",
+   "voice interface",
+   "care",
+   "japan"
+  ]
+ },
+ "W22": {
+  "rq1": [
+   "umwelt_gap",
+   "temporal_scale_gap",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "data_sensing",
+   "translating_embodying",
+   "transmission_afterlives",
+   "inviting_attention"
+  ],
+  "rq3": [
+   "invitation_vs_recentering",
+   "appropriation_authority",
+   "circulation_vs_accountability",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "biophony",
+   "soundscape",
+   "bernie krause",
+   "museum",
+   "spectrogram",
+   "field recording archive"
+  ]
+ },
+ "W23": {
+  "rq1": [
+   "temporal_scale_gap",
+   "action_gap",
+   "wrong_noticer"
+  ],
+  "rq2": [
+   "composing_publics",
+   "inviting_attention",
+   "routing_to_action",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "circulation_vs_accountability",
+   "legibility_vs_alterity"
+  ],
+  "keywords": [
+   "dead trees",
+   "climate change",
+   "public art",
+   "madison square park",
+   "atlantic white cedar",
+   "maya lin"
+  ]
+ },
+ "W24": {
+  "rq1": [
+   "umwelt_gap",
+   "interpretive_authority_gap",
+   "action_gap",
+   "wrong_noticer"
+  ],
+  "rq2": [
+   "data_sensing",
+   "translating_embodying",
+   "composing_publics",
+   "inviting_attention"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "invitation_vs_recentering",
+   "circulation_vs_accountability"
+  ],
+  "keywords": [
+   "pm2.5",
+   "air pollution",
+   "projection",
+   "real-time data",
+   "building facade",
+   "andrea polli"
+  ]
+ },
+ "W25": {
+  "rq1": [
+   "care_welfare_gap"
+  ],
+  "rq2": [
+   "inviting_attention",
+   "living_media",
+   "translating_embodying",
+   "narrative_fiction",
+   "composing_publics"
+  ],
+  "rq3": [
+   "welfare_instrumentalisation",
+   "legibility_vs_alterity"
+  ],
+  "keywords": [
+   "mouse",
+   "exercise",
+   "running",
+   "role reversal",
+   "lab animals",
+   "app"
+  ]
+ },
+ "W26": {
+  "rq1": [
+   "care_welfare_gap",
+   "interpretive_authority_gap"
+  ],
+  "rq2": [
+   "routing_to_action",
+   "composing_publics",
+   "inviting_attention",
+   "translating_embodying"
+  ],
+  "rq3": [
+   "impact_overclaim",
+   "appropriation_authority",
+   "platform_institution_dependence"
+  ],
+  "keywords": [
+   "elephants",
+   "animal rights",
+   "augmented reality",
+   "litigation",
+   "online campaign",
+   "music video"
+  ]
+ },
+ "W27": {
+  "rq1": [
+   "niche_confinement",
+   "action_gap"
+  ],
+  "rq2": [
+   "inviting_attention",
+   "composing_publics",
+   "transmission_afterlives",
+   "narrative_fiction"
+  ],
+  "rq3": [
+   "platform_institution_dependence",
+   "impact_overclaim",
+   "circulation_vs_accountability"
+  ],
+  "keywords": [
+   "octopus",
+   "social media",
+   "science education",
+   "nonprofit",
+   "ocean literacy",
+   "charisma"
+  ]
+ },
+ "W28": {
+  "rq1": [
+   "temporal_scale_gap",
+   "action_gap",
+   "wrong_noticer"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "composing_publics",
+   "inviting_attention",
+   "transmission_afterlives",
+   "routing_to_action"
+  ],
+  "rq3": [
+   "circulation_vs_accountability",
+   "appropriation_authority",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "glacier ice",
+   "climate",
+   "olafur eliasson",
+   "cop",
+   "public square",
+   "melting"
+  ]
+ },
+ "W29": {
+  "rq1": [
+   "umwelt_gap",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "data_sensing",
+   "living_media",
+   "translating_embodying"
+  ],
+  "rq3": [
+   "legibility_vs_alterity"
+  ],
+  "keywords": [
+   "plant biosignals",
+   "cymatics",
+   "sound and light",
+   "festival",
+   "ars electronica",
+   "classification"
+  ]
+ },
+ "W30": {
+  "rq1": [
+   "umwelt_gap",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "data_sensing",
+   "living_media",
+   "translating_embodying",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "circulation_vs_accountability"
+  ],
+  "keywords": [
+   "plants",
+   "digital twin",
+   "biosignals",
+   "mixed reality",
+   "forest",
+   "ai"
+  ]
+ },
+ "W31": {
+  "rq1": [
+   "umwelt_gap",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "data_sensing",
+   "translating_embodying",
+   "composing_publics"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "impact_overclaim",
+   "invitation_vs_recentering"
+  ],
+  "keywords": [
+   "forest therapy",
+   "haptics",
+   "wearable",
+   "sonification",
+   "japan",
+   "field sensing"
+  ]
+ },
+ "W32": {
+  "rq1": [
+   "temporal_scale_gap",
+   "care_welfare_gap"
+  ],
+  "rq2": [
+   "living_media",
+   "data_sensing",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "welfare_instrumentalisation",
+   "circulation_vs_accountability",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "pond",
+   "domestic",
+   "cohabitation",
+   "sensors",
+   "insects",
+   "longitudinal archive"
+  ]
+ },
+ "W33": {
+  "rq1": [
+   "everyday_invisibility",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "invitation_vs_recentering"
+  ],
+  "keywords": [
+   "photography",
+   "natureculture",
+   "research method",
+   "dis",
+   "visual repertoire"
+  ]
+ },
+ "W34": {
+  "rq1": [
+   "temporal_scale_gap",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "transmission_afterlives",
+   "accountable_mediation"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "circulation_vs_accountability",
+   "invitation_vs_recentering"
+  ],
+  "keywords": [
+   "ceramics",
+   "decay",
+   "material agency",
+   "research through design",
+   "tei",
+   "endings"
+  ]
+ },
+ "W35": {
+  "rq1": [
+   "noticing_labour",
+   "interpretive_authority_gap"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "accountable_mediation",
+   "living_media"
+  ],
+  "rq3": [
+   "welfare_instrumentalisation",
+   "appropriation_authority",
+   "circulation_vs_accountability"
+  ],
+  "keywords": [
+   "farming",
+   "ethnography",
+   "taiwan",
+   "weeds",
+   "snails",
+   "seasons"
+  ]
+ },
+ "W36": {
+  "rq1": [
+   "umwelt_gap",
+   "everyday_invisibility",
+   "noticing_labour"
+  ],
+  "rq2": [
+   "data_sensing",
+   "living_media",
+   "translating_embodying",
+   "composing_publics",
+   "accountable_mediation",
+   "routing_to_action"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "houseplants",
+   "sonification",
+   "home deployment",
+   "plant electrophysiology",
+   "maker faire",
+   "diaries"
+  ]
+ },
+ "W37": {
+  "rq1": [
+   "niche_confinement",
+   "everyday_invisibility"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "inviting_attention",
+   "composing_publics",
+   "living_media",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "welfare_instrumentalisation",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "potted plants",
+   "touch",
+   "capacitive sensing",
+   "festival",
+   "sound installation",
+   "families"
+  ]
+ },
+ "W38": {
+  "rq1": [
+   "umwelt_gap",
+   "temporal_scale_gap",
+   "noticing_labour"
+  ],
+  "rq2": [
+   "data_sensing",
+   "living_media",
+   "inviting_attention",
+   "translating_embodying",
+   "accountable_mediation"
+  ],
+  "rq3": [
+   "welfare_instrumentalisation",
+   "invitation_vs_recentering"
+  ],
+  "keywords": [
+   "soil",
+   "worms",
+   "contact microphone",
+   "mirror ball",
+   "ecoacoustics",
+   "silence"
+  ]
+ },
+ "W39": {
+  "rq1": [
+   "interpretive_authority_gap",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "composing_publics",
+   "translating_embodying",
+   "narrative_fiction",
+   "routing_to_action"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "appropriation_authority",
+   "mobilisation_vs_paternalism",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "permaculture",
+   "meetings",
+   "proxy voice",
+   "deliberation",
+   "conversational artifact",
+   "garden"
+  ]
+ },
+ "W40": {
+  "rq1": [
+   "care_welfare_gap",
+   "noticing_labour",
+   "umwelt_gap"
+  ],
+  "rq2": [
+   "living_media",
+   "translating_embodying",
+   "routing_to_action"
+  ],
+  "rq3": [
+   "welfare_instrumentalisation",
+   "legibility_vs_alterity",
+   "mobilisation_vs_paternalism"
+  ],
+  "keywords": [
+   "slime mould",
+   "physarum",
+   "smartwatch",
+   "care",
+   "uist",
+   "living electronics"
+  ]
+ },
+ "W41": {
+  "rq1": [
+   "temporal_scale_gap",
+   "care_welfare_gap",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "living_media",
+   "accountable_mediation",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "welfare_instrumentalisation",
+   "circulation_vs_accountability"
+  ],
+  "keywords": [
+   "plants",
+   "robots",
+   "actuators",
+   "growth",
+   "decay",
+   "dis"
+  ]
+ },
+ "W42": {
+  "rq1": [
+   "care_welfare_gap",
+   "interpretive_authority_gap"
+  ],
+  "rq2": [
+   "living_media",
+   "accountable_mediation",
+   "composing_publics",
+   "inviting_attention",
+   "data_sensing"
+  ],
+  "rq3": [
+   "welfare_instrumentalisation",
+   "circulation_vs_accountability",
+   "impact_overclaim",
+   "legibility_vs_alterity"
+  ],
+  "keywords": [
+   "cats",
+   "robot",
+   "ai care",
+   "animal welfare",
+   "blast theory",
+   "science gallery"
+  ]
+ },
+ "W43": {
+  "rq1": [
+   "umwelt_gap",
+   "action_gap"
+  ],
+  "rq2": [
+   "data_sensing",
+   "translating_embodying",
+   "inviting_attention",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "invitation_vs_recentering",
+   "legibility_vs_alterity",
+   "access_exclusion",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "giant sequoia",
+   "breath",
+   "virtual reality",
+   "marshmallow laser feast",
+   "museum",
+   "forest metabolism"
+  ]
+ },
+ "W44": {
+  "rq1": [
+   "umwelt_gap",
+   "temporal_scale_gap"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "inviting_attention",
+   "composing_publics",
+   "transmission_afterlives",
+   "narrative_fiction"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "circulation_vs_accountability",
+   "invitation_vs_recentering"
+  ],
+  "keywords": [
+   "redwood",
+   "virtual reality",
+   "tree hug",
+   "scent",
+   "family festival",
+   "marshmallow laser feast"
+  ]
+ },
+ "W45": {
+  "rq1": [
+   "action_gap",
+   "interpretive_authority_gap"
+  ],
+  "rq2": [
+   "narrative_fiction",
+   "routing_to_action",
+   "data_sensing",
+   "composing_publics"
+  ],
+  "rq3": [
+   "platform_institution_dependence",
+   "appropriation_authority",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "blockchain",
+   "forest",
+   "legal personhood",
+   "smart contracts",
+   "speculative design",
+   "dao"
+  ]
+ },
+ "W46": {
+  "rq1": [
+   "temporal_scale_gap",
+   "umwelt_gap"
+  ],
+  "rq2": [
+   "living_media",
+   "translating_embodying",
+   "routing_to_action"
+  ],
+  "rq3": [
+   "welfare_instrumentalisation",
+   "impact_overclaim",
+   "mobilisation_vs_paternalism"
+  ],
+  "keywords": [
+   "lichen",
+   "wearable habitat",
+   "ash dieback",
+   "biomimicry",
+   "dutch design week",
+   "spore dispersal"
+  ]
+ },
+ "W47": {
+  "rq1": [
+   "umwelt_gap",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "accountable_mediation"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "access_exclusion"
+  ],
+  "keywords": [
+   "plants",
+   "wearables",
+   "cross-modal",
+   "taste",
+   "royal college of art",
+   "analogy"
+  ]
+ },
+ "W48": {
+  "rq1": [
+   "umwelt_gap",
+   "care_welfare_gap",
+   "interpretive_authority_gap"
+  ],
+  "rq2": [
+   "narrative_fiction",
+   "composing_publics",
+   "routing_to_action",
+   "inviting_attention"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "welfare_instrumentalisation"
+  ],
+  "keywords": [
+   "microbes",
+   "laboratory",
+   "chindogu",
+   "workshops",
+   "biosafety",
+   "chi"
+  ]
+ },
+ "W49": {
+  "rq1": [
+   "care_welfare_gap",
+   "interpretive_authority_gap"
+  ],
+  "rq2": [
+   "routing_to_action",
+   "transmission_afterlives",
+   "accountable_mediation",
+   "composing_publics"
+  ],
+  "rq3": [
+   "welfare_instrumentalisation",
+   "circulation_vs_accountability",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "biodesign",
+   "supply chain",
+   "provenance",
+   "labour",
+   "laboratory organisms",
+   "audit"
+  ]
+ },
+ "W50": {
+  "rq1": [
+   "care_welfare_gap",
+   "umwelt_gap",
+   "interpretive_authority_gap"
+  ],
+  "rq2": [
+   "narrative_fiction",
+   "translating_embodying",
+   "living_media",
+   "composing_publics",
+   "accountable_mediation"
+  ],
+  "rq3": [
+   "appropriation_authority",
+   "welfare_instrumentalisation",
+   "invitation_vs_recentering",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "bioart",
+   "dining theatre",
+   "fermentation",
+   "ethics",
+   "edinburgh",
+   "microbes"
+  ]
+ },
+ "J01": {
+  "rq1": [
+   "everyday_invisibility",
+   "care_welfare_gap",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "living_media",
+   "translating_embodying",
+   "narrative_fiction",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "appropriation_authority",
+   "welfare_instrumentalisation",
+   "legibility_vs_alterity",
+   "invitation_vs_recentering"
+  ],
+  "keywords": [
+   "squid",
+   "borders",
+   "migration",
+   "laboratory",
+   "sand map",
+   "gyotaku"
+  ]
+ },
+ "J02": {
+  "rq1": [
+   "umwelt_gap",
+   "care_welfare_gap",
+   "interpretive_authority_gap"
+  ],
+  "rq2": [
+   "living_media",
+   "narrative_fiction",
+   "composing_publics",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "welfare_instrumentalisation",
+   "platform_institution_dependence",
+   "legibility_vs_alterity"
+  ],
+  "keywords": [
+   "bioprinting",
+   "menstrual stem cells",
+   "onlyfans",
+   "feminist biotech",
+   "sentience",
+   "consent"
+  ]
+ },
+ "J03": {
+  "rq1": [
+   "care_welfare_gap",
+   "everyday_invisibility"
+  ],
+  "rq2": [
+   "narrative_fiction",
+   "translating_embodying",
+   "inviting_attention"
+  ],
+  "rq3": [
+   "welfare_instrumentalisation",
+   "platform_institution_dependence",
+   "legibility_vs_alterity"
+  ],
+  "keywords": [
+   "artificial care",
+   "motherhood",
+   "memory",
+   "replaceability",
+   "conversational ai",
+   "installation"
+  ]
+ },
+ "J04": {
+  "rq1": [
+   "umwelt_gap",
+   "everyday_invisibility",
+   "niche_confinement"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "inviting_attention",
+   "narrative_fiction"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "invitation_vs_recentering",
+   "appropriation_authority"
+  ],
+  "keywords": [
+   "crickets",
+   "butoh",
+   "light pollution",
+   "stridulation",
+   "wearable wings",
+   "performance"
+  ]
+ },
+ "J05": {
+  "rq1": [
+   "temporal_scale_gap",
+   "everyday_invisibility",
+   "action_gap"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "inviting_attention",
+   "transmission_afterlives"
+  ],
+  "rq3": [
+   "legibility_vs_alterity",
+   "invitation_vs_recentering",
+   "circulation_vs_accountability"
+  ],
+  "keywords": [
+   "glacier",
+   "cyanotype",
+   "meltwater",
+   "alaska",
+   "sun print",
+   "ephemerality"
+  ]
+ },
+ "J06": {
+  "rq1": [
+   "interpretive_authority_gap",
+   "umwelt_gap",
+   "wrong_noticer"
+  ],
+  "rq2": [
+   "translating_embodying",
+   "narrative_fiction",
+   "composing_publics"
+  ],
+  "rq3": [
+   "appropriation_authority",
+   "legibility_vs_alterity",
+   "impact_overclaim"
+  ],
+  "keywords": [
+   "arctic",
+   "animal sounds",
+   "ted talk",
+   "svalbard",
+   "vocal performance",
+   "climate"
+  ]
+ }
 }

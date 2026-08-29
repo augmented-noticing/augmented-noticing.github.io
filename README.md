@@ -30,6 +30,10 @@ assets/works/wXX.jpg                downsized representative images
 ```
 
 - Rows with `status: "researcher-generated"` are regenerated from the notes by `build_data.py`; do not edit them here.
+- Rows with `status: "practitioner-dialogue-provisional"` are imported by `scripts/import_dialogue_annotations.py`
+  from the translated 1 Aug 2026 Amber–Jiabao dialogue (`data/dialogue_annotations_2026-08-01.json`; readable record in
+  `data/dialogue_annotations_2026-08-01_en.md`). They carry `timestamp`, `zh` (ASR excerpt), `speaker_confidence`, and
+  `verification_note`; rows with `work: null` show under the site's **Dialogue** tab. Re-run the import script to refresh.
 - Everyone else's annotations are added by hand (or by pasting the JSON exported from the site's
   **Export my notes** button) and committed. `rq` is `rq1` / `rq2` / `rq3` / `general`.
 - Notes added in the browser stay in that browser's `localStorage` until exported.
