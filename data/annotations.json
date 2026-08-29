@@ -1,0 +1,1502 @@
+[
+ {
+  "id": "W01-rq1-research-team",
+  "work": "W01",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The principal gaps are an umwelt gap (ultrasound is inaccessible), a reach gap (bat science and immersive media each attract specialist publics), and an action gap between a brief encounter and bat-sensitive behaviour or planning.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W01-rq2-research-team",
+  "work": "W01",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The work uses sensory substitution, self-generated sound, an inviting animal-form prop, spectacle, in-habitat placement and performance. It makes the visitor’s own body part of the translation rather than presenting a fixed visualisation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W01-rq3-research-team",
+  "work": "W01",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Rendering echo as vision may reproduce ocularcentrism and imply more access to bat perception than the mapping can support. The approachable bat form can broaden participation but also sentimentalise the animal. Partnership and circulation are documented; attitude, behaviour and policy effects are not.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W02-rq1-research-team",
+  "work": "W02",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The work addresses an ocularcentric epistemic gap and the difficulty of making a tactile animal lifeworld compelling in a visually dominated venue. Its reach beyond an expert conference remains unknown.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W02-rq2-research-team",
+  "work": "W02",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include deliberate sensory deprivation, extended-range haptics, bodily navigation, gesture-triggered materialisation and a proposed open-source afterlife.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W02-rq3-research-team",
+  "work": "W02",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The same reduction of vision that disrupts ocularcentrism may imply equivalence among simulated non-vision, human blindness and a mole’s tactile umwelt. Without disabled collaborators or users in the record, the analogy risks appropriating disability as an experiential device. Repository availability is not evidence of reuse or more-than-human benefit.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W03-rq1-research-team",
+  "work": "W03",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The work addresses the invisibility of underground relations and the difficulty of communicating distributed, non-individual agency outside biology and posthuman theory.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W03-rq2-research-team",
+  "work": "W03",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "It uses collective ritual, synchronised embodiment, perspective merging and shared-control aesthetics. The tactic shifts the unit of experience from an individual viewer to a temporary group.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W03-rq3-research-team",
+  "work": "W03",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Mycorrhizal relations are staged through human social coordination, which may turn a heterogeneous ecological network into a harmonious person-like subject. Spectacular togetherness can suppress competition, disturbance, scientific uncertainty and species specificity. Authorship discrepancies also show how collective technical labour can become unstable in public retelling.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W04-rq1-research-team",
+  "work": "W04",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Distributed cephalopod cognition is difficult to communicate and commonly reduced to the slogan of “nine brains.” The work also faces a conference-niche reach gap.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W04-rq2-research-team",
+  "work": "W04",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "It uses physical tethering, shared control, group choreography, tactile redistribution and conspicuous collective performance. The social spectacle is part of the recruitment mechanism.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W04-rq3-research-team",
+  "work": "W04",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Human coordination is used as a proxy for octopus embodiment, and the work may overstate access to cephalopod experience. The participant ring makes distributed agency legible but can stabilise one disputed scientific story as an experiential truth. EMS also raises consent and accessibility questions for human participants.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W05-rq1-research-team",
+  "work": "W05",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Artificial-life perception is abstract and difficult to discuss outside specialist AI and immersive-media venues. Hardware obsolescence adds a decay gap.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W05-rq2-research-team",
+  "work": "W05",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The work uses character familiarity, narrative worldbuilding, interactive spatial immersion, affective memory data and later re-platforming.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W05-rq3-research-team",
+  "work": "W05",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Treating AI as more-than-human may productively challenge a human/nonhuman binary, but it can also naturalise corporate data systems and divert ecological attention. Zoe’s personhood is entirely designed. Technological maintenance shows durability but not broader action.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W06-rq1-research-team",
+  "work": "W06",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The familiar creek is overlooked by daily passers-by, and its temporal, ecological and colonial histories exceed a brief encounter. A stewardship-action gap remains after perspective taking.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W06-rq2-research-team",
+  "work": "W06",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The work uses in-habitat placement, enforced bodily posture, first-person address, multisensory prompts and layered temporal narrative.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W06-rq3-research-team",
+  "work": "W06",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Speaking as the creek may overwrite otherness with human emotion. Requiring participants to lie down may exclude some bodies. Ohlone/animist framing without documented partnership raises appropriation and authority questions. Vivid pilot responses cannot be treated as evidence of later study outcomes.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W07-rq1-research-team",
+  "work": "W07",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Deep time, extinction and distributed cognition are difficult to narrate beyond specialist theory. The work also faces the problem of retaining qualification and collaborator labour as its premise travels.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W07-rq2-research-team",
+  "work": "W07",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "It uses speculative fabulation, a one-sentence counterfactual, contact improvisation, AI image transformation, cross-media illustration and repeated international restaging.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W07-rq3-research-team",
+  "work": "W07",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Octopus cognition and extinction can become aesthetic resources for human self-reflection. A highly retellable story may simplify evolutionary science, treat species as symbols and obscure the many collaborators who produce the encounter. Circulation demonstrates reach and decay resistance, not action.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W08-rq1-research-team",
+  "work": "W08",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Atmospheric carbon and algal metabolism are invisible, while climate responsibility is typically encountered as remote statistics or expert infrastructure. A scale gap separates gallery materialisation from climate consequence.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W08-rq2-research-team",
+  "work": "W08",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include bodily contribution, real-time display, living culture, material transformation, participatory dining and portable objects that can carry the story.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W08-rq3-research-team",
+  "work": "W08",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The installation may individualise structural emissions and frame removal as a personal metabolic act. Algae can be instrumentalised as climate media; chemical, energy and maintenance inputs remain outside the most memorable story. The household version is proposed rather than adopted at scale.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W09-rq1-research-team",
+  "work": "W09",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The work tackles the impossibility of directly occupying another species’ umwelt and the difficulty of attracting non-specialists to perceptual ecology.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W09-rq2-research-team",
+  "work": "W09",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "It combines sensory substitution, spectacle, animal-perspective sequencing, in-habitat placement, haptics and scent. Touring creates a multi-year cultural afterlife.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W09-rq3-research-team",
+  "work": "W09",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Multisensory intensity can be mistaken for scientific fidelity. The experience privileges a human visitor’s sublime transformation and may aestheticise animal difference. Broad circulation and awards do not establish wildlife action, habitat support or durable attitude change.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W10-rq1-research-team",
+  "work": "W10",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Pollinators are overlooked, and planting systems usually prioritise human beauty. The project also addresses the action gap by providing an implementable pathway beyond awareness.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W10-rq2-research-team",
+  "work": "W10",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include designing for nonhuman preference, algorithmic planning, living seasonal material, public propagation, a web tool and alternative visualisation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W10-rq3-research-team",
+  "work": "W10",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Algorithms and experts decide how insect preference becomes legible. Planting is a stronger action pathway than most portfolio encounters, but garden creation alone does not prove pollinator use, survival or population benefit. Access depends on land, time and maintenance capacity.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W11-rq1-research-team",
+  "work": "W11",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Aquatic life and water quality are physically close yet perceptually hidden. Civic sensing also faces an afterlife gap when temporary infrastructure is removed.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W11-rq2-research-team",
+  "work": "W11",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The project uses live environmental sensing, light translation, public siting, SMS access and personification to turn a waterway into an addressable interlocutor.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W11-rq3-research-team",
+  "work": "W11",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The river’s “voice” is authored through designers and software. Conversational accessibility can simplify ecological uncertainty and suggest reciprocity where only data retrieval occurs. Temporary deployment and weak outcome records limit claims about stewardship or governance.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W12-rq1-research-team",
+  "work": "W12",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Vegetal time and phototropic response are difficult to notice within ordinary gallery rhythms. The work turns limited scale into a deliberate method rather than a failure.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W12-rq2-research-team",
+  "work": "W12",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include durational co-presence, bodily endurance, shadow, plant growth, withholding of technological mediation and anti-spectacle.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W12-rq3-research-team",
+  "work": "W12",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Intimacy resists attention-economy demands but restricts access. The artist remains the author of the conditions and intentionally changes plant development. Calling the relation reciprocal should not erase asymmetry in who initiates, can leave and receives cultural credit.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W13-rq1-research-team",
+  "work": "W13",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Pollution is ambient and unevenly distributed, while official sensing is expert-controlled. Public attention to exposure rarely persists after a media event.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W13-rq2-research-team",
+  "work": "W13",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include animal-borne sensing, live data, public flight, activist naming, low-cost technical making and web circulation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W13-rq3-research-team",
+  "work": "W13",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The project redistributed sensing authority but enrolled pigeons as labourers. The journalist metaphor grants symbolic agency while humans control routes, devices and interpretation. Technical and activist value therefore coexists with welfare and consent concerns. The project’s short life also limits institutional durability.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W14-rq1-research-team",
+  "work": "W14",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Urban trees are infrastructural background and difficult to recognise as individuals. Municipal datasets are usually inaccessible or emotionally thin.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W14-rq2-research-team",
+  "work": "W14",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include individual naming/address, a low-threshold web map, direct correspondence, humour and personified response.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W14-rq3-research-team",
+  "work": "W14",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Human-written replies ventriloquise trees and can turn civic ecology into charm. Charismatic correspondence may privilege some trees while canopy inequity, maintenance budgets and removals remain less visible. Message counts demonstrate participation, not stewardship outcomes.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W15-rq1-research-team",
+  "work": "W15",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Environmental knowledge is often separated from everyday agency. The clinic addresses an action gap but trades broad reach for bespoke depth and faces a follow-through problem.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W15-rq2-research-team",
+  "work": "W15",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include institutional parody, one-to-one consultation, behavioural/design prescriptions, public experiment and reframing concern as an actionable condition.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W15-rq3-research-team",
+  "work": "W15",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The clinician role can reproduce expert authority even while critiquing it. Live animals used as sensors or proxies may be instrumentalised. The anti-scale model may enable specificity but leave unequal access and long-term maintenance unresolved.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W16-rq1-research-team",
+  "work": "W16",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Toxic exposure is materially consequential yet visually absent, while credible measurement is commonly controlled by experts and agencies. Community members may therefore experience pollution without possessing public proof or a compelling means of displaying it.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W16-rq2-research-team",
+  "work": "W16",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The project uses low-cost hacking, zoomorphic movement, public workshops, collective field release and live sensing. Familiar toy behaviour lowers the threshold for approaching a technical and politically charged problem.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W16-rq3-research-team",
+  "work": "W16",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Play can redistribute technical confidence, but it can also make chronic contamination look like a temporary spectacle. Sensor accuracy, calibration and evidentiary status determine whether community-generated data can contest official accounts. The project also raises a representational tension: animal-like behaviour attracts attention even though no animal perspective is present.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W17-rq1-research-team",
+  "work": "W17",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tree physiology unfolds internally and at temporal scales that do not align with casual observation. Specialist data can remain inaccessible even when it directly concerns public experiences of heat and drought.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W17-rq2-research-team",
+  "work": "W17",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include long-duration sensing, scientific visualisation, first-person personification, social distribution and emplacement in familiar public landscapes.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W17-rq3-research-team",
+  "work": "W17",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The first-person voice makes data legible but can imply intentional speech. Sensor selection privileges measurable processes and platform algorithms influence who encounters the posts. Following or liking a tree is evidence of attention, not of altered forestry practice or climate action.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W18-rq1-research-team",
+  "work": "W18",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Underwater life is physically remote and often drowned out in public discourse by visual representations. Anthropogenic noise is also difficult to perceive from land.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W18-rq2-research-team",
+  "work": "W18",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The work uses hydrophone field recording, spatial composition, low-frequency embodiment, darkness and within-modal amplification. It does not pretend to translate sound into a humanlike language.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W18-rq3-research-team",
+  "work": "W18",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Composition necessarily selects locations, species and intensities. Aesthetic immersion can make ecological disturbance affectively present, but it can also detach recordings from the infrastructures and jurisdictions producing the noise. Ticketed art access and the absence of an action pathway constrain political reach.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W19-rq1-research-team",
+  "work": "W19",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Life beneath bark is spatially concealed and temporally difficult to follow. Public accounts of bark beetles often reduce them to a visible outbreak or threat after complex interactions are already under way.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W19-rq2-research-team",
+  "work": "W19",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include probe-microphone invention, patient field listening, minimally recognisable acoustic composition and album-based circulation beyond the recording site.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W19-rq3-research-team",
+  "work": "W19",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Amplification can complicate the image of a silent tree, but interpretation can still fold beetles into a threat narrative. The recording apparatus and the composer determine what counts as signal. Claims that listening changes forestry intervention require evidence beyond the artwork’s documented circulation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W20-rq1-research-team",
+  "work": "W20",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Colony processes are spatially hidden, distributed across thousands of bees and difficult to apprehend through an individual-animal frame. Specialist monitoring alone does not make those processes publicly meaningful.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W20-rq2-research-team",
+  "work": "W20",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include monumental architecture, live telemetry, responsive LEDs, sound composition, biomimetic form, family-accessible immersion and reinstallation at a major public garden.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W20-rq3-research-team",
+  "work": "W20",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Spectacle delivers reach but may turn colony complexity into ambience. Honeybees’ cultural charisma can eclipse wild pollinator diversity and agricultural politics. Visitor numbers show exposure, not interpretation or changed practice. Continuous data and a rebuilt pavilion also depend on substantial technical and care labour.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W21-rq1-research-team",
+  "work": "W21",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Microbial activity is invisible and care knowledge is sensory, tacit and temporally distributed. A one-off exhibit struggles to convey this duration.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W21-rq2-research-team",
+  "work": "W21",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The work uses a familiar vessel, chemical/environmental sensing, conversational voice, humour and repeated care routines. Cultural familiarity bridges expert microbiology and domestic practice.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W21-rq3-research-team",
+  "work": "W21",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Voice can sustain attention but implies an integrated microbial speaker where a multispecies community and technical model exist. Sensor values may displace embodied knowledge even as the project celebrates it. The microbes’ flourishing remains entangled with human taste, food production and eventual consumption.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W22-rq1-research-team",
+  "work": "W22",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Ecological degradation can occur acoustically before it becomes visually obvious, while distant habitats remain outside most people’s experience. A specialist archive does not automatically become a public encounter.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W22-rq2-research-team",
+  "work": "W22",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include long-term field recording, an archive spanning locations and decades, multichannel immersion, synchronised spectrograms, narrative comparison and international touring.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W22-rq3-research-team",
+  "work": "W22",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "A beautiful museum environment can make disappearance intensely felt, yet also aestheticise it. Curatorial selection gives coherence to disparate habitats and may obscure Indigenous territories, local conflicts and recording conditions. Attendance evidences exposure rather than conservation action.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W23-rq1-research-team",
+  "work": "W23",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Forest die-off is geographically distributed and can remain abstract to city publics. Climate causality is difficult to infer from an individual dead tree without contextual explanation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W23-rq2-research-team",
+  "work": "W23",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include material relocation, monumental repetition, free civic siting, duration, sound, education and public programming.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W23-rq3-research-team",
+  "work": "W23",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Moving dead trees produces a forceful public witness but detaches them from the source ecosystem. Monumental spectacle can individualise “climate change” while saltwater intrusion, land management and environmental inequality require specific accounts. Transport, installation and post-exhibition material afterlife are part of the work’s politics.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W24-rq1-research-team",
+  "work": "W24",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Particulate pollution is invisible in ordinary experience and often encountered through delayed regional statistics that obscure local peaks and unequal exposure.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W24-rq2-research-team",
+  "work": "W24",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include real-time sensing, monumental public projection, intuitive visual change, street-level placement and a direct link between local activity and display.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W24-rq3-research-team",
+  "work": "W24",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "A single sensor produces a highly local account whose calibration and siting matter. Visibility may create concern without identifying responsibility or enabling action. The aesthetically attractive waterfall can make pollution watchable while communities continue to bear exposure.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W25-rq1-research-team",
+  "work": "W25",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Laboratory animals’ repetitive labour and asymmetrical relation to research systems usually remain hidden. Animal experimentation is also polarised in public discourse, making sustained reflection difficult.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W25-rq2-research-team",
+  "work": "W25",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The work uses role reversal, humour, cross-species synchronisation, bodily exercise, a charismatic individual animal, documentary narrative and distribution across app, film and installation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W25-rq3-research-team",
+  "work": "W25",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Calling the mouse a coach symbolically redistributes authority, but the human team still designs the enclosure, interprets the activity and controls circulation. A visible live animal generates ethical immediacy while also becoming an exhibition apparatus. Publicly available project records do not by themselves establish a complete welfare protocol or the mouse’s freedom to disengage.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W26-rq1-research-team",
+  "work": "W26",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Training violence is hidden behind entertainment, rescue and conservation branding. Visitors encounter spectacular behaviours without seeing how they are produced, while legal responsibility remains institutionally difficult to access.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W26-rq2-research-team",
+  "work": "W26",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include scar-linked evidence, life-size AR, a screenshot/hashtag invitation, drone sound, an emotionally legible 3D figure, a nostalgic song remix, bodily performance and alignment with litigation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W26-rq3-research-team",
+  "work": "W26",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The project is unusually valuable because its public success narrative is contested. The creator page states that Wild Elephant Valley cancelled elephant performances as a result of the campaign. The publicly reported appellate outcome of 16 May 2024 states that the appeal was dismissed and the lower judgment upheld. These records do not establish that the artwork caused a change in performances. Lawyers, NGOs, artists, operators and courts also act as competing human proxies for elephants, with unequal authority to define welfare, evidence and remedy.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W27-rq1-research-team",
+  "work": "W27",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Cephalopod science remains specialist, while fear-based or catastrophic conservation messages often fail to retain attention in crowded platform environments.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W27-rq2-research-team",
+  "work": "W27",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include species charisma, episodic storytelling, humour, vivid imagery, shareable facts, named individuals, repeated contact and collaboration with recognised experts.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W27-rq3-research-team",
+  "work": "W27",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The same platform grammar that expands reach can turn octopuses into branded content. Follower counts and views demonstrate exposure, not comprehension or conservation action. Editorial curation, sponsorship, moderation and platform algorithms shape which species and facts become visible. Charismatic octopuses may also eclipse less photogenic marine relations.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W28-rq1-research-team",
+  "work": "W28",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Arctic melting is geographically remote, represented through models and aggregates, and temporally difficult to feel. Climate communication must bridge distance without pretending that one object contains the whole crisis.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W28-rq2-research-team",
+  "work": "W28",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include actual glacial material, touch, sound, smell, visible melting, clock-like arrangement, prominent civic placement, repeat staging and alignment with IPCC/COP moments.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W28-rq3-research-team",
+  "work": "W28",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Extracting and transporting ice introduces carbon, logistical and symbolic costs. A universal “humanity and climate” framing can mute Greenlandic sovereignty, uneven responsibility and the political economy of emissions. The trace of melting is incontrovertible as an encounter but does not demonstrate policy influence or durable behavioural change.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W29-rq1-research-team",
+  "work": "W29",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Plant–environment interaction is electrophysiological, distributed and invisible to gallery visitors. Raw data offers little access without a perceptual bridge.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W29-rq2-research-team",
+  "work": "W29",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include plant electrophysiology, supervised classification, environmental stimulation, spatialised sound/light and cymatic water patterns in an immersive multi-unit field.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W29-rq3-research-team",
+  "work": "W29",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The official framing describes a plant “perspective,” but a learned classification and aesthetic mapping are not equivalent to botanical experience. Training labels, sensor placement and output design decide which changes become legible. The work opens an epistemic relation while risking the conversion of uncertainty into a confident voice.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W30-rq1-research-team",
+  "work": "W30",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Virtual migration can reproduce a forest visually while excluding living trees and the environmental changes they register. Plant response remains invisible without specialist instruments.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W30-rq2-research-team",
+  "work": "W30",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include electrophysiology, AI analysis, digital twins, 3D capture, mixed-reality co-presence, aesthetic particles and circulation across research and public-art venues.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W30-rq3-research-team",
+  "work": "W30",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The “digital plant agent” is produced through human-selected sensors, models and graphics. Saying it shares unseen responses risks collapsing data, proxy and voice. High-tech mediation may also centre computational novelty over forest-specific histories or material care.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W31-rq1-research-team",
+  "work": "W31",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Subtle vibration, conductivity and bioelectric change are missed during ordinary forest visits, including guided wellness encounters that may reproduce a generic idea of “nature.”",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W31-rq2-research-team",
+  "work": "W31",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include portable multi-sensing, wearable sound and haptics, free walking and in-situ augmentation rather than visual substitution.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W31-rq3-research-team",
+  "work": "W31",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Instrument selection defines what counts as forest “resonance.” A short demonstration and pilot cannot establish ecological attunement, therapeutic benefit or care. Wearable feedback may redirect attention toward the device and treat living signals as a personalised experience resource.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W32-rq1-research-team",
+  "work": "W32",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Domestic interiors are designed to exclude spontaneous multispecies relations, and gradual ecological change is hard to remember without an archive.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W32-rq2-research-team",
+  "work": "W32",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include living habitat construction, invitation rather than representation, embedded sensing, domestic scale, longitudinal observation and a water-based interface.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W32-rq3-research-team",
+  "work": "W32",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Humans still select the site, conditions and categories of welcome. Attracting organisms indoors creates obligations concerning disease, predation, reproduction, escape and maintenance. Sensor archives can document coexistence but may also turn visitors into data. The project is too early for claims about stable cohabitation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W33-rq1-research-team",
+  "work": "W33",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Natureculture is theoretically dense and can remain too abstract to guide situated design attention. Everyday entanglements are easily overlooked because they do not announce themselves as “more-than-human.”",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W33-rq2-research-team",
+  "work": "W33",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include repeated image-making, revisitation, editing, pairing, sequencing, critique and the construction of a portable visual repertoire.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W33-rq3-research-team",
+  "work": "W33",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The photographer controls framing and the research team curates what becomes analytically visible. A self-reflexive corpus can aestheticise decontextualised scenes, and it provides no evidence about how broader publics, photographed communities or nonhumans interpret the images or act through them.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W34-rq1-research-team",
+  "work": "W34",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Industrial design conventions hide endings by treating stability as success and decomposition as defect. Material agency therefore becomes noticeable only when control is deliberately relaxed.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W34-rq2-research-team",
+  "work": "W34",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The paper articulates tactics of fragmenting, ageing, liberating, tracing and temporary scaffolding, supported by material experimentation and comparative case curation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W34-rq3-research-team",
+  "work": "W34",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Unpredictability is not equivalent to material consent or co-authorship. Designers still establish initial conditions and judge aesthetically productive decay. Novice experimentation can romanticise damage while energy use, toxicity, waste and disposal remain outside the frame.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W35-rq1-research-team",
+  "work": "W35",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "More-than-human design language can conceal the seasonal conflict, failure, repetition and skilled labour of actual multispecies relations.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W35-rq2-research-team",
+  "work": "W35",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include long-term field immersion, bodily participation, following seasonal relations and analysing response and engagement instead of treating control as the default design goal.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W35-rq3-research-team",
+  "work": "W35",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Symbiosis is not necessarily harmonious or equally beneficial. Farming decisions allocate survival, death, labour and economic value. Researchers translate these relations into concepts, while farmers bear practical risk. The case therefore resists romantic multispecies togetherness.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W36-rq1-research-team",
+  "work": "W36",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Plant activity is imperceptible, plants readily recede into domestic background, and brief public encounters rarely sustain a new relation. Plant care can also be socially awkward or reduced to optimisation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W36-rq2-research-team",
+  "work": "W36",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include ambiguous sonification, light and graph; portability; repeated home cohabitation; diaries and open prompts; a reflective workshop; and researcher-supported conversations at public events.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W36-rq3-research-team",
+  "work": "W36",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The sensor mediates electrical variation; it does not reveal plant speech, emotion or intention. Ambiguity enabled curiosity but also guilt and anthropomorphic projection. The eight home participants were already plant lovers, public-event data were opportunistic, and the study did not establish lasting behaviour, plant welfare or ecological action.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W37-rq1-research-team",
+  "work": "W37",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Plant relations need a low-threshold public form beyond specialist plant science and posthuman theory. At the same time, event attention is brief and socially shaped.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W37-rq2-research-team",
+  "work": "W37",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include bodily touch, immediate sound/light response, collective composition, a spatially legible plant arrangement, festival placement, conversational facilitation and adaptive restaging.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W37-rq3-research-team",
+  "work": "W37",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Capacitive sensors primarily detect contact; they do not establish plant intention. The staging may therefore imply that plants deliberately respond to visitors. Touch can generate intimacy but also normalise human access to plant bodies. Short encounters and unknown event denominators make durable interpretation difficult to evaluate.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W38-rq1-research-team",
+  "work": "W38",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Soil life is spatially concealed and follows rhythms incompatible with gallery expectations for immediate feedback. Silence risks being read as malfunction rather than as an ecological condition.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W38-rq2-research-team",
+  "work": "W38",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include contact-microphone ecoacoustics, intimate headphone listening, vibration-driven light/motion, humour, silence and temporal friction.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W38-rq3-research-team",
+  "work": "W38",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Adding worms to guarantee audibility is the project’s central political disclosure: sensitisation can instrumentalise the life it celebrates. The mirror ball makes soil activity culturally playful but may reward constant output. The design’s strength lies in exposing, not resolving, the conflict between exhibition time and organismal time.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W39-rq1-research-team",
+  "work": "W39",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Meetings about ecological places remain linguistically and procedurally human. More-than-human agencies can disappear even when participants endorse ecological values.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W39-rq2-research-team",
+  "work": "W39",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include situated fieldwork, three process principles, a culturally recognisable turn-taking object and an interruption that inserts a more-than-human proxy voice.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W39-rq3-research-team",
+  "work": "W39",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Any inserted voice is authored and selective. Whoever writes the interruption gains procedural authority to decide what the garden says and when humans must listen. An extended abstract supplies too little evidence to know who accepts the proxy, whether disagreement is possible or whether decisions change.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W40-rq1-research-team",
+  "work": "W40",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Electronics usually conceal maintenance relations and present reliable function as independent of living conditions. Microbial or protist life is especially easy to treat as interchangeable material.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W40-rq2-research-team",
+  "work": "W40",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include functional dependency, daily care, visible growth/desiccation, embodied wearing, a nine-to-fourteen-day deployment and the possibility of revival.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W40-rq3-research-team",
+  "work": "W40",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The slime mould remains a component enlisted for human sensing. Researcher-prescribed neglect makes the ethical tension experimentally legible but also deliberately withholds care. Participants’ responsibility and attachment are evidence about human interpretation, not organismal consent, reciprocity or welfare.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W41-rq1-research-team",
+  "work": "W41",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Robotics privileges speed, repeatability, control and durability. Those norms exclude biological time and hide the maintenance or death involved in hybrid systems.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W41-rq2-research-team",
+  "work": "W41",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include using plant growth as actuation, designing for slow transformation, accepting ageing and decay and offering a comparative grammar for plant–robot relationships.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W41-rq3-research-team",
+  "work": "W41",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Plants may become components whose unpredictability is aesthetically or mechanically mined. Designers still select species, constrain growth and define successful motion. Short prototypes cannot show long-term plant health, reciprocal benefit, disposal or public interpretation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W42-rq1-research-team",
+  "work": "W42",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "AI-mediated animal care is expanding but its operation, labour and welfare assumptions are difficult for non-specialists to inspect. Public debate often oscillates between novelty and fear.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W42-rq2-research-team",
+  "work": "W42",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include a species-informed enclosure, dens and elevated retreats, tangible capturable toys, mixed-initiative robot control, separate stress and play measures, continuous welfare oversight, daily highlight storytelling and explicit public ambiguity about AI care.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W42-rq3-research-team",
+  "work": "W42",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Cats could retreat from the robot but not freely determine the overall research/exhibition situation; they spent time outside the enclosure each day under human management. Engagement is not welfare, and happiness remained a proxy rather than a demonstrated internal state. Human approval, safety intervention, repair and cleaning were indispensable to apparent autonomy. Three cats over twelve days cannot establish general home suitability or durable benefit.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W43-rq1-research-team",
+  "work": "W43",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Plant–human gas exchange is invisible and climate interdependence is abstract. Facts and statistics may not create a bodily sense of dependence.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W43-rq2-research-team",
+  "work": "W43",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include breath sensing, real-time visualisation, LiDAR forest data, enormous shifts of scale, spatial sound, guided immersion and multiple editions suited to international touring.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W43-rq3-research-team",
+  "work": "W43",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Human breath remains the privileged entry point, and reciprocity may be simplified into a harmonious closed loop. Scientific data becomes a high-production immersive spectacle, with ticketing and technical infrastructure shaping access. Exhibition history demonstrates circulation, not ecological action.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W44-rq1-research-team",
+  "work": "W44",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tree physiology and millennial tree time exceed ordinary human perception. Giant sequoias are also geographically inaccessible to most festival publics.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W44-rq2-research-team",
+  "work": "W44",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include physical embrace, a head-in-tree portal, VR, haptic contact, scent, binaural audio, internal-scale visualisation, a short memorable narrative and family-oriented festival circulation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W44-rq3-research-team",
+  "work": "W44",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The tree becomes an interface and spectacular avatar. Simulated intimacy may suggest that technological access equals knowing a tree, while actual forest territories, fire histories, conservation and Indigenous relations remain offstage. The seven-minute format expands reach but compresses tree time into an attraction.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W45-rq1-research-team",
+  "work": "W45",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Forests lack standing and economic agency inside the institutions that govern extraction, land title and investment. Sensory awareness alone does not change those structures.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W45-rq2-research-team",
+  "work": "W45",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include speculative legal design, smart contracts, autonomous-agent rhetoric, sensor-based resource accounting, revenue cycles and institutional reframing of ownership.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W45-rq3-research-team",
+  "work": "W45",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "The forest must enter a market and may sell timber in order to purchase autonomy, reproducing the extractive logic being criticised. Programmers define the rules, humans own infrastructure and law decides whether the entity exists. “Self-owning” is therefore a productive contradiction and political proposition, not a verified legal fact.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W46-rq1-research-team",
+  "work": "W46",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Lichen reproduction and secondary extinction are slow, small-scale and publicly overshadowed by the loss of the more charismatic host tree. Conventional ecosystem-service language also makes nonhuman value legible mainly through benefit to humans.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W46-rq2-research-team",
+  "work": "W46",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include ash-bark biomimicry, a body-worn habitat, tactile material demonstration, human mobility as spore-dispersal infrastructure and an activist reversal of ecosystem-service roles.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W46-rq3-research-team",
+  "work": "W46",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Reversing service does not eliminate human control: people choose the lichen, fabricate its substrate and determine where it moves. Public project pages do not provide survival rates, successful attachment, ecological fit, unintended dispersal or long-term habitat outcomes. The wearable may therefore perform conservation symbolically while creating untested ecological obligations.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W47-rq1-research-team",
+  "work": "W47",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Plant responses to light, wind and root-zone water exceed ordinary human perception. Visual dominance and the phrase “plant perspective” can falsely suggest transparent access to plant life.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W47-rq2-research-team",
+  "work": "W47",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include cross-modal sensory substitution, taste, skin stimulation, sound, bodily wearables and an explicit analogy principle that acknowledges difference.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W47-rq3-research-team",
+  "work": "W47",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Declaring analogy is an important epistemic safeguard but does not remove translation authority. Designers decide why light becomes taste, which spectra matter and how variable plant species are compressed into a general wearable “plant reality.” Electrical and oral interfaces also distribute accessibility, comfort and consent unevenly among human participants.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W48-rq1-research-team",
+  "work": "W48",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Microbial scale and laboratory conventions hide organismal time, labour, death, escape and ecological origin. Protocols classify anomalous outcomes as human error or contamination and provide no established channel for nonparticipation.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W48-rq2-research-team",
+  "work": "W48",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include feral/lab comparison, provocative role reframing, Chindogu making, balanced disciplinary discussion, follow-up interviews and translation from speculative objection into biosafety and infrastructure proposals.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W48-rq3-research-team",
+  "work": "W48",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "“Revolt” grants political visibility but remains an anthropomorphic thinking tool, not evidence of microbial intention. Adversarial language can cast microbes as threats, while openness, intimacy, mixed cultures and wild sampling can create genuine environmental and health risks. Standardised laboratory control and design-studio freedom are not simple bad/good opposites; they allocate different responsibilities.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W49-rq1-research-team",
+  "work": "W49",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Barcodes, standard reagents and protocols erase living origins. Focal organisms receive attention while the metabolic, resistance and sustenance work of organisms across supply chains remains structurally invisible.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W49-rq2-research-team",
+  "work": "W49",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include stepwise protocol deconstruction, centre-to-periphery provenance mapping, labour categories, job-position analysis, degrees of subsumption, a practitioner workshop and an audit of sustainability claims across living inputs.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W49-rq3-research-team",
+  "work": "W49",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Labour language reveals extraction and control, but can again define organisms by productivity. Provenance remains incomplete where suppliers use proprietary or generic labels. Workshop participants also showed charisma bias, recognising mammalian harm more readily than bacterial exploitation. Symbolic acknowledgement can coexist with unchanged material extraction.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W50-rq1-research-team",
+  "work": "W50",
+  "rq": "rq1",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Mechanistic parts language hides microbial labour and “shadow organisms.” Ready-made ethics based on consumer safety, cannibalism taboo, paid human consent or causal distance can close inquiry before nonhuman relations are considered.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W50-rq2-research-team",
+  "work": "W50",
+  "rq": "rq2",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Tactics include material provenance display, hybrid-bread provocation, public dining, ingestion, fictional organism biographies grounded in real stresses, scientific staging, moral weights, disgust, corporal compassion and facilitation that values hesitation over consensus.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ },
+ {
+  "id": "W50-rq3-research-team",
+  "work": "W50",
+  "rq": "rq3",
+  "annotator": "Research team",
+  "role": "researcher-generated",
+  "text": "Bodily analogy can reveal shared vulnerability but may appropriate histories of refugees, disability, labour exploitation, racial violence or other human suffering to give microbes emotional weight. Human consent can become a moral pass while microbial nonparticipation remains unaddressed. Consumer risk may recentre the diner. Affect, disgust or empathy cannot be treated as a linear measure of ethical improvement.",
+  "date": "2026-08-29",
+  "status": "researcher-generated"
+ }
+]

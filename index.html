@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Augmented Noticing — Annotated Portfolio</title>
+<meta name="description" content="An annotated portfolio of 50 more-than-human design works, filterable by research-question viewpoints, on an infinite canvas.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='40' fill='none' stroke='%23c2410c' stroke-width='10'/><circle cx='50' cy='50' r='12' fill='%23c2410c'/></svg>">
+</head>
+<body>
+<div id="app">
+  <header id="topbar">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <div>
+        <h1>Augmented Noticing</h1>
+        <div class="brand-sub">Annotated portfolio · 50 more-than-human design works</div>
+      </div>
+    </div>
+    <div class="topbar-status" id="status-count"></div>
+    <div class="topbar-actions">
+      <button class="btn" id="btn-fit" title="Fit all cards in view (F)">Fit</button>
+      <button class="btn" id="btn-reset-layout" title="Reset card positions to the default layout">Reset layout</button>
+      <button class="btn" id="btn-export" title="Download the annotations you added in this browser as JSON">Export my notes</button>
+      <a class="btn btn-ghost" id="link-repo" href="https://github.com/augmented-noticing" target="_blank" rel="noopener">GitHub ↗</a>
+    </div>
+  </header>
+
+  <aside id="sidebar">
+    <div class="search-wrap">
+      <input id="search" type="search" placeholder="Search works, creators, entities, keywords…" autocomplete="off" spellcheck="false">
+    </div>
+
+    <div class="side-tabs" role="tablist">
+      <button class="side-tab is-active" data-tab="viewpoints" role="tab">Viewpoints</button>
+      <button class="side-tab" data-tab="works" role="tab">Works</button>
+      <button class="side-tab" data-tab="facets" role="tab">Facets</button>
+    </div>
+
+    <div class="side-panel is-active" data-panel="viewpoints">
+      <p class="side-hint">Click a viewpoint to highlight the works it applies to. Within a question, viewpoints combine with OR; across questions, with AND.</p>
+      <section class="rq-group" data-rq="rq1">
+        <h2><span class="rq-dot rq1"></span>RQ1 · Gaps</h2>
+        <p class="rq-q">What gaps do practitioners encounter when seeking to make more-than-human relations noticeable beyond specialist niches?</p>
+        <div class="chips" id="chips-rq1"></div>
+      </section>
+      <section class="rq-group" data-rq="rq2">
+        <h2><span class="rq-dot rq2"></span>RQ2 · Tactics</h2>
+        <p class="rq-q">What sensory, affective, expressive, relational, and activist tactics do practitioners use or propose to bridge these gaps?</p>
+        <div class="chips" id="chips-rq2"></div>
+      </section>
+      <section class="rq-group" data-rq="rq3">
+        <h2><span class="rq-dot rq3"></span>RQ3 · Political tensions</h2>
+        <p class="rq-q">What political tensions become visible when makers and peers reflect on how these bridges configure attention, interpretation, publics, and action?</p>
+        <div class="chips" id="chips-rq3"></div>
+      </section>
+      <button class="btn btn-clear" id="btn-clear" hidden>Clear selection</button>
+    </div>
+
+    <div class="side-panel" data-panel="works">
+      <p class="side-hint">Click a work to centre it on the canvas and open its annotations.</p>
+      <div id="work-list"></div>
+    </div>
+
+    <div class="side-panel" data-panel="facets">
+      <section class="facet" data-facet="layer">
+        <h2>Portfolio layer</h2><div class="chips" id="facet-layer"></div>
+      </section>
+      <section class="facet" data-facet="practice">
+        <h2>Practice cluster</h2><div class="chips" id="facet-practice"></div>
+      </section>
+      <section class="facet" data-facet="grade">
+        <h2>Evidence grade</h2><div class="chips" id="facet-grade"></div>
+      </section>
+      <section class="facet" data-facet="recommendation">
+        <h2>Portfolio recommendation</h2><div class="chips" id="facet-recommendation"></div>
+      </section>
+      <section class="facet" data-facet="annotator">
+        <h2>Annotated by</h2><div class="chips" id="facet-annotator"></div>
+      </section>
+    </div>
+
+    <footer class="side-foot">
+      <details>
+        <summary>About these annotations</summary>
+        <p>RQ1–RQ3 statements are <strong>researcher-generated analytic annotations</strong> grounded in public documentation and the verified literature corpus. They are not practitioner quotations, participant excerpts, or evidence of nonhuman intention. Public exposure is not treated as engagement, action, or lasting consequence.</p>
+        <p>Images are reproduced from creators' and venues' public pages for scholarly reference; credits and permission status are listed per work. Notes you add here stay in your browser until exported.</p>
+      </details>
+    </footer>
+  </aside>
+
+  <main id="canvas-wrap" aria-label="Infinite canvas of works">
+    <div id="canvas"><div id="world"></div></div>
+    <div class="canvas-controls">
+      <button class="ctl" id="zoom-in" title="Zoom in (+)">+</button>
+      <button class="ctl" id="zoom-out" title="Zoom out (−)">−</button>
+      <button class="ctl" id="zoom-fit" title="Fit (F)">⌖</button>
+    </div>
+    <div class="canvas-help" id="canvas-help">Drag to pan · scroll to zoom · drag cards to rearrange · click a card for its full annotation</div>
+  </main>
+
+  <section id="drawer" aria-hidden="true">
+    <div class="drawer-inner" id="drawer-inner"></div>
+  </section>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

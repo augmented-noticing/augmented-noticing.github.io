@@ -1,0 +1,148 @@
+{
+  "rq1": [
+    {
+      "id": "umwelt_gap",
+      "label": "Sensory inaccessibility",
+      "zh": "感官不可及"
+    },
+    {
+      "id": "niche_confinement",
+      "label": "Specialist niche",
+      "zh": "專業圈層侷限"
+    },
+    {
+      "id": "noticing_labour",
+      "label": "Attention labour",
+      "zh": "注意成本"
+    },
+    {
+      "id": "wrong_noticer",
+      "label": "Wrong noticer",
+      "zh": "觸及者無決策力"
+    },
+    {
+      "id": "action_gap",
+      "label": "Awareness–action gap",
+      "zh": "覺察與行動斷裂"
+    },
+    {
+      "id": "temporal_scale_gap",
+      "label": "Timescale mismatch",
+      "zh": "時間尺度落差"
+    },
+    {
+      "id": "interpretive_authority_gap",
+      "label": "Expert authority",
+      "zh": "詮釋權威落差"
+    },
+    {
+      "id": "care_welfare_gap",
+      "label": "Welfare unresolved",
+      "zh": "福祉與同意未決"
+    },
+    {
+      "id": "afterlife_gap",
+      "label": "Undocumented afterlife",
+      "zh": "後續維護缺失"
+    },
+    {
+      "id": "everyday_invisibility",
+      "label": "Everyday invisibility",
+      "zh": "日常視而不見"
+    }
+  ],
+  "rq2": [
+    {
+      "id": "inviting_attention",
+      "label": "Inviting attention",
+      "zh": "引發注意"
+    },
+    {
+      "id": "composing_publics",
+      "label": "Composing publics",
+      "zh": "組構公眾"
+    },
+    {
+      "id": "translating_embodying",
+      "label": "Translating and embodying",
+      "zh": "轉譯與具身"
+    },
+    {
+      "id": "routing_to_action",
+      "label": "Routing to action",
+      "zh": "導向行動"
+    },
+    {
+      "id": "transmission_afterlives",
+      "label": "Transmission and afterlives",
+      "zh": "傳播與延續"
+    },
+    {
+      "id": "accountable_mediation",
+      "label": "Accountable mediation",
+      "zh": "負責任的中介"
+    },
+    {
+      "id": "living_media",
+      "label": "Living media",
+      "zh": "活體媒材"
+    },
+    {
+      "id": "data_sensing",
+      "label": "Data and sensing",
+      "zh": "數據與感測"
+    },
+    {
+      "id": "narrative_fiction",
+      "label": "Narrative and fiction",
+      "zh": "敘事與虛構"
+    }
+  ],
+  "rq3": [
+    {
+      "id": "invitation_vs_recentering",
+      "label": "Invitation vs recentering",
+      "zh": "邀請與再人類中心"
+    },
+    {
+      "id": "legibility_vs_alterity",
+      "label": "Legibility vs alterity",
+      "zh": "可讀性與他異性"
+    },
+    {
+      "id": "mobilisation_vs_paternalism",
+      "label": "Mobilisation vs paternalism",
+      "zh": "動員與家長主義"
+    },
+    {
+      "id": "circulation_vs_accountability",
+      "label": "Circulation vs accountability",
+      "zh": "流通與問責"
+    },
+    {
+      "id": "welfare_instrumentalisation",
+      "label": "Welfare and instrumentalisation",
+      "zh": "福祉與工具化"
+    },
+    {
+      "id": "appropriation_authority",
+      "label": "Appropriation and authority",
+      "zh": "挪用與發言權"
+    },
+    {
+      "id": "access_exclusion",
+      "label": "Access and exclusion",
+      "zh": "可及性與排除"
+    },
+    {
+      "id": "impact_overclaim",
+      "label": "Impact overclaim",
+      "zh": "影響力誇大"
+    },
+    {
+      "id": "platform_institution_dependence",
+      "label": "Platform dependence",
+      "zh": "平台與制度依賴"
+    }
+  ]
+}
